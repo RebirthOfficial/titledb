@@ -28,7 +28,8 @@
         "size": 733806592,
         "md5": "aab5edb6c87819ed6740b9f685981c82",
         "sha1": "2663d782e7efea9d3977ba82f8d958259ab4c7f0",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "ASIA"
     },
     "F44D317823A132CC91E84DA9BBE26EB3": {
         "name": "007 - Russia Yori Ai o Komete (Japan)",
@@ -102,7 +103,7 @@
         "size": 1510965248,
         "md5": "07c9ad9921f9c2e1bb34613655589357",
         "sha1": "816893203df5ce5b655916e57d2e4e1e3667d95f",
-        "region": "SPA",
+        "region": "EUR",
         "system": "PSP"
     },
     "0A53538C5A02D0C2F910E258EB30A9A3": {
@@ -110,7 +111,7 @@
         "size": 1671331840,
         "md5": "0a53538c5a02d0c2f910e258eb30a9a3",
         "sha1": "11038706a8f5aa2f361049dae772a9aa7e68da86",
-        "region": "GER",
+        "region": "EUR",
         "system": "PSP"
     },
     "E32EF0B6277FE33BE328B79087CAE0B6": {
@@ -298,7 +299,8 @@
         "md5": "ea292930f6785c7faf93a46396a29f05",
         "sha1": "0c5ab4cb4bc4590a512a9f4f72c8e0f652f384c7",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "E86516C3815574402622E9E9A849E70A": {
         "name": "Ace Combat X - Skies of Deception (USA)",
@@ -428,7 +430,7 @@
         "size": 427851776,
         "md5": "2c6da8d3b81d6ac5c9df1b2dac23eb5f",
         "sha1": "c3a9430b75dc1dc42d9a87d1ad6b6fe9db918280",
-        "region": "AUS",
+        "region": "EUR",
         "status": "verified",
         "system": "PSP"
     },
@@ -469,7 +471,8 @@
         "size": 24936448,
         "md5": "b8484c43950c811f87f6434f74ee10da",
         "sha1": "3a34c00dbf2b2f27e73d3ec39d38ab4e0d334a19",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "25F033D837C3F84748B96097B8B24895": {
         "name": "AIR (Japan) (v1.02)",
@@ -780,7 +783,7 @@
         "size": 346357760,
         "md5": "d0b9d1483ef4bb925d19f9d73a564179",
         "sha1": "dceb7062c65c2f762ec6db83e803ac31970fab4e",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "DDB05D3CCD9006AD079F802E31117895": {
@@ -814,7 +817,8 @@
         "size": 749142016,
         "md5": "6a585f68939783d38dbf1a6261fb2aab",
         "sha1": "df2fe4ff772cc0ebb2c375f3df8caf6e1cc2007a",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "47FA9309E622120E0122E9ACCE26F9E8": {
         "name": "SaruGetYou P! (Korea)",
@@ -928,7 +932,8 @@
         "size": 842006528,
         "md5": "7ab2f99e71b09a828c12c80ad6756bbe",
         "sha1": "74069fffca10d0469a893f8a4d7d83193f1c1b5e",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "7E3A417D023643845EFD2CAFB81DBF9C": {
         "name": "Armored Core - Formula Front (Korea) (v1.02)",
@@ -1017,7 +1022,7 @@
         "size": 1796014080,
         "md5": "8534d2eee8c63c9cf999fcf3e8a961d0",
         "sha1": "9eb42368f857f5a5dd696ac1eeb0398f56759062",
-        "region": "SWE",
+        "region": "EUR",
         "status": "verified",
         "system": "PSP"
     },
@@ -1026,7 +1031,7 @@
         "size": 1496154112,
         "md5": "501e05e86c526672f357413555a09925",
         "sha1": "723ac0ed53040c66ff7b0f43a9926920acab4996",
-        "region": "ITA",
+        "region": "EUR",
         "system": "PSP"
     },
     "9F77329ECE31D3F43CDAEF6A1EFCBBDF": {
@@ -1175,7 +1180,8 @@
         "size": 259325952,
         "md5": "74cc27b5cf74e69d174508391c8c9de3",
         "sha1": "d219991e71a96a47ef0aac0caf28005334de72f5",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "28DEC59EE4A4697490EE192F4903550E": {
         "name": "ATV Offroad Fury Pro (USA)",
@@ -1239,7 +1245,8 @@
         "md5": "049aaf8f7cccb3dd093ddd346ccc5211",
         "sha1": "a6833890c90997993a17e46c72b737939ea10c5b",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "6297F694D21C39C79EEBD323F8822EFC": {
         "name": "B-Boy (USA) (v1.01)",
@@ -1408,7 +1415,8 @@
         "size": 673284096,
         "md5": "29240bc422185d3c945c9df000967e9a",
         "sha1": "48db75e14e809fc4b6e0dc024d2bb6aa220e4115",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "72D440E12AF4B6CBEDD8D245A295D333": {
         "name": "Ben 10 - Ultimate Alien - Cosmic Destruction (Europe) (En,Fr,De,Es,It) (v1.01)",
@@ -1472,7 +1480,8 @@
         "size": 1605632,
         "md5": "ab3c6b0874a62bd79fa467bf6559dead",
         "sha1": "d0166553d97cca2e9106ff2b4a64b1932afa93b7",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "99E78A102BD472A005FE8FAA51B1641E": {
         "name": "Bigs 2, The (USA)",
@@ -1535,7 +1544,7 @@
         "size": 265717760,
         "md5": "6addd629e18ff7139a2ed8128a6e85f7",
         "sha1": "55fc7cee3a4cd71886f5be2486774d5955704cea",
-        "region": "ASI",
+        "region": "ASIA",
         "status": "baddump",
         "system": "PSP"
     },
@@ -1610,7 +1619,7 @@
         "size": 1651834880,
         "md5": "7ac8c8bff3408a0b61e2cad92bd6b6b5",
         "sha1": "ac0bba46a1283f92bc3441f9dbb9f757b6006540",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "6A759F27B03F1133D6CD2C0818F954FA": {
@@ -1700,7 +1709,7 @@
         "size": 645660672,
         "md5": "3cfb7f175f633550308d6749052c9a0b",
         "sha1": "b9947ad8bf4c5a24b2dd0e3617e837f9cc345686",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "B31EEEDC05DF9C7889AD6FE29726D3F6": {
@@ -1716,7 +1725,7 @@
         "size": 559153152,
         "md5": "1e8b6e7e4ebe99fe5b725189843fc481",
         "sha1": "9cc52129baad973d72ba11a6b6aad3b1a2187128",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "EF855A0D1EE781BA6A8607C656EBB07D": {
@@ -1732,7 +1741,7 @@
         "size": 646348800,
         "md5": "c2c3a3e3c455960cc9c07d512a66306f",
         "sha1": "f385e60b1d2d234ade729cea20614c11f6acbcd9",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "383E88DFDD884D0585036C78C157D369": {
@@ -1748,7 +1757,7 @@
         "size": 1738244096,
         "md5": "de855aa1a55921da88baf05b1887c5d0",
         "sha1": "e8a206f978e594ce49223855e4c18fd8183749e9",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "407C4CF6525FBBB10DCAB065B7EA0E42": {
@@ -1797,7 +1806,8 @@
         "size": 102334464,
         "md5": "5aac3250f0ccda03224849eac547e3d9",
         "sha1": "e0ac66c205d4d971ff50c60d983105bf01827558",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "1505342956328875B0F8382660008A31": {
         "name": "Blood Bowl (Europe) (En,Fr,De,Es,It) (v1.01)",
@@ -1980,7 +1990,7 @@
         "size": 1149370368,
         "md5": "1332a057682f4cb301f69bac2a9d302c",
         "sha1": "5b8d819d57492599752bc7a478057a88dc480033",
-        "region": "ASI",
+        "region": "ASIA",
         "status": "verified",
         "system": "PSP"
     },
@@ -2187,7 +2197,8 @@
         "md5": "99f4d2c56b1bbde524496e72c9ba22ca",
         "sha1": "c5217b1a84f02069260f76976ed0a56b79e64331",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "4577A0A3B8A210ED689075151CEBA97B": {
         "name": "Burnout Legends (Europe) (En,Fr,De,Es,It,Nl) (v2.00) (Platinum)",
@@ -2210,7 +2221,8 @@
         "size": 505905152,
         "md5": "0d41a20d6d3363800bb70870d4cdafa7",
         "sha1": "aff5ae33a7c1e3af919719453e4eb3c8e91e701b",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "810DB28D105AA3927CD2D0503410F318": {
         "name": "Burnout Legends (Korea) (v1.01)",
@@ -2233,14 +2245,16 @@
         "size": 500301824,
         "md5": "bb248d1d68ffee3c57299faea3387fa7",
         "sha1": "a8a00e2c6590896735e007102eefba39ba887161",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "5D7B7ED3EAC932754FA51A4AB23338A1": {
         "name": "Burnout Legends (Europe) (En,Fr,De,Es,It) (v1.01)",
         "size": 500301824,
         "md5": "5d7b7ed3eac932754fa51a4ab23338a1",
         "sha1": "a0401cfa12ce00109dd6759bbaa2aa7bea908458",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "A80492FF2D6140AD4CD5736788625A52": {
         "name": "Burst Error - Eve the First (Japan) (v1.02)",
@@ -2304,7 +2318,7 @@
         "size": 472121344,
         "md5": "a5469f4d073c2ba3976f9b18b1643abb",
         "sha1": "7106e3ac21d8186de929af2a39fb485cb9da59c5",
-        "region": "SWE",
+        "region": "EUR",
         "system": "PSP"
     },
     "E5C1544B4FCC5BF15EE04C41DAC0FB04": {
@@ -2345,14 +2359,15 @@
         "size": 1507426304,
         "md5": "b5d0a74481dc879a385d785edf937307",
         "sha1": "060b7637200d702c7d8418ffa8eb628b14f38def",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "5F2858E0EDA00BC01CD0F17C24D300A5": {
         "name": "Buzz! De Slimste van Nederland (Netherlands) (v1.01)",
         "size": 836403200,
         "md5": "5f2858e0eda00bc01cd0f17c24d300a5",
         "sha1": "8f4f3905d1f56f5b37c5477aaccd94757fdd914b",
-        "region": "HOL",
+        "region": "NL",
         "status": "verified",
         "system": "PSP"
     },
@@ -2377,7 +2392,7 @@
         "size": 1582497792,
         "md5": "6981fccd253df4fed71fdfda7b0875fd",
         "sha1": "b1e014bf8f13d41f45d394729f373005cdaed790",
-        "region": "HOL",
+        "region": "EUR",
         "system": "PSP"
     },
     "D7B03817E8BD49E79B50B388BF3AB75A": {
@@ -2393,7 +2408,7 @@
         "size": 1623654400,
         "md5": "f715503086df4f64103576a31a020500",
         "sha1": "f07cfe126f2bb089b9fd2d08d1af4c03d739fdd9",
-        "region": "HUN",
+        "region": "EUR",
         "status": "verified",
         "system": "PSP"
     },
@@ -2410,7 +2425,7 @@
         "size": 1580793856,
         "md5": "17db7d4bfd7f7f7c4a2152992a602a49",
         "sha1": "ec28998d915cd6309c8bb95bd6f0c21fd5c50ca8",
-        "region": "RUS",
+        "region": "EUR",
         "system": "PSP"
     },
     "EF3CBE28A1575108B89F339A5E088A22": {
@@ -2418,7 +2433,7 @@
         "size": 1528004608,
         "md5": "ef3cbe28a1575108b89f339a5e088a22",
         "sha1": "70a0c67a190c9fd3fd6e7c02d7479a050150ae12",
-        "region": "SWE",
+        "region": "EUR",
         "system": "PSP"
     },
     "F45F0BF2EF335A3004E0B9631EDA47CD": {
@@ -2443,7 +2458,7 @@
         "size": 1486487552,
         "md5": "d5db1181df46e25d9b00b59fc09ecc0e",
         "sha1": "8190834e01e9827979cdfd722c511885a7edc772",
-        "region": "NOR",
+        "region": "EUR",
         "system": "PSP"
     },
     "B08BC75DFC8155183AAB730AE493B880": {
@@ -2451,7 +2466,7 @@
         "size": 1497890816,
         "md5": "b08bc75dfc8155183aab730ae493b880",
         "sha1": "ea1a3885240c26ea001cb9c9b703a618995001a6",
-        "region": "HUN",
+        "region": "EUR",
         "status": "verified",
         "system": "PSP"
     },
@@ -2460,7 +2475,7 @@
         "size": 1517420544,
         "md5": "22e5f94dc718303c56b34f6720d8198b",
         "sha1": "7a94e35faaad5f566ad228764cdd243d77a18bab",
-        "region": "ITA",
+        "region": "EUR",
         "system": "PSP"
     },
     "CEFE955161977B7435449C783231834C": {
@@ -2477,7 +2492,7 @@
         "size": 1501069312,
         "md5": "1af1c4c75408027efbf30f31f558f9bc",
         "sha1": "7bda74e645c80613c29745a3ee72c893dbf95294",
-        "region": "SPA",
+        "region": "EUR",
         "system": "PSP"
     },
     "7D80429D0B9481C0497ADD93684FBC8E": {
@@ -2485,7 +2500,7 @@
         "size": 1442086912,
         "md5": "7d80429d0b9481c0497add93684fbc8e",
         "sha1": "9ab62fd9f4f48a04765111a45294d4ad3fab1603",
-        "region": "SWE",
+        "region": "EUR",
         "system": "PSP"
     },
     "B952E78012C963681B507AAD09523717": {
@@ -2503,14 +2518,15 @@
         "md5": "f829a6893fbe470dac05b8f14ad8d14d",
         "sha1": "50f85f1bb775520c32c6e30e6de30bfa512184ee",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "633AE00E7C0450A48513CC116C0AB08E": {
         "name": "Buzz! Quiz World (Europe) (De,It)",
         "size": 1776091136,
         "md5": "633ae00e7c0450a48513cc116c0ab08e",
         "sha1": "483d834385db9885f5e23b93cccb5f41ba08934f",
-        "region": "ITA",
+        "region": "EUR",
         "system": "PSP"
     },
     "4457AE09514B06B1A66F6FD6F746C227": {
@@ -2518,7 +2534,7 @@
         "size": 1604321280,
         "md5": "4457ae09514b06b1a66f6fd6f746c227",
         "sha1": "68d370a44e7ec613b6e04201c33be16f81c58d0f",
-        "region": "FRA",
+        "region": "EUR",
         "system": "PSP"
     },
     "8C30990DB71D71017F66B137519BF29C": {
@@ -2526,7 +2542,7 @@
         "size": 1699446784,
         "md5": "8c30990db71d71017f66b137519bf29c",
         "sha1": "5135a4fdebdadb8c0cd56d9c11551d7975ad7a94",
-        "region": "HUN",
+        "region": "EUR",
         "status": "verified",
         "system": "PSP"
     },
@@ -2535,7 +2551,7 @@
         "size": 1591050240,
         "md5": "5ceddc5ec2b7d9055ec710c716ead9e9",
         "sha1": "f75997519f591d50c65202f3658bedabdccdbff2",
-        "region": "SPA",
+        "region": "EUR",
         "system": "PSP"
     },
     "9C76EAB8B8B907630D74E4DC9A1D5BF2": {
@@ -2543,7 +2559,7 @@
         "size": 1485275136,
         "md5": "9c76eab8b8b907630d74e4dc9a1d5bf2",
         "sha1": "36d087a3dafec665520692fd5dceb12fef078186",
-        "region": "RUS",
+        "region": "EUR",
         "system": "PSP"
     },
     "8E87D2509FEEC6B8C85B87B089E2A4D7": {
@@ -2551,7 +2567,7 @@
         "size": 1500413952,
         "md5": "8e87d2509feec6b8c85b87b089e2a4d7",
         "sha1": "510d8c17a7adee08f6261cf8de28a097c2cfcc09",
-        "region": "SWE",
+        "region": "EUR",
         "system": "PSP"
     },
     "91F41C14544968DC21DAE3A54536B19F": {
@@ -2576,7 +2592,7 @@
         "size": 1021378560,
         "md5": "6439d82c5dee4960bd04a27ed9f4dfc4",
         "sha1": "f26c2affde9ce661c0bff998eaaa712a4e738bbe",
-        "region": "ITA",
+        "region": "EUR",
         "system": "PSP"
     },
     "B3E96AAD70B57A27CC1FC146C7AD4B1E": {
@@ -2584,7 +2600,7 @@
         "size": 917274624,
         "md5": "b3e96aad70b57a27cc1fc146c7ad4b1e",
         "sha1": "221e3da6d925b0f5504c879658d44bbf50d6ba7a",
-        "region": "SWE",
+        "region": "EUR",
         "system": "PSP"
     },
     "27A357F260E0665A9421DFC2E716FEB5": {
@@ -2592,7 +2608,8 @@
         "size": 946241536,
         "md5": "27a357f260e0665a9421dfc2e716feb5",
         "sha1": "39682c8091413efaf6f37f873d32736443b95881",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "E004D555EA2CF2820FAEA1C9D0F92D6E": {
         "name": "Buzz! The Ultimate Music Quiz (Europe, Australia) (v1.02)",
@@ -2731,7 +2748,7 @@
         "size": 571965440,
         "md5": "0864c87cffc27effed9b8b44fa6754bd",
         "sha1": "32264269bdf18db2c92e406440a85add28c932b8",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "1CC687A0B91AE38A0AC0EF3EB6D72729": {
@@ -2836,7 +2853,8 @@
         "size": 906362880,
         "md5": "5f0e1dded297c060fdf53e41baa8d696",
         "sha1": "72b4f400503567ac14853c1567b5a4d30419783f",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "POR"
     },
     "AF19F923D91AD39556483376FEA00BB5": {
         "name": "Cars (Japan) (v1.01)",
@@ -2899,7 +2917,7 @@
         "size": 906362880,
         "md5": "a44edff8de342f36a580819eb544527e",
         "sha1": "c0176de769c85b1e25f8ecf3aeb50a491d6bf84d",
-        "region": "HOL",
+        "region": "NL",
         "system": "PSP"
     },
     "7A28F0550C243E5A9BF3435994C626F0": {
@@ -2975,7 +2993,8 @@
         "md5": "0869da1ede90ecc7830998075b4f8c7c",
         "sha1": "9777868cbe37a55dd43e97d82fb75e6645d0a579",
         "status": "baddump",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "108298D969845E99579DC87D9C9E911A": {
         "name": "Championship Manager (Europe) (v1.02)",
@@ -3180,7 +3199,8 @@
         "size": 333381632,
         "md5": "16193ef44611dfc8ab3ee43ae2cb1bb2",
         "sha1": "e5f3d6bdd03412ed5eaa183ce37c3ace9fa2da98",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "DAB2697A0533D48698904BC30370859D": {
         "name": "Ken to Mahou to Gakuen Mono. (Japan) (v1.01) (PSP The Best)",
@@ -3203,7 +3223,8 @@
         "size": 659095552,
         "md5": "2911a7e3e099ce1d861173de5cd00288",
         "sha1": "398e74a6e39104fff91230473d17f5d54e942f3d",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "06B6728B097D3AAA54186A910BAD1283": {
         "name": "Ken to Mahou to Gakuen Mono. 2 (Japan) (v1.01) (PSP The Best)",
@@ -3284,7 +3305,8 @@
         "md5": "8c67fe6a44b5da33094769f638bb64cf",
         "sha1": "1d1a361830cc860bc50e6691f9a6b73e160ae985",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "5C84E8B7C7B0D9196AE077F1081A6415": {
         "name": "Code Geass - Hangyaku no Lelouch - Lost Colors (Japan) (v1.01)",
@@ -3325,7 +3347,7 @@
         "size": 183631872,
         "md5": "e8ddef9c373c36fe8e5535abfafd50b0",
         "sha1": "34ac6016378ef8a743406d4e266618a1158d8f43",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "E955853939A2EB65DA516083D1FEAD72": {
@@ -3366,7 +3388,7 @@
         "size": 547225600,
         "md5": "31938950cc529710008d5e7a8dee467c",
         "sha1": "ada30c1fac9f979718eae6dbb461a5719ca0a5f6",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "5F99C4BF5B2620A0100C1E8C976E72FA": {
@@ -3399,7 +3421,7 @@
         "size": 387776512,
         "md5": "a08e7a6f66cdb23f535e22d55c326251",
         "sha1": "dc29244fa7ba0cec45576238ea0d2c38586ee985",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "11BDD583C984C4A2ABE2080E1041941E": {
@@ -3531,7 +3553,8 @@
         "md5": "facfc10785bfdf4116b725043c59fde0",
         "sha1": "4b710a93c59f4050b431612742e3bd5c673fce16",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "SPA"
     },
     "8828E4398C5FB9E8F02028E00887248F": {
         "name": "Gamble Con Fight (Japan) (v1.01)",
@@ -3622,7 +3645,7 @@
         "size": 1616805888,
         "md5": "ab5c34933d3e4ab6fe89b469e39afbb4",
         "sha1": "b90930b25e706b3758c52d917d91d6dcae26e14f",
-        "region": "RUS",
+        "region": "EUR",
         "system": "PSP"
     },
     "8D1301828AF3505C7A17304CB0FBCD1E": {
@@ -3630,7 +3653,7 @@
         "size": 1574895616,
         "md5": "8d1301828af3505c7a17304cb0fbcd1e",
         "sha1": "6516cf53bb9852f52f882e52fbfcc7dde818335e",
-        "region": "FRA",
+        "region": "EUR",
         "system": "PSP"
     },
     "E28B3E54E65F20610880BE1BF58F7684": {
@@ -3638,7 +3661,7 @@
         "size": 1576894464,
         "md5": "e28b3e54e65f20610880be1bf58f7684",
         "sha1": "d54aaf8d6c63c4ea32f7d83ae1a57105f10b9c7f",
-        "region": "SPA",
+        "region": "EUR",
         "system": "PSP"
     },
     "3FDA77C22AA34047F23CD34A5F8EF48D": {
@@ -3671,7 +3694,7 @@
         "size": 1078001664,
         "md5": "e90834233afce27886a2a4fa52eb0ebb",
         "sha1": "a534507b407a1a7b656e45de16e970d8177117f4",
-        "region": "SPA",
+        "region": "EUR",
         "status": "verified",
         "system": "PSP"
     },
@@ -3680,7 +3703,7 @@
         "size": 1116438528,
         "md5": "f8dec4a587a92a0fc55469e00c6892d4",
         "sha1": "5ffc378168f69f351c8c919d85049949c0352393",
-        "region": "RUS",
+        "region": "EUR",
         "system": "PSP"
     },
     "FBD6371A417F74AAC12A33C462EBC5EC": {
@@ -3745,7 +3768,8 @@
         "size": 1540587520,
         "md5": "064fadeef79bb5406cabce8fa345e6f5",
         "sha1": "f9ba7e18e5f69c5d2beb50ea9d0b50bc4852c417",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "NL"
     },
     "F572E2D7F536145AF3392FFBB98638E3": {
         "name": "Crazy Taxi - Fare Wars (Europe) (En,Fr,De,Es,It)",
@@ -3768,7 +3792,8 @@
         "size": 906330112,
         "md5": "61a631a2e65b7ee207e009d4682475aa",
         "sha1": "80339d49f393951d62da523158ea351532aa6be7",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "B41E4E22EDC69B9B4DD09133C0A1A947": {
         "name": "Crazy Taxi - Fare Wars (USA) (En,Fr,De,Es,It) (v2.01)",
@@ -3824,7 +3849,7 @@
         "size": 872644608,
         "md5": "818e6e2911c7d4d824e2a19edf7e3d6b",
         "sha1": "ffe9f0851a175dbfc3a6df8299e98aa6fb25fc8e",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "7D69260769626DDB1C53D64443BE21F1": {
@@ -3858,7 +3883,8 @@
         "md5": "a838139a3b5982de651d4104f7aa0bcb",
         "sha1": "96ba56dd9456a8e5876c7c7c78c7c1d3965521ad",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "372C5CC9DE7EDF00A853E142889A15FD": {
         "name": "Crisis Core - Final Fantasy VII (Japan) (v1.01) (10th Anniversary Limited Edition)",
@@ -3916,7 +3942,7 @@
         "size": 1716715520,
         "md5": "600e128107606f784bc50ea45c4f5d91",
         "sha1": "a376aa0b0f62baba8ecbdceb9b60fdc38566d847",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "6DF9455117EB0BFA74FA00EE9C22941D": {
@@ -4135,7 +4161,8 @@
         "size": 1801584640,
         "md5": "e653e69da189d9acd71c598297ff5e31",
         "sha1": "fdf4875a5e4b631579db18512a12468469fc3b74",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "D65A1325E540AC50A04CD3BBA2C6CE45": {
         "name": "Dante's Inferno (Europe)",
@@ -4191,7 +4218,8 @@
         "size": 1812725760,
         "md5": "5097dc438dcc62e27afff249eade120d",
         "sha1": "88ca8b3e4b8db6fa2f71661f845850b3dfbbde5b",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "ASIA"
     },
     "4ACD97335B47152814AD233A1757106D": {
         "name": "Dante's Inferno - Shinkyoku Jigoku-Hen (Japan) (v1.01)",
@@ -4289,7 +4317,8 @@
         "size": 186580992,
         "md5": "9d8c127fd918b9f02a3db0698330b97c",
         "sha1": "8c9817da13718ca64f96cf3ed1fee30c2cb6e60a",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "31196FC90E63204CBF4DC9063C4CE4D8": {
         "name": "Daxter (Europe) (En,Fr,De,Es,It,Ko) (Beta) (2006-02-10) [b]",
@@ -4297,7 +4326,8 @@
         "md5": "31196fc90e63204cbf4dc9063c4ce4d8",
         "sha1": "0de00a0b2eb1b4401906881eeae92601e1e140e9",
         "status": "baddump",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "4BB46A48ED046F4A916944CFDE1797EF": {
         "name": "Dead End - Orchestral Manoeuvres in the Dead End (Japan) (v1.04)",
@@ -4320,7 +4350,8 @@
         "size": 373096448,
         "md5": "79d89cc46fdf679642334db3e0c3cf7e",
         "sha1": "20fd7ddf95a5dc6a234d4da4e6976a272770ae32",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "FD83BB0B7C73856EF6DF68674406A5CD": {
         "name": "Dead Head Fred (USA) (v1.02)",
@@ -4336,14 +4367,16 @@
         "size": 1771124736,
         "md5": "a541ac349b138968ba28dad741332992",
         "sha1": "f040c6100c19498cd447425fac8df2a0b304d7ec",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "18E3033A913C9D2E98575581147EB388": {
         "name": "Dead Head Fred (Asia) (En)",
         "size": 1407123456,
         "md5": "18e3033a913c9d2e98575581147eb388",
         "sha1": "1eaa05faf5a82aa328f487cbc9acc595b5a4e105",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "ASIA"
     },
     "1DD862159FF19975B81C6494EE7B9974": {
         "name": "Dead Head Fred - Kubinashi Tantei no Akumu (Japan) (v1.03)",
@@ -4375,7 +4408,8 @@
         "size": 870121472,
         "md5": "26ec0ebaa5edb50152522022d6cd7efb",
         "sha1": "6f9afc06f8cd4d6428b38c1bc648a3da2d212e79",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "7AD8A8996F7FBF4CCDBAB066A91D662B": {
         "name": "Dead or Alive - Paradise (USA) (v1.01)",
@@ -4646,7 +4680,7 @@
         "size": 969801728,
         "md5": "f24df376f8e454c35e36aa809e87d6e0",
         "sha1": "5c10497368c9e7b7500ff597c1a145ec21b11b70",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "596F29C8CCF25D2304B215AF00E4EC84": {
@@ -4654,7 +4688,7 @@
         "size": 1589706752,
         "md5": "596f29c8ccf25d2304b215af00e4ec84",
         "sha1": "ec16e02593154f7169f9f0e644528ab477cb0212",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "471DB350A897FF88736107ABD2C16B29": {
@@ -4662,7 +4696,8 @@
         "size": 903380992,
         "md5": "471db350a897ff88736107abd2c16b29",
         "sha1": "cad0393514758f6ba04065bc9e231719d42277a6",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "9190C70C4E936831FAD6B7DAE518A6FE": {
         "name": "Makai Senki Disgaea Portable (Japan) (v1.01) (Shokai Genteiban)",
@@ -4745,7 +4780,7 @@
         "size": 1646657536,
         "md5": "e6d42cdacf259f6f98134b5e8ea8970d",
         "sha1": "d2b0b03c8eb22ed4e6d1e02e05144fedd7332425",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "8D762BCCAFD15CA1663558C8686E4EC1": {
@@ -4753,7 +4788,8 @@
         "size": 130633728,
         "md5": "8d762bccafd15ca1663558c8686e4ec1",
         "sha1": "efeb6ea192e915970a565b822988839ddeec1bf3",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "6166FB999E7A0C34044FA7E865D0E270": {
         "name": "Dissidia - Final Fantasy (USA)",
@@ -4793,7 +4829,7 @@
         "size": 1752170496,
         "md5": "10f1d1523c66b3edc11a2fba1bf9d95e",
         "sha1": "36b5e435df120f9270323922c2901d7c9b0bab20",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "23EAB344691EF0A86FDC65D738AD51E5": {
@@ -4825,7 +4861,8 @@
         "size": 1756639232,
         "md5": "330ad9b32a6723fe2198f7a58377f4ad",
         "sha1": "76fe3400be4f4edf690681e00a4a3b39540d80b7",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "KOR"
     },
     "9D31B047B28B686D3E19FA90620B1F9E": {
         "name": "DJ Max Fever (USA) (v1.03)",
@@ -4848,7 +4885,8 @@
         "size": 1521451008,
         "md5": "48319da34ed98f85a91720cb82d6d6f3",
         "sha1": "80ef0d02e296acf09cba18cee4ac37566b07377c",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "KOR"
     },
     "DBEC6A2A2A5A352F352281DA725F5950": {
         "name": "DJ Max Portable - Black Square (Japan) (v1.01)",
@@ -4920,7 +4958,8 @@
         "size": 801046528,
         "md5": "b5408949427dc13bc213cee88feaccc8",
         "sha1": "7de8116d8226ef680630c7546d62ccb8d411583a",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "6D4A0B6E7F17999E394B441D51CEF09D": {
         "name": "Doki Doki Suikoden (Japan) (v1.02)",
@@ -4983,7 +5022,8 @@
         "size": 64421888,
         "md5": "978b380ed16be242fbeca0c61ef02ff4",
         "sha1": "ab982caa9c567a49ecb39972df692627004f4bfb",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "E7AA12FDB4D06A0389F7D80630578065": {
         "name": "Dora-Slot - Oki-Slot-Ou! Pioneer 12 (Japan) (v1.04)",
@@ -5049,7 +5089,7 @@
         "size": 394821632,
         "md5": "460b183e9e029e94ce79c5198589f5a2",
         "sha1": "8f7c4c6a3ade9893c50fb52234429d8823551074",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "7C8E04B66CB2E4C3473CB1427A614F71": {
@@ -5098,7 +5138,8 @@
         "size": 508559360,
         "md5": "b3120d1f94c4eba637c9fe8bd5b02bd3",
         "sha1": "d75717f89f5f280ff8d34a68a1dbe8835812759d",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "AD070DFEC1ED0B4B4D963B3D731AE2FF": {
         "name": "Dragon Ball Z - Shin Budokai Another Road (USA)",
@@ -5170,7 +5211,7 @@
         "size": 388104192,
         "md5": "d3760de9b531bd0a3e20b1359091be8d",
         "sha1": "e0c19be27387577f7a2de030dd5f0c5dd7321bc4",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "E0434A6965E073C3CE28C351DDAE0586": {
@@ -5406,7 +5447,7 @@
         "size": 1046052864,
         "md5": "3e91740707857ee12ed8f2800e0648fd",
         "sha1": "d24f7a14e3e0add12b7dc4f786863189fb9bedbe",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "5EE2D615C1F86639DC59781AF8F8D504": {
@@ -5463,7 +5504,7 @@
         "size": 345407488,
         "md5": "ea0925f5b718c25c0cecedc2ab7ea5c0",
         "sha1": "bec685d631b286bc225773a82841ad6553c5f335",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "F0CBF43214210E3946BA3EDFD87C572D": {
@@ -5497,7 +5538,8 @@
         "md5": "3db4104467841e90f44f158d0b1aa253",
         "sha1": "4bc8db60f742d8ab8d29c4e7eb0cc04852884cae",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "20A929B7031130E2D8D2E7AC2C29C937": {
         "name": "EA Replay (Europe) (En,De,Es,It,Nl) (v1.02)",
@@ -5537,14 +5579,15 @@
         "size": 195690496,
         "md5": "81df3cb483951582f6dc98e8bcd93383",
         "sha1": "d07c62040d59e8b8dbfcb02e0b684909c9aa0a7f",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "01CD845F04C203DCAC57A2D75037E3DA": {
         "name": "Echochrome - Mugen Kairou (Asia) (En,Zh,Ko)",
         "size": 290652160,
         "md5": "01cd845f04c203dcac57a2d75037e3da",
         "sha1": "021fffd5ec755116289f7f8f5d7f325c73e95b43",
-        "region": "ASI",
+        "region": "ASIA",
         "status": "verified",
         "system": "PSP"
     },
@@ -5569,7 +5612,8 @@
         "size": 309854208,
         "md5": "68ede9b7094f78e54b249f0efe29ad8f",
         "sha1": "e5ac5eef6cb500d7b7d3bd4e51a55f912013e62d",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "20C3F40624F582F2D6C2B59CC0F09D82": {
         "name": "Jigen Kairou (Japan)",
@@ -5833,14 +5877,15 @@
         "md5": "5bcbe48b621d0ff34d89a3721efc92b0",
         "sha1": "e47f36bbacab9a2fa0052d806378ca829eb2d91c",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "5ED0D927E31542473168D75DE021C71F": {
         "name": "Hot Shots Golf - Open Tee (Asia) (En)",
         "size": 459702272,
         "md5": "5ed0d927e31542473168d75de021c71f",
         "sha1": "eb1bdde7fc0b0c6e84b4d85000374971b7b37e46",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "020C88B8B054C6827FE4A78FA75945C9": {
@@ -5866,7 +5911,8 @@
         "size": 450723840,
         "md5": "9964a8b7e347836162674cb70a44b66c",
         "sha1": "b326e86f77f82af1c4b6633a07d8a2ac80352783",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "91471AE69F544651F035D02982464F8F": {
         "name": "Everybody's Golf 2 (Europe) (En,Fr,De,Es,It)",
@@ -5881,7 +5927,7 @@
         "size": 942899200,
         "md5": "de907db7e8601a179bbaafeab3961029",
         "sha1": "4fc38bafc074facc6073eda1f01eacad08726c66",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "05B30707F85A5D5364F4F37ECCBE973A": {
@@ -5890,7 +5936,8 @@
         "md5": "05b30707f85a5d5364f4f37eccbe973a",
         "sha1": "38c5aa36b51652656a7a62b715b548aa7e64fc46",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "DA3EF46ACB08CCBBDB307A67ED5BFCAA": {
         "name": "Hot Shots Golf - Open Tee 2 (USA) (FW3.96)",
@@ -5906,7 +5953,8 @@
         "md5": "bd2b147a3f7b512841d2f19804d5c4b8",
         "sha1": "f53b60d5d77fa9c31bc24a7d582e9da0ae1ecb7d",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "7C94CCB94B3BB336095AF3DE0FD912CB": {
         "name": "Minna no Golf Portable 2 (Japan) (v1.09)",
@@ -5931,7 +5979,7 @@
         "size": 1278509056,
         "md5": "b0045b9be7ea8e1f76ec6aa7563d005f",
         "sha1": "f3ac42043b1640997bdd08f4ae521e00fc51a553",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "CE105D010FA0C4483A823146850E5E45": {
@@ -6023,7 +6071,8 @@
         "size": 877559808,
         "md5": "1e8f4b60267b3a4ea03a851e87f26870",
         "sha1": "ddbcd220ae53a6cbce18131198c6bfd17458faed",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "A56941D7F55638024A9D7491F08AE104": {
         "name": "EyePet (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru) (v1.01)",
@@ -6099,7 +6148,8 @@
         "md5": "2d77b3c671c8d2a012a5a29bc5c70bc6",
         "sha1": "46bdb0b7745b5bc620bffbec2643d4bad2e9a9ab",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "8092292E476CCF460C2C27F3B31F2287": {
         "name": "Formula One 2005 Portable (Japan) (v1.01)",
@@ -6179,7 +6229,8 @@
         "size": 1201176576,
         "md5": "b00f6011bae07060a1885a5d114565ad",
         "sha1": "6bc83549d9ffbb82f67e5c2561f3ee0f3fa34fe9",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "6B32F8B8D2CDBE1BFECA66926D3A1A15": {
         "name": "FamiTsu PSP Vol.12 Tokubetsu Furoku - Irem Taikenban Shuu 2008 Shunki Tokubetsugou (Japan) (v1.01) (Demo)",
@@ -6236,7 +6287,7 @@
         "size": 259162112,
         "md5": "7a410855df0093a5b9557198094b4744",
         "sha1": "5d1f9d20721ced72a1142d0c910910d2c56ebe3b",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "E41B33AAFD096BACDFD826C6420ACC76": {
@@ -6421,7 +6472,7 @@
         "size": 1193967616,
         "md5": "d829f2c19526a36fa831cdac0a9d792d",
         "sha1": "e1ba2a12d721a4ca4a599fda6a2b38aaf7ad28b7",
-        "region": "HOL",
+        "region": "NL",
         "system": "PSP"
     },
     "B89FFE15860407AAA889A266FFD229F6": {
@@ -6461,7 +6512,7 @@
         "size": 1622999040,
         "md5": "1f36e4cc7a5ad1175fef20476a527cb6",
         "sha1": "14643519dd528d63cce538ed088ac6d79678f42a",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "8D4724C4BBF2450A9970E2FFAAD0439F": {
@@ -6503,7 +6554,8 @@
         "md5": "04a3c2178bac4f755575a3bac256e9b1",
         "sha1": "759400a37585557264275b0d396f96daf0d957a9",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "POR"
     },
     "52CBB0D163D58AB07DB729AB7C0EE7C7": {
         "name": "FIFA Soccer 08 (USA)",
@@ -6543,7 +6595,7 @@
         "size": 1200586752,
         "md5": "ef5e1d35fb86051f7b56ac66728b0597",
         "sha1": "dc8fc9b12c7feffb3ceca1f975e322da3187c1a5",
-        "region": "HOL",
+        "region": "NL",
         "system": "PSP"
     },
     "48DF09DC921F04AC453EBBF878F610CE": {
@@ -6575,7 +6627,8 @@
         "size": 1310588928,
         "md5": "4574bdfdd0e360f0354e874103a580f4",
         "sha1": "e228a67089a0b1e9f8a56ed56eb352e740579003",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "POR"
     },
     "1345BBD61E4EB297B94D240135316456": {
         "name": "FIFA 09 (Spain)",
@@ -6590,7 +6643,7 @@
         "size": 1708359680,
         "md5": "91c45e0462c1d5978948c7aacdabce46",
         "sha1": "cf9caa0f2f3d0dc0c980eb91c15a8c5b6f631f1b",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "39DE9FE06A4318A78A58CF1CCDB1B9A0": {
@@ -6674,7 +6727,8 @@
         "size": 1381236736,
         "md5": "cc845b0ffa8786f3a4fa0d9645b5f272",
         "sha1": "6b1695b15a130db28d498a9eed7a72da77d58703",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "ASIA"
     },
     "2127E850C3E29BD927C1679EF0EC1842": {
         "name": "FIFA 10 (Europe) (Pl,Cs,Hu)",
@@ -6682,7 +6736,8 @@
         "md5": "2127e850c3e29bd927c1679ef0ec1842",
         "sha1": "67329778a8425da84d6f07bd8d97b784dfe89c2f",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "32EF1B55F4654E49EA98905DC39BF8C7": {
         "name": "FIFA 10 (Netherlands)",
@@ -6690,7 +6745,8 @@
         "md5": "32ef1b55f4654e49ea98905dc39bf8c7",
         "sha1": "7723c17df560578830be2b24fdd172701c867b36",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "NL"
     },
     "6823232DC7565F7D09168D9562E56286": {
         "name": "FIFA 10 - World Class Soccer (Japan) (v1.01)",
@@ -6706,7 +6762,8 @@
         "md5": "acb68354b4549679bd58f1211d1d3311",
         "sha1": "003b278c6ec30adaca8e3257bed4fc6f33cc2d27",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "8D5447F56F609E7E0DF2A769C2AA662B": {
         "name": "FIFA 11 (Europe) (v1.01)",
@@ -6772,21 +6829,24 @@
         "size": 1249050624,
         "md5": "3902486cf4cfd00c5d5e3bfa18a31205",
         "sha1": "1c7909610758eaa1c1c7a7267b82dccd64f2ddf3",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "ITA"
     },
     "4CEA079BBB46E446090467D2F80AD3D5": {
         "name": "FIFA 11 (Netherlands)",
         "size": 1217593344,
         "md5": "4cea079bbb46e446090467d2f80ad3d5",
         "sha1": "0ab05e6bf1d733b72be2129bd9401561e8067d30",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "NL"
     },
     "CEE5C6DF6C04C91EFAABC247380925F7": {
         "name": "FIFA 11 (Portugal)",
         "size": 1334935552,
         "md5": "cee5c6df6c04c91efaabc247380925f7",
         "sha1": "6e46a19a2722ccdaac6f3fbab47c96a8723ba5d3",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "POR"
     },
     "974BCB51D2B6E7C0C3FC7AEA5AE0290F": {
         "name": "FIFA 11 (Russia) (v2.01) (Platinum Edition)",
@@ -6834,7 +6894,8 @@
         "size": 1752334336,
         "md5": "e424fb53f4f682c84422dd440eab45a0",
         "sha1": "c06b50eafecc37aa5de3500f759276f44bbaf554",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "BA7414E06B807CC2F61F9F792368F102": {
         "name": "FIFA 12 (Europe)",
@@ -6883,7 +6944,7 @@
         "size": 1217593344,
         "md5": "f970f5d66cb4b60c733fd2fd71a05a74",
         "sha1": "4b8e0bbde29b65b32414678b93c157a31c913b5e",
-        "region": "HOL",
+        "region": "NL",
         "system": "PSP"
     },
     "03869F663DB27E27AFD0DE47321C4F8A": {
@@ -6891,21 +6952,24 @@
         "size": 1334706176,
         "md5": "03869f663db27e27afd0de47321c4f8a",
         "sha1": "db2f7c5e28032fbc1f3d881926d0b3be60345311",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "POR"
     },
     "FE9B4B304277E1EC247E15A4D7AEEB06": {
         "name": "FIFA 12 (Russia)",
         "size": 1360756736,
         "md5": "fe9b4b304277e1ec247e15a4d7aeeb06",
         "sha1": "41f1d95fe1b9ba02c7aa4bbf2611fe4de730b590",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "RUS"
     },
     "7B7C933E5B0FC58B929E9E90ED54BB8D": {
         "name": "FIFA 12 (Spain)",
         "size": 1327104000,
         "md5": "7b7c933e5b0fc58b929e9e90ed54bb8d",
         "sha1": "9232bb251fbb512227331a3e92579a5ded3c5b10",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "SPA"
     },
     "6F3FF1AC47AC001A923F135B08C1CFE9": {
         "name": "FIFA 12 - World Class Soccer (Japan)",
@@ -6936,7 +7000,8 @@
         "size": 1327136768,
         "md5": "9c6a234f64ac45f9903184e77f16cb7b",
         "sha1": "fa623b7b1f0448fc25f4a1b907d97d33458fffac",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "SPA"
     },
     "3464581459E696916302B4BE1E284019": {
         "name": "FIFA 13 (Germany)",
@@ -6959,14 +7024,15 @@
         "size": 1334738944,
         "md5": "38a9f69de9f659ae5e541d1dd808f290",
         "sha1": "7ad3b723c75e75002e6dcadaac7c5a0e85c55573",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "POR"
     },
     "459199805958D1657FAB2862558D8852": {
         "name": "FIFA 13 (Europe) (En,Es)",
         "size": 1242413056,
         "md5": "459199805958d1657fab2862558d8852",
         "sha1": "295b52356a5e431e94bb6dc99d4c2a867b6adb8c",
-        "region": "SPA",
+        "region": "EUR",
         "system": "PSP"
     },
     "9B9A70B1F2A0D1F142FCD810FC3EED25": {
@@ -6991,14 +7057,16 @@
         "md5": "5479794356e02d80d226c013250eb6c0",
         "sha1": "2540c24e21dc823a212b59c8b562c8de1660347a",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "POL"
     },
     "D8CFAB6B54A06E637D5C6F48E7831B49": {
         "name": "FIFA 13 (Netherlands)",
         "size": 1217626112,
         "md5": "d8cfab6b54a06e637d5c6f48e7831b49",
         "sha1": "e1dc52050465631624ac2b1b9b25b5c59c22a43c",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "NL"
     },
     "3CCB06D8C2597590EF764C9965FBC193": {
         "name": "FIFA 13 - World Class Soccer (Japan)",
@@ -7013,7 +7081,7 @@
         "size": 1666908160,
         "md5": "3ad06d88fb7582ca401b74a93caca48a",
         "sha1": "6132257e5bce616f38ba1539abdbfe35322e07e1",
-        "region": "USA",
+        "region": "ASIA",
         "system": "PSP"
     },
     "72D0F2149F80E31A2FD3BE9841D38ED3": {
@@ -7021,7 +7089,8 @@
         "size": 1666908160,
         "md5": "72d0f2149f80e31a2fd3be9841d38ed3",
         "sha1": "bba382cfd96abb8e121d378f999cce3c3e765051",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "29903C43B51C219F54CE5FD43AC7E0B1": {
         "name": "FIFA 14 (Europe)",
@@ -7037,21 +7106,24 @@
         "size": 1249083392,
         "md5": "a748c012eb44a93e27d1a3d16e1869ca",
         "sha1": "3e930015c2585f250040dcfdff376eddb064af01",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "ITA"
     },
     "4A66D36E6D05DCEEE0171FBB35A2684B": {
         "name": "FIFA 14 (Germany)",
         "size": 1458438144,
         "md5": "4a66d36e6d05dceee0171fbb35a2684b",
         "sha1": "108e42e2db66b1a01ff57e60adb384fce6918b6c",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "GER"
     },
     "DC6E716D41F87A5F6BF23591B9A8F4AC": {
         "name": "FIFA 14 (Russia)",
         "size": 1360789504,
         "md5": "dc6e716d41f87a5f6bf23591b9a8f4ac",
         "sha1": "715dce69d15df2de854426a38fae85492dc0c70b",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "RUS"
     },
     "8121CDA276B86B96E774EFF9B9822BDE": {
         "name": "FIFA 14 (Poland)",
@@ -7059,21 +7131,24 @@
         "md5": "8121cda276b86b96e774eff9b9822bde",
         "sha1": "2f0e1eba5b3c20c070781e3a6c4c48ad5b43bf0f",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "POL"
     },
     "E553B41B81C12B91208037DCF1506DC4": {
         "name": "FIFA 14 (Spain)",
         "size": 1327136768,
         "md5": "e553b41b81c12b91208037dcf1506dc4",
         "sha1": "b6d4030de0e9233e36d964543909b72284db67df",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "SPA"
     },
     "6DACF6A4FB10D284D6A3109D9761697D": {
         "name": "FIFA 14 (Netherlands)",
         "size": 1217626112,
         "md5": "6dacf6a4fb10d284d6a3109d9761697d",
         "sha1": "c802798404c8f5aac4754db62bae1495b94e0888",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "NL"
     },
     "89A108E6737D7AE152EF51E88C9C74CE": {
         "name": "FIFA 14 (France)",
@@ -7088,7 +7163,8 @@
         "size": 1261142016,
         "md5": "d85c25eb56cd744cd41f8062568d223a",
         "sha1": "9625be2deb63896280f521c7a86b63b2bbbb6d57",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "77B9C69D3FDBD35D02DCFFB5C140C433": {
         "name": "FIFA Soccer (USA) (v1.02)",
@@ -7201,7 +7277,8 @@
         "size": 1291124736,
         "md5": "be2c83c010cbb3add9d75cea29334908",
         "sha1": "68108b3257c7b2d25e5887dc596bfca96262bb5b",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "ASIA"
     },
     "1BA78D93F5332A3F9A2A9C7892323012": {
         "name": "Fight Ippatsu! Juden-Chan!! CC (Japan) (v1.01)",
@@ -7224,7 +7301,7 @@
         "size": 1137737728,
         "md5": "93c01953e3c3086bcbad7937b4bbd0ae",
         "sha1": "5a86fae23f70e1033a09a78fdb2d6874508c0e89",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "9A3DC8D27F128D9166439CD2CF26E500": {
@@ -7273,7 +7350,8 @@
         "size": 198115328,
         "md5": "86a3476e8f05aefeee90579b69dd9ffc",
         "sha1": "30c7b61bcb39599b41c19dc28ea69db90c342b9f",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "763C9ACF981E27793CF64A2031036630": {
         "name": "Final Fantasy II - 20th Anniversary Edition (Europe) (En,Ja)",
@@ -7422,7 +7500,7 @@
         "size": 30134272,
         "md5": "f2d7c11aa993fcaa71736add57e4d70f",
         "sha1": "94b3758632ae10185ad904ccc91c6dddf0fd478b",
-        "region": "USA",
+        "region": "EUR",
         "status": "baddump",
         "system": "PSP"
     },
@@ -7741,7 +7819,7 @@
         "size": 1189183488,
         "md5": "25d8bef1474d1ece935df9e8810ab87f",
         "sha1": "2efbde8ac93bd4b9318bf22ea0b6d09ce9853f5d",
-        "region": "ITA",
+        "region": "EUR",
         "system": "PSP"
     },
     "87C550B14F40A7F36BCD1616AD79169A": {
@@ -7839,7 +7917,8 @@
         "size": 196214784,
         "md5": "4924784e93da581c6c7f602eaa591447",
         "sha1": "2c11dd0cf783853fe1acd4c27835dfdf8e9f48d6",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "F075C06A38D901DA37E02B8D24D6E03B": {
         "name": "Gangs of London (USA) (v1.01)",
@@ -7976,7 +8055,8 @@
         "size": 849149952,
         "md5": "9ea034e240d2622a626e9eeb6206ef71",
         "sha1": "d94ddfa77ab78d42f79d87e1797764038a57a0fd",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "D7142D766A2BFBDF9AE27680BD237E7C": {
         "name": "Gensou Suikoden - Tsumugareshi Hyakunen no Toki (Japan)",
@@ -8016,7 +8096,7 @@
         "size": 760152064,
         "md5": "462019d14347c9bef5a659a306200d70",
         "sha1": "b19a3afdcd5f81b0df43cb4e511b7bdab1900244",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "40EDF88B1E94F28AC217509FDC5FC5AB": {
@@ -8066,7 +8146,7 @@
         "size": 1182040064,
         "md5": "85eaafac9315128cd7dc502bf6359029",
         "sha1": "bc2d877b3cd4753995109d8e3864b3b0e42cfebf",
-        "region": "ITA",
+        "region": "EUR",
         "status": "verified",
         "system": "PSP"
     },
@@ -8242,7 +8322,8 @@
         "size": 497156096,
         "md5": "52c7823e4d9cea5abe8e71c1ee8aa3d1",
         "sha1": "b9d086f3fc7692231185f59d85001810ea607ac8",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "0E72AC4FF25BBC3481141671FD59B7BA": {
         "name": "God of War - Chains of Olympus (Europe) (En,Fr,De,Es,It)",
@@ -8257,7 +8338,7 @@
         "size": 1613168640,
         "md5": "545ac8236bfbbab321c17a3d517ec595",
         "sha1": "80a10af59de60978c1de4c883b0ac18dd1b76f5d",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "9AC44F7FD51C4F48815811FA2459BC28": {
@@ -8284,14 +8365,16 @@
         "md5": "5f365435e8744956708c3c717abfa0e9",
         "sha1": "c02f71e9a7fe2a9846087dee0980c94b91108eb3",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "AEBB1874C15AA1571E09C6732C096807": {
         "name": "God of War - Chains of Olympus (Europe) (Demo)",
         "size": 373948416,
         "md5": "aebb1874c15aa1571e09c6732c096807",
         "sha1": "978f959a196d40c8963569c6a3145b14e5d0b326",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "363914A2ACB13064E01D746968EC3ED5": {
         "name": "God of War - Rakujitsu no Hisoukyoku (Japan) (v1.01)",
@@ -8314,7 +8397,8 @@
         "size": 256999424,
         "md5": "be8190fcd84f60b724cf1c8ccf54938a",
         "sha1": "cdb993e248ae6861c57e074d6a7de0cbe582a611",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "64643C7452FB4D1915B23A96820EE9F7": {
         "name": "God of War - Ghost of Sparta (Europe) (En,Pl,Ru) (v1.01)",
@@ -8330,7 +8414,8 @@
         "md5": "7db381d0d3f3548b162025495494fe83",
         "sha1": "a51afa52ac9ceaf494dc5ce1bd3f5e6c882036d2",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "558241AD68FEDA59C7537B8A7B04588C": {
         "name": "God of War - Ghost of Sparta (USA) (En,Fr,Es) (v2.00)",
@@ -8346,7 +8431,7 @@
         "size": 1709441024,
         "md5": "6e96f0819820b5108b581703f3d64ebf",
         "sha1": "a953b27fb0a81d528898eeb7cdc6bdd844a5c6e5",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "F5AB60A74BA7D644325E3F7EF6C0E9F7": {
@@ -8372,7 +8457,7 @@
         "size": 1377566720,
         "md5": "1fb9903c47ff9aa4c103a0f59f9c84c5",
         "sha1": "3cfd349c99c93c0505b898325ac20e64281af1b1",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "10C7E7A747452F5398E262E69939D8DE": {
@@ -8429,7 +8514,8 @@
         "size": 1462435840,
         "md5": "1d6dbc1cd81be6257ce014cac273c275",
         "sha1": "55764fa796c0185dd9c77900fce1f8df6737c6f9",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "A40134B0A4991F2E3FFDDBECFC71304C": {
         "name": "God Eater Burst (Japan) (v1.01) (Append Edition)",
@@ -8519,7 +8605,8 @@
         "md5": "e71cb3668e8c75d61f899288e3b86a8a",
         "sha1": "f030097e9d39685b788251464c337af5ecff4130",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "0B42D2919FB0812D7FB794B692E31771": {
         "name": "Pinball Hall of Fame - The Gottlieb Collection (USA)",
@@ -8569,7 +8656,7 @@
         "size": 1101758464,
         "md5": "a361688e22c526cc1264dcf9b8feea29",
         "sha1": "09f2756cab655d3328e319e50eebbbb309ebb36a",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "872677FE59D58DC6EA39B7228A98B2DD": {
@@ -8593,7 +8680,8 @@
         "size": 1177026560,
         "md5": "b4852a0706055a01364d138ebd0c0c75",
         "sha1": "3caff200892abb53f02f2c2a0e90ee8f2d30df31",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "3E0DE6AC6F623004464B7D77655382B2": {
         "name": "Grand Knights History (Japan) (v1.01)",
@@ -8649,7 +8737,8 @@
         "size": 1255243776,
         "md5": "d08daddc86356f2cf5fdfa85cdcd0c91",
         "sha1": "50c853c43eddd460407c8949e3efd37a0c87b10e",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "7230BF9F55D89A34913F817B6E8A4FC4": {
         "name": "Grand Theft Auto - Liberty City Stories (USA) (En,Fr,De,Es,It) (v3.00)",
@@ -8666,7 +8755,8 @@
         "md5": "17cd20ebfae0c1d992a74f91234c96e6",
         "sha1": "e3f495ae0091de0370a257b2f1a444f5c653c06d",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "04C3E22762121CA59E8D6B83A0855211": {
         "name": "Grand Theft Auto - Liberty City Stories (Europe) (En,Fr,De,Es,It) (v2.00)",
@@ -8674,7 +8764,8 @@
         "md5": "04c3e22762121ca59e8d6b83a0855211",
         "sha1": "be971bd5a7400fd09fd52bc053d1f8be77d18b74",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "CF7947456EA763ECF8E330AD428A7F3D": {
         "name": "Grand Theft Auto - Liberty City Stories (Germany) (v2.00)",
@@ -8690,7 +8781,8 @@
         "size": 1255243776,
         "md5": "6ac9ad3b95e5ef96068d101c1b991bd7",
         "sha1": "50f3464253f40c01a87bcd6a8dbf10bae7cd6836",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "GER"
     },
     "BF17F0CABD2F3D9BA3C30413C070758E": {
         "name": "Grand Theft Auto - Vice City Stories (Europe) (En,Fr,De,Es,It) (v1.02)",
@@ -9210,7 +9302,8 @@
         "size": 906362880,
         "md5": "b3466095a47ee3f015b7c2e30d9604a5",
         "sha1": "ed405d96a13e231682091608094ac873c91e2ccf",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "42CE6074035AA0D6E05BD70A089E7B16": {
         "name": "Harajuku Tantei Gakuen - Steel Wood (Japan) (v1.02)",
@@ -9265,7 +9358,7 @@
         "size": 493846528,
         "md5": "d551db40901c6c8de4964736dfbf91a0",
         "sha1": "16a6b215fa0d094fda3d5f77614955dc1033a69a",
-        "region": "SPA",
+        "region": "EUR",
         "system": "PSP"
     },
     "058C266E2C85550FDBDFB9D012033A0D": {
@@ -9281,7 +9374,7 @@
         "size": 540540928,
         "md5": "ece4754f9b6c81671282930b81aaee73",
         "sha1": "d1ffc9d79b1014ed869a881e7677249d362feb7c",
-        "region": "GER",
+        "region": "EUR",
         "system": "PSP"
     },
     "A61CACA753A2E985A6DA35F459FC041F": {
@@ -9322,7 +9415,7 @@
         "size": 830373888,
         "md5": "e86d458408b8f7aa2f6a5e6aa1fbbb4a",
         "sha1": "b4c7404e22fd43a596a2bbd9aba2b3e22db77f2a",
-        "region": "ITA",
+        "region": "EUR",
         "status": "verified",
         "system": "PSP"
     },
@@ -9331,7 +9424,7 @@
         "size": 832405504,
         "md5": "788888e9e0dd5078a7cdcf512237d7b4",
         "sha1": "908ae9f5bc92161927ed6cadb106c3070dc33aeb",
-        "region": "SPA",
+        "region": "EUR",
         "system": "PSP"
     },
     "F902247831432C81AAEFF546FBD90E50": {
@@ -9339,7 +9432,7 @@
         "size": 763461632,
         "md5": "f902247831432c81aaeff546fbd90e50",
         "sha1": "56b8bdbde5c5850f179f28816fc870aba59dc881",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "D0A6EAAC2530E6CB5EEE30BA3BCFC45B": {
@@ -9477,7 +9570,8 @@
         "size": 1618280448,
         "md5": "1c58ec248d77583803bc6b25c648affb",
         "sha1": "de0d2e73df4f74743758b1f8c06d78d4e81390ad",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "4560397FDE6F5C6D468278B1EEFE4457": {
         "name": "Hatsune Miku - Project Diva Extend (Japan) (v1.01)",
@@ -9533,14 +9627,16 @@
         "size": 612630528,
         "md5": "b9317a8cdf87b454d7e753537b54b043",
         "sha1": "2a5ebcca0f6fd708211ac9c913a4d9b7e61e2ec4",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "CA07C48F02C1307AB05496B796DDC61E": {
         "name": "Heart no Kuni no Alice (Japan)",
         "size": 1804599296,
         "md5": "ca07c48f02c1307ab05496b796ddc61e",
         "sha1": "8906bed84081d83f3d83d52fc38f7846cca11b54",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "B6789F8CC4A92AE96552F26A58F51567": {
         "name": "Heatseeker (Europe) (En,Fr,De,Es,It) (v1.01)",
@@ -9581,7 +9677,7 @@
         "size": 906330112,
         "md5": "abc7d0bb9e7cc9c575730ecaaad963de",
         "sha1": "ec88a33a33dfb88b876a9c62a6f8ca67396d573b",
-        "region": "USA",
+        "region": "ASIA",
         "system": "PSP"
     },
     "B28130358A6533B7CE7970F34BE08A06": {
@@ -9662,7 +9758,8 @@
         "size": 742555648,
         "md5": "e38f5047db53d5ae64d3abc73d024d31",
         "sha1": "9399d5137574f3546b14733fe9c2a3895de7e195",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "BAB7411AF7FC528E9BF57BF736996FFB": {
         "name": "Higurashi Daybreak Portable Mega Edition (Japan) (v1.01)",
@@ -9912,7 +10009,7 @@
         "size": 435781632,
         "md5": "dc8ce1ef0ed030f7c26bf69228eb48c3",
         "sha1": "8a04d9176c1ab4ebcf1c9e6d80cb69ab0c9048cc",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "5C9616152CAC2BFFC844DA33D1C1ADE2": {
@@ -9921,7 +10018,8 @@
         "md5": "5c9616152cac2bffc844da33d1c1ade2",
         "sha1": "1b728c2f27ef4b6af9ef6f4ef8f966550a207399",
         "status": "baddump",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "0B2548C2107CAE202AB0C491809D1AF3": {
         "name": "Idol Janshi Suchie-Pai III Remix (Japan) (v1.01)",
@@ -10017,7 +10115,8 @@
         "size": 1421803520,
         "md5": "e92401c9f705702f51e8ece7fa3c726b",
         "sha1": "23e774f15ee19597995d258124b78598403730b5",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "RUS"
     },
     "717FB9AA95793DC49AEF33CFD63FB7D6": {
         "name": "Petz - Saddle Club (USA)",
@@ -10083,7 +10182,7 @@
         "size": 902856704,
         "md5": "1dc05f9e7ce6541d5f37f5c7b5f47dad",
         "sha1": "6abf2787092289de1208c3241699a106c390f3c5",
-        "region": "SPA",
+        "region": "EUR",
         "system": "PSP"
     },
     "3AAEFDAA3B109476D47BE5CB5E780E06": {
@@ -10132,7 +10231,8 @@
         "size": 207060992,
         "md5": "b66d7b6cf751e55c80cec85d287c664e",
         "sha1": "c3b24e4c8f3a8ce03fe6d8ce8abcf2c55ae7cb26",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "7F7C5D853B08E5426EFCCBA5CE3B1BE2": {
         "name": "Innocent Life - Shin Bokujou Monogatari (Japan) (v1.02)",
@@ -10179,7 +10279,7 @@
         "size": 1502117888,
         "md5": "2f8abdf820884bff91ad1fb851922d90",
         "sha1": "87977a15fc3bd1110d3376605bb8471d8cc26c37",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "E941AB09D1F6B679787CA6E5CA8F27CD": {
@@ -10244,7 +10344,7 @@
         "size": 906362880,
         "md5": "04820de050617a5c6cac30aaadc98724",
         "sha1": "81ef591247e51f8d7b20897d0c08093d4abf68f9",
-        "region": "ITA",
+        "region": "EUR",
         "system": "PSP"
     },
     "997DEA48C8B599F92ABC96F0B6DA8FF1": {
@@ -10426,7 +10526,8 @@
         "size": 334004224,
         "md5": "c1c113257c6aee9efcbcf9b4166ef67d",
         "sha1": "105f31c05c69e9e508298dfa1e5b8144f1eb955f",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "95F6DC775B87C9A71B95CCFE1EBD03FB": {
         "name": "Jeanne d'Arc - Senkou Taikenban (Japan) (Demo)",
@@ -10795,7 +10896,7 @@
         "size": 69566464,
         "md5": "115a34ef0f8b3108d74d8feb7f0b0436",
         "sha1": "b52d5f798810a7648ead10027e8a384706264bd8",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "9FA8FAD23907BCCE2C6A4DE72D4BE329": {
@@ -11014,7 +11115,8 @@
         "size": 531857408,
         "md5": "72c6b08b2690ab6d240e501a7c004217",
         "sha1": "8daef52fa422be7f3766cb97092f02b79ca97250",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "ABDF6C3F1E129DFC471F8940C724AFEB": {
         "name": "Kenka Banchou 4 - One Year War (Japan) (v1.01)",
@@ -11069,7 +11171,8 @@
         "size": 1141997568,
         "md5": "b7f22e799b83aee1c6e88f273f163cef",
         "sha1": "5f0572842a1a450ae464b4a002a74d7861ab02ac",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "6EC92800CC2D8EA9F7C0CA5013DBA4B0": {
         "name": "Kingdom of Paradise (USA)",
@@ -11109,7 +11212,7 @@
         "size": 1064402944,
         "md5": "6878dfd3dedaf6e5a484b62a90e15e25",
         "sha1": "08d60762b8bb9c9f607bfc0a43160985e60447fd",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "82EE852AD6C1212D2F54F472ACAD950B": {
@@ -11221,7 +11324,8 @@
         "size": 636485632,
         "md5": "4ac5925e729ebec6a388a9949f30fbcf",
         "sha1": "57f3d517cb7f9392dbfecb751939a3111a6d259e",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "7833F04CC37C0F890136ED9521AA7B64": {
         "name": "Kiite Oboeru Eitango - Alc no Kikutan Advanced (Japan)",
@@ -11269,7 +11373,8 @@
         "size": 72646656,
         "md5": "c03fa57d1fa4df93e3ca92fd05bc85a6",
         "sha1": "21dcbfd2099085bc6196ce6c02e065faf8a4e21e",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "88D913FDF33172A3CFDB857B5C92BE5B": {
         "name": "Killzone - Liberation (USA) (En,Fr,De,Es,It,Nl,Pl,Ru)",
@@ -11284,7 +11389,8 @@
         "size": 581435392,
         "md5": "e4eef4bdb0bea225cc6a7563ab6747e4",
         "sha1": "2c58f1872fb768e16e360a746c92ab7c3f7c9b37",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "8F09E6CEE9765F6B434E402DC7B37B2D": {
         "name": "Kimi ga Aruji de Shitsuji ga Ore de - Otsukae Nikki Portable (Japan)",
@@ -11332,7 +11438,7 @@
         "size": 1532887040,
         "md5": "68026056fc6ff82bad8b927debd4e2c5",
         "sha1": "99eda687d2b08ba8d6ef04e9fc088b07787075fe",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "6CBD878A5D6AE88F2C529B769D858091": {
@@ -11390,7 +11496,8 @@
         "md5": "2d23c18445b1df33f64c76dd273d62d3",
         "sha1": "9c5f1ab5c60a037cc3f7481155c58046b72243d0",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "962CCE6F637464AF8FC144C7EDA97DF0": {
         "name": "Kingdom Hearts - Birth by Sleep (USA) (En,Fr,Es)",
@@ -11414,7 +11521,7 @@
         "size": 1583153152,
         "md5": "9b20065401bdccca9e963e7252198f99",
         "sha1": "410997d46f44886ef1175d34c400dafc1e9d49c5",
-        "region": "ITA",
+        "region": "JPN",
         "system": "PSP"
     },
     "6CAFE9C80A48DEEAA3F6D473F2AA0E94": {
@@ -11869,7 +11976,7 @@
         "size": 1426063360,
         "md5": "d3c176498b5ff9d0a0f9f3bf3d6c4ba0",
         "sha1": "981af911bcb7a3908b8229396dfe2b805fa05eb9",
-        "region": "HOL",
+        "region": "EUR",
         "system": "PSP"
     },
     "2DFB735B1D1735E51965A6A2E47C6EA9": {
@@ -11893,7 +12000,7 @@
         "size": 1512112128,
         "md5": "f17b6411fec65b66e4b449df426ba269",
         "sha1": "7fe470dbc93835db7a9531a55b97b815de27ab6b",
-        "region": "RUS",
+        "region": "EUR",
         "status": "verified",
         "system": "PSP"
     },
@@ -12012,7 +12119,8 @@
         "size": 626982912,
         "md5": "f3f88149c3a49b0287e6f5f01eda612b",
         "sha1": "f43971410e9aa9cc47bed97f1f7fb0c7884a99e5",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "367EB49C91B37C32AB7B30E10C327480": {
         "name": "Lemmings (USA) (v1.01)",
@@ -12027,7 +12135,8 @@
         "size": 181665792,
         "md5": "289924fcdc8e44b3fd5b07d16f80c797",
         "sha1": "a2e4718d158efc416912663a387f0299730792d2",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "7599BCE7A99AD32343C966BB6589646F": {
         "name": "Like Life Every Hour (Japan) (v1.03)",
@@ -12099,7 +12208,7 @@
         "size": 1493499904,
         "md5": "2f6973f3ea9359190875be437c8b5270",
         "sha1": "430b60f0b88ba14500b576329f8438b41e7c4018",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "61C6D19C0739227B1213EE89ABBD8310": {
@@ -12133,7 +12242,7 @@
         "size": 569737216,
         "md5": "1d1bb4958c2966cc9b9da1a81c96760e",
         "sha1": "83dbaec2c22ae377a3251283ae2ef18f414eb2a6",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "3385C368AB1C3CC38F4C11F7E05267C0": {
@@ -12165,14 +12274,16 @@
         "size": 48726016,
         "md5": "f5a7266e73c43792af7ef5ed7ed85f86",
         "sha1": "0e404de15e3870a1fb823b579a5f2de7d4fa4f84",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "7FE08090C4E9AF11A903D420C2C5B1C4": {
         "name": "LocoRoco (USA) (Demo)",
         "size": 57278464,
         "md5": "7fe08090c4e9af11a903d420c2c5b1c4",
         "sha1": "d4c23fbac2d69c5f02555dc48343ae6a0a426e45",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "87867665BDF20B24589C73F6A8746FF9": {
         "name": "LocoRoco (Europe) (En,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Ru) (Beta) [b]",
@@ -12180,7 +12291,8 @@
         "md5": "87867665bdf20b24589c73f6a8746ff9",
         "sha1": "b3477020a774c0c865fd648323b5ef75d95ad096",
         "status": "baddump",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "5010F792397BF71A421AEF2C2D047491": {
         "name": "LocoRoco (USA)",
@@ -12212,7 +12324,7 @@
         "size": 1805713408,
         "md5": "d2c714a454b74d9a110531c4c9a7bf4f",
         "sha1": "70abefd272955ef4faac5adbdc2e7f15aea95334",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "A487D3FA767A22D8048B7B918A85B4C2": {
@@ -12228,7 +12340,8 @@
         "size": 1722679296,
         "md5": "5cb557a2925c835c7c56714b483ae7e6",
         "sha1": "03110950a777d265dcccdaaca6e5b5c95503c2d1",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "D7F9A8E11887CD516C0BC50347320BD3": {
         "name": "LocoRoco 2 (USA)",
@@ -12406,7 +12519,8 @@
         "size": 234422272,
         "md5": "09ccf69e76dd1cbacbdc20452caa514a",
         "sha1": "aadc790bf6b4af9b73a64716dc02cd36ce665c8b",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "E56962BE508D293E97A2B44B392631B2": {
         "name": "Lumines (Japan) (v1.02) (PSP The Best)",
@@ -12660,7 +12774,7 @@
         "size": 154763264,
         "md5": "26f26c685292a24179cf87b0801a68b2",
         "sha1": "984d2e73a5ab9e9369b7261b4e5d9c393a8e4b43",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "0DEA18F1AFA5DF1241C5F428A4C661C4": {
@@ -12970,7 +13084,8 @@
         "size": 1692532736,
         "md5": "7f0b3bea1f0888760a693e69e3ab3a5f",
         "sha1": "4d5727553291fdc15edac54237a889bf72fa75b4",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "DEE82FBA07DD3D252435FCC23DF9FB98": {
         "name": "Maplus - Portable Navi 2 (Japan) (v1.02)",
@@ -13113,7 +13228,8 @@
         "size": 1773764608,
         "md5": "f31dcc0631f63057754ef90b38e288e7",
         "sha1": "6773c4a831b0d3b46273432381f18362e1d5c7de",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "146F9E2AE5815F1511C09AFE780F6B34": {
         "name": "Marvel - Ultimate Alliance 2 (Europe) (v1.02)",
@@ -13297,7 +13413,7 @@
         "size": 1447002112,
         "md5": "73fd1611c55ee07d0b7f208bd37028da",
         "sha1": "2d8e674f506296502f02d971a487c78336862d84",
-        "region": "HOL",
+        "region": "NL",
         "system": "PSP"
     },
     "8F36411AE432126DD72A44D54168EB66": {
@@ -13355,7 +13471,8 @@
         "md5": "7c472f83140e3af1a2fcdcdbadec850a",
         "sha1": "261898a262cdc8652e8d2c0e978e72c1c34a26fa",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "1786A97FA96CFA9CBFDCF5916433ED38": {
         "name": "Medal of Honor - Heroes 2 (Australia)",
@@ -13370,7 +13487,7 @@
         "size": 1226768384,
         "md5": "d1198b63631ea60d21ddfbc5576882b2",
         "sha1": "120b37dc1f4e664e0f67466dc9cde0de65276f5e",
-        "region": "ASI",
+        "region": "ASIA",
         "status": "verified",
         "system": "PSP"
     },
@@ -13404,7 +13521,8 @@
         "size": 1320026112,
         "md5": "b1d2d001903e3ad025c5e26f86c7de64",
         "sha1": "b34a4357fe736bfc62b06a21f3b6e5caff31dcef",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "33C5FA5291B0737CB54898EC6DDB3240": {
         "name": "Mega Man - Maverick Hunter X (Europe) (v1.01)",
@@ -13452,7 +13570,7 @@
         "size": 331284480,
         "md5": "35e092503e53d5173175d2e545ae981a",
         "sha1": "48282e0aaf7ea1497d28f1d5ef40715254e9cd2f",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "F2CD23A784E9A27AC304CF413BB40F5D": {
@@ -13787,14 +13905,16 @@
         "md5": "7f217c33b09ccbd0b4564177a1b3533a",
         "sha1": "4b04dfc2bebe8f87c4ebd33629b58a09a33ffb2b",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "60D1FC90DF502D758756408EB972BF6D": {
         "name": "Metal Gear Solid - Portable Ops (Japan) (Deluxe Pack)",
         "size": 1396736000,
         "md5": "60d1fc90df502d758756408eb972bf6d",
         "sha1": "a830b8e0a15698d64b65ba04bd92c3cd78f8efa1",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "F3799FFE25ADBA60750372188947FF8C": {
         "name": "Metal Gear Solid - Portable Ops (Japan) (v1.02) (Premium Pack)",
@@ -13818,7 +13938,8 @@
         "md5": "c6b971d437a150ec43fe2f61e64b9ee7",
         "sha1": "f0405d8e1f6232e67d2a9873423667c9464e514c",
         "status": "baddump",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "0630085014F7A30BD04AE36CE3FC101D": {
         "name": "Metal Gear Solid - Portable Ops Plus (Europe) (En,Fr,De,Es,It)",
@@ -13850,7 +13971,7 @@
         "size": 1248067584,
         "md5": "68a45d65d1a083c95d76ef91be920671",
         "sha1": "f3a62b739bd2d60d08ff6bae771cd4a9245f0646",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "C4C64BC2F0D5D2ADBD5DD38216D9B2EB": {
@@ -13908,7 +14029,7 @@
         "size": 463732736,
         "md5": "8fff4829e4618f24d24332b429e5ba81",
         "sha1": "4af38e78b8bc16cc61a8ac8c2f3e4edbc068d6a2",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "67F4A72AA13438D5AA6D0CA09D62CDCE": {
@@ -14022,7 +14143,8 @@
         "size": 1652424704,
         "md5": "31d345faa24187df9e8c828ff41ebb33",
         "sha1": "ee604fbd6dcb61f5509397001ed67275ef30117a",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "781565B0DB977C039C156D03EDE83CAE": {
         "name": "Midway Arcade Treasures - Extended Play (Europe) (v1.02)",
@@ -14087,7 +14209,7 @@
         "size": 99057664,
         "md5": "8e173e422ee521b0dbfdb4b272684e22",
         "sha1": "7f6c6b339b48041e749173f71c430cc0c591cff8",
-        "region": "SPA",
+        "region": "EUR",
         "system": "PSP"
     },
     "EE0F97C3194BB68F41A0039C6C303C20": {
@@ -14199,14 +14321,16 @@
         "size": 1619001344,
         "md5": "892e65b62050a4c419eaa2f9ae22c732",
         "sha1": "60035dd25ffb74281678a977e20db9b80c4a65f1",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "F389074BDFD3278C1CB67AE3A1FEAF97": {
         "name": "Minna no Golf Jou Vol.1 (Japan) (GPS Receiver Doukonban)",
         "size": 1674444800,
         "md5": "f389074bdfd3278c1cb67ae3a1feaf97",
         "sha1": "2c2ced62defc7dbdb8d337aabb740d6602e675f6",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "B64EA4303C954E8EDAF14F5ECF6CDDD3": {
         "name": "Minna no Golf Jou Vol.2 (Japan)",
@@ -14293,7 +14417,7 @@
         "size": 518782976,
         "md5": "727fc6e6c95a775917b826daace26c59",
         "sha1": "92992c3967c30e3842544c802a6d41e764c56442",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "AC1D78D390A241BC0B9C8AD45D6048D1": {
@@ -14398,7 +14522,8 @@
         "size": 1399914496,
         "md5": "5b24e12d7d689eb64da039f1f15df33f",
         "sha1": "f9bde2ddf8d47634d2de87e7adfc66573020e0b3",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "43D4F4749C59E35FE83957EF9820BAB6": {
         "name": "MLB 08 - The Show (USA)",
@@ -14413,7 +14538,7 @@
         "size": 1452965888,
         "md5": "b1145851132f82a18a5f80e1f8ed9ae4",
         "sha1": "4ce18b7eb26639dcbde83a23706e69d47c47549f",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "9E4DBB867EFDB07E092E099360441D94": {
@@ -14480,7 +14605,7 @@
         "size": 1651048448,
         "md5": "aa43743de9a57398c44947f9ed30e92e",
         "sha1": "4103dddeac390d0dcb994da63937b01a69b2995f",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "CAAFF72A984AA0E21831A26C0102FEB9": {
@@ -14621,7 +14746,7 @@
         "size": 837156864,
         "md5": "9dc0de0d6fb1a77707593bdddacc04cd",
         "sha1": "63c5071ce394d80d45e12b56c481fdac719c8ce4",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "7E742B143D2E35B497CA0CFF060E8588": {
@@ -14670,7 +14795,8 @@
         "size": 300613632,
         "md5": "1a30a6fe0c71e3e1be8ecaf68514f494",
         "sha1": "946341aef8a2447424c08c1d5f4e66278edadd3d",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "1F76EE9CCBD6D39158F06E6E5354A5BD": {
         "name": "Monster Hunter Portable 2nd G (Japan) (v1.03)",
@@ -14819,7 +14945,7 @@
         "size": 870842368,
         "md5": "ae6321edf618648f12e41230d95d74bb",
         "sha1": "0817f0768e69b855a1420f4ebdb503327bbce89d",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "06904C232CDA7A0653FD17ABF1E4CA16": {
@@ -15015,7 +15141,8 @@
         "size": 876707840,
         "md5": "dcf04cf2865af16a87d2159615c9bdfa",
         "sha1": "6c6381d4a93ec330f828bdd102ff46ed85c9c010",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "FB55FF0E783AAA5A1ABA9A939F834924": {
         "name": "Mystereet Portable - Yasogami Kaoru no Chousen (Japan) (v1.01)",
@@ -15047,7 +15174,7 @@
         "size": 217579520,
         "md5": "81ed328a983aa18df0db52fcef07ba25",
         "sha1": "6e10edeba01a18e402c0822dd957224fa1a53ce0",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "BA47CE9DAD4B019C221C863160D7BD29": {
@@ -15123,14 +15250,15 @@
         "size": 559251456,
         "md5": "00baa334738c920cd53abc47e6cdc995",
         "sha1": "e2aee9bc2ccadbbadbb6b119167079de0ed8b7e5",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "9ED1A2CCEABA803BDA9C63F9B52018AE": {
         "name": "Namco Museum - Battle Collection (Asia) (En) (v1.01)",
         "size": 174358528,
         "md5": "9ed1a2cceaba803bda9c63f9b52018ae",
         "sha1": "8f3bb18c51608170bd8bb25e9cdbb7e6d689b5f5",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "56AE0B2D273030B47E01F196D1F2D281": {
@@ -15311,7 +15439,7 @@
         "size": 1073577984,
         "md5": "0a0f2da550f85d90ec1348cb48fc0485",
         "sha1": "07558f3d00f424b0dd0e081038f5e1262c61184d",
-        "region": "JPN",
+        "region": "EUR",
         "system": "PSP"
     },
     "59F720FF052F70F18D62083530B3DE8A": {
@@ -15386,7 +15514,8 @@
         "size": 623804416,
         "md5": "44551143d88db8041b7b30ec8825210d",
         "sha1": "503e090cff2bff0a3ab02b58ceffb7e385b6ad24",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "3E7BD831FA14C43E5F1A636255634E3C": {
         "name": "NBA 08 (USA)",
@@ -15459,7 +15588,8 @@
         "size": 1467580416,
         "md5": "97da74f6739a8aea77e5acc3a04b5d83",
         "sha1": "513767e47f2bb3f736520e1cda1638942f635175",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "6F45150AE31A4AD4976E238AF663782F": {
         "name": "NBA 2K12 (Europe) (En,Fr,De,Es,It) (v1.01)",
@@ -15491,14 +15621,15 @@
         "size": 1506607104,
         "md5": "3b0af67f4f6efd014ca482d39d1eec4d",
         "sha1": "17f6c09dc9d86145c28f60f1258ee08171f59f99",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "ASIA"
     },
     "81353ED3D461BFA1F13F9B29AB3011E0": {
         "name": "NBA 2K13 (Europe) (En,Fr,De,Es,It) (v1.01)",
         "size": 1773928448,
         "md5": "81353ed3d461bfa1f13f9b29ab3011e0",
         "sha1": "3ca8ef54e79f4308896142440ca7fd1c2e8aaa48",
-        "region": "USA",
+        "region": "EUR",
         "system": "PSP"
     },
     "9D0E62E640C28EDF0B90D51AD8ABC2BD": {
@@ -15514,7 +15645,8 @@
         "size": 1753022464,
         "md5": "328299b1f935ec8af35f55faa471b07c",
         "sha1": "54f26bc7ee0eeeec081935eda2adab5b7f6b0e7f",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "5CC7C99878E5D6212F48AA54A536DE34": {
         "name": "NBA Ballers Rebound (USA) (v1.05)",
@@ -15644,14 +15776,15 @@
         "size": 1616052224,
         "md5": "b63c712991fe0a2cd93e41473c7d928d",
         "sha1": "5ee8bb3e3e826b25da19e969cfdfc3b4a05e01fc",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "E7A94596EE694F5115F2A58E3F41C988": {
         "name": "NBA Live 08 (Asia) (En)",
         "size": 1616117760,
         "md5": "e7a94596ee694f5115f2a58e3f41c988",
         "sha1": "7d2e9008328a386296b03d0ffc55ac4f49c16d51",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "9A1DECB3DA6386292BECCA3CBD32E79D": {
@@ -15740,7 +15873,7 @@
         "size": 1683587072,
         "md5": "c596a93ed9653a3c0795aee70d645bfc",
         "sha1": "903463906b4c0fb18088b7758a40805c139a7db0",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "A6B14161DCF8140D76683A675133B580": {
@@ -15773,7 +15906,7 @@
         "size": 1181679616,
         "md5": "03542d8bacea66cd11e5ba21305887ef",
         "sha1": "a8a83490867523fb4695e68b3a3bbebd63b24889",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "2D3975052703C7E36363CD86E3F1090A": {
@@ -15789,7 +15922,8 @@
         "size": 1637810176,
         "md5": "14d62586dd249677b4cd60b2f6d5c961",
         "sha1": "be9e4dd01f4c2254d6e6880ccba9d9b106ebe136",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "188A41E402D85BDF2D6D1796C93285CD": {
         "name": "NCAA Football 09 (USA)",
@@ -15822,7 +15956,7 @@
         "size": 926580736,
         "md5": "50a602964fab41e26c9ca5193dd7c923",
         "sha1": "ba938761d68acb46f62912e2a7b33abbf34d94b4",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "34F5826A53E568FA704BBBA99306A364": {
@@ -15863,7 +15997,7 @@
         "size": 896237568,
         "md5": "24d4d412f4682901c81d987717e7d3a6",
         "sha1": "a1eb589fa353c6455dc09fae3954a00b4e9d96c2",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "AF93903DE6E7E078F3DA1D7349AC418D": {
@@ -15888,7 +16022,8 @@
         "md5": "f45a976893ae1f039622c8d5bd88f595",
         "sha1": "8a12441da59d807e44dd5d2fc0e03e530f5cd3c2",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "96563FEE9041B59BC0470B6BE1226B1C": {
         "name": "Need for Speed - Shift (Europe) (En,Fr,De,Es,It,Ru)",
@@ -15920,7 +16055,7 @@
         "size": 1798471680,
         "md5": "28dfa61d6bc220bf54d29efb7aed3e08",
         "sha1": "d698661eeab1501457c994813b9953906b907dac",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "3931FCEDF70B7A1F862DE44DAF8B6C71": {
@@ -15953,7 +16088,7 @@
         "size": 1304690688,
         "md5": "c1b1d74d33cfd9586b039548273c3ab5",
         "sha1": "47f5e4f1ff6624db46b2b054dd93020e99517ed2",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "601F6FC381FE8848431B9DD2532170A9": {
@@ -16004,7 +16139,7 @@
         "size": 894173184,
         "md5": "75cc723c9e2a52ab710d7067cb60eff6",
         "sha1": "22627aea82e75fd53f01dd80cd0e073956c7169e",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "091BF3DAC94456D713193B18B0E29098": {
@@ -16037,7 +16172,8 @@
         "md5": "5548cb8d4691c499e3f9642ccb4a5067",
         "sha1": "7210e758ce4bc944dd0547e989afe094f4054c34",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "C93E0D38EEEEB964BED1FCA0ACC25AF6": {
         "name": "Nendoroid Generation (Japan) (v1.02)",
@@ -16344,7 +16480,8 @@
         "size": 734003200,
         "md5": "455fcc65e7ebca627b461ba56512666d",
         "sha1": "e45351fa0a91b28c971b1254bc66b79f416dbca5",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "ASIA"
     },
     "5E2F75BDA6C1282D429DC60E436E4C8A": {
         "name": "Okashi na Shima no Peter Pan - Sweet Never Land (Japan) (v1.03)",
@@ -16449,7 +16586,7 @@
         "size": 1507590144,
         "md5": "17120b498e4fb1d356a10c4900f00e96",
         "sha1": "10005b2b79dd2a08686479db5741209f470308ef",
-        "region": "SWE",
+        "region": "EUR",
         "system": "PSP"
     },
     "6D784DF7C4C7F8A5DB723D0E1CE7105F": {
@@ -16619,7 +16756,8 @@
         "size": 325320704,
         "md5": "7f10992c9a57ae066e19083d71bcde37",
         "sha1": "5d51de8607012ed5ebd0f8a7680ae04034dab8f5",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "8D9BF3BACFA54B16BB1DBE2971B40E2D": {
         "name": "P-Kara (Japan)",
@@ -16824,7 +16962,7 @@
         "size": 341082112,
         "md5": "670e04436bbc3a4180e3b32a67102ac5",
         "sha1": "3bc33a562d0525f4f85ed3e783cf4d095240bf14",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "37D3E1F3FAF8AD1B1A67BAC92BCB6F61": {
@@ -16850,7 +16988,8 @@
         "md5": "e74d0fd7500f3047d54cf8eb768d27cd",
         "sha1": "afab1f7027f853989a48859dfd7c4acabfc44baa",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "CD7F2436E2B20003866685CF8FB69BFA": {
         "name": "Patapon 2 (Europe) (En,Fr,De,Es,It)",
@@ -16865,7 +17004,8 @@
         "size": 586711040,
         "md5": "cf4793f2aa26e94a75c54986f84a3012",
         "sha1": "f5b69eb023253bab11637a0df5d6a3996346c306",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "0F50A8305D521FAF28DBE623063B1B1B": {
         "name": "Patapon 2 (USA) (En,Fr,Es)",
@@ -16881,7 +17021,7 @@
         "size": 583794688,
         "md5": "33a7a573ed46a229920df88ed4fff791",
         "sha1": "a24ed728e5af3212f48cf12dcf54b862058691ff",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "1F45E904B2DAAFA383157A3F5927D4F0": {
@@ -16922,7 +17062,7 @@
         "size": 549453824,
         "md5": "757fbd7fc8280c2b8e897af7e7d30e41",
         "sha1": "65d3c9e654add4d0dd11e9eb84314b96c5cfe11d",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "FF7380FAF46D05E03D23799FD8E995A1": {
@@ -16971,7 +17111,8 @@
         "md5": "f7563401cf9708996722e8e457eb2b3b",
         "sha1": "8021b2cb1f7311b7e5dd66d6b36e394545728d3b",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "124E4A453AFED1946873912823716B84": {
         "name": "Persona 2 - Batsu (Japan)",
@@ -17065,7 +17206,8 @@
         "size": 751140864,
         "md5": "84d4a37a8cc8880c14d672a86ed9370d",
         "sha1": "ea57097bc163b57216684c63a332aa52a9d944c8",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "210BC50D7AFF22B95155B12AA8A3ECA6": {
         "name": "Phantasy Star Portable 2 (Europe)",
@@ -17108,7 +17250,8 @@
         "size": 1467252736,
         "md5": "17d4dcdb4b84c2f7efcefd2f34d7fd33",
         "sha1": "8336051a3c3300f2fc5318da413b8002113c235b",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "A7724B3C6292DA99BC9FFD7F40741E4D": {
         "name": "Phantom Brave - The Hermuda Triangle (USA)",
@@ -17252,7 +17395,7 @@
         "size": 321847296,
         "md5": "ee0e46303f422d31674187fcf4ee3120",
         "sha1": "292b87d6abeed1a7209344dc822c4d7fc9b7858f",
-        "region": "USA",
+        "region": "ASIA",
         "system": "PSP"
     },
     "21D4B49A7F0A237C6450DCE3FAA95546": {
@@ -17260,14 +17403,16 @@
         "size": 321847296,
         "md5": "21d4b49a7f0a237c6450dce3faa95546",
         "sha1": "c6c3951a03073d6d8763ef3e8aecb0469a8a4dd1",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "1442E2A76636B001C50A695E91DB4EE9": {
         "name": "Tube Mania (Europe) (Fr,Nl)",
         "size": 322306048,
         "md5": "1442e2a76636b001c50a695e91db4ee9",
         "sha1": "db88a2671fa8cb33aded8d7145a24d0695e758fb",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "10DACE063EB4E314668A3692A5FA97BA": {
         "name": "Pirates of the Caribbean - At World's End (Europe) (En,Fr,De,Es,It) (v1.01)",
@@ -17331,7 +17476,8 @@
         "size": 165740544,
         "md5": "7683e54764b9224de0483ab984604043",
         "sha1": "cb3986490e0b683902c60110cff20088495d5456",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "ASIA"
     },
     "40ED86779AE1AD875A64FC36DB91338B": {
         "name": "Planetarian - Chiisana Hoshi no Yume (Japan) (v2.00) (Touhoku-Chihou Taiheiyou-Oki Jishin Hisaichi Charity Ban)",
@@ -17346,7 +17492,8 @@
         "size": 283213824,
         "md5": "756a33a6af9b9583a1b4a7c337b05bd3",
         "sha1": "150f1cd620558b2a5ad888b58131fc2d6ac822ae",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "BB24364384C88AD0DF51F04612820311": {
         "name": "Planetarium Creator Ohira Takayuki Kanshuu - Homestar Portable (Japan)",
@@ -17393,7 +17540,8 @@
         "size": 876216320,
         "md5": "e18f5b6facde7ba722bee3fa79495403",
         "sha1": "7f23a134879c68332b9054ad7e83d9cf1ff1b5bc",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "POR"
     },
     "75252B8651FB16C6309BE945C998EB61": {
         "name": "Playstation Network Collection, The - Power Pack (Europe) (En,Fr,De,Es,It) (v1.02)",
@@ -17517,7 +17665,8 @@
         "size": 1168506880,
         "md5": "7eb1cee71b4e4b9eb37f206233a44f9e",
         "sha1": "4286cece82e91409325c57d9271fc117717c5b6d",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "5E1527A379590E95923771E9DB4B4869": {
         "name": "Portable Island - Tenohira no Resort (Japan) (v1.02)",
@@ -17686,7 +17835,8 @@
         "size": 691437568,
         "md5": "039b64a5ea48b25acd38ae6b5f7852ea",
         "sha1": "6c548ad42bf833e196e6c1b5c6a8dcb0c14d6761",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "ASIA"
     },
     "87896AD4DD9794EE7E1F985A23A92040": {
         "name": "Princess Crown (Japan) (v1.03)",
@@ -17734,7 +17884,8 @@
         "size": 1767964672,
         "md5": "0ac85b1a12ed9947e07acd7f4f88a34a",
         "sha1": "a00ed6b73a93b82f9f185387237d966f1ace6ced",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "KOR"
     },
     "622E14FBEF44E7A2F38EB18C33C4923A": {
         "name": "Princess Maker 5 Portable (Korea) (v2.00)",
@@ -17893,7 +18044,7 @@
         "size": 1033043968,
         "md5": "75a4554d0795e6ecd8283baa9c0c8746",
         "sha1": "31ba17c104ee587abbde10bf039f56c2c31f4112",
-        "region": "SPA",
+        "region": "EUR",
         "system": "PSP"
     },
     "7DFD389C75E59A6535F6B974914C24C9": {
@@ -17902,14 +18053,16 @@
         "md5": "7dfd389c75e59a6535f6b974914c24c9",
         "sha1": "9599863db4f80834ce1ec7a14ad474e8eba24748",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "48A59F75A8433C68A46DE6151F5BD3FF": {
         "name": "World Soccer Winning Eleven 2010 (Japan) (v1.01)",
         "size": 993951744,
         "md5": "48a59f75a8433c68a46de6151f5bd3ff",
         "sha1": "64c1a17d674f66e718bf23e33045cd86f5685748",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "5989688F83DF0062131D3E33E592500B": {
         "name": "Pro Evolution Soccer 2011 (Europe) (En,Nl,Sv,Ru) (v1.01)",
@@ -17924,7 +18077,7 @@
         "size": 1446281216,
         "md5": "7430f1e53801fb053cf718df0d20e121",
         "sha1": "2ef87e7a608890b4e25cabddf1dced9d62e0bd98",
-        "region": "ITA",
+        "region": "EUR",
         "status": "verified",
         "system": "PSP"
     },
@@ -17933,7 +18086,7 @@
         "size": 1448378368,
         "md5": "4454a15d4e189f7b81647a59f49f9d64",
         "sha1": "f1464bf5bed00c6b56412aa56c76716f7c23af74",
-        "region": "GER",
+        "region": "EUR",
         "system": "PSP"
     },
     "99E593BF100F8862898A93DDE50B5035": {
@@ -17941,7 +18094,7 @@
         "size": 1461321728,
         "md5": "99e593bf100f8862898a93dde50b5035",
         "sha1": "9d62595916f6033a04c4de14ad504a9d9f1a65c9",
-        "region": "SPA",
+        "region": "EUR",
         "status": "verified",
         "system": "PSP"
     },
@@ -17951,7 +18104,8 @@
         "md5": "c26ec0135fdef02fa02c9d1482f08f6b",
         "sha1": "fd9e7f01fc31f707012d44f96c208ae624eecc50",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "302110B345E42723E995D55623EB7BAF": {
         "name": "World Soccer Winning Eleven 2011 (Japan) (v1.01)",
@@ -17966,7 +18120,7 @@
         "size": 1302855680,
         "md5": "40f61683805ce6d34f9246d59c425676",
         "sha1": "76592d2a155ea74b918be83167e6e22c1f89ce1e",
-        "region": "ASI",
+        "region": "ASIA",
         "status": "verified",
         "system": "PSP"
     },
@@ -17983,7 +18137,8 @@
         "size": 1306951680,
         "md5": "eb034b6a39b314493b4bbc8eacee4e34",
         "sha1": "d93ac5bbc9cd99e814bf05f37bdca4b634d6b026",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "A543B564E1B737B4DAF161FE8FB5E67E": {
         "name": "Pro Evolution Soccer 2012 (Europe) (Es,It,Pt,El)",
@@ -17999,7 +18154,7 @@
         "size": 1366654976,
         "md5": "4fd3482a75951ee69f2edb4909cab0e6",
         "sha1": "4c89317b66db1f4d185a6fdf16cf9494669532d7",
-        "region": "GER",
+        "region": "EUR",
         "system": "PSP"
     },
     "0A0D43A152387212125FCE633E25361D": {
@@ -18023,7 +18178,7 @@
         "size": 1210417152,
         "md5": "b1e1366ef91eb6bec1c7bbfc810e2522",
         "sha1": "9066a4bc0b88e7716334d02b823de78ab6981ea7",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "D1757A73E3D5A5C7397A5264A424BA3A": {
@@ -18039,14 +18194,16 @@
         "size": 1263665152,
         "md5": "1695abb62799df08c2a254f16eab377b",
         "sha1": "9a411b09c487b48d919598670977d3f6a47828ca",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "8ADD691CA0644ED937D74B77DD278E9B": {
         "name": "Pro Evolution Soccer 2013 (Europe) (Es,Pt)",
         "size": 1289027584,
         "md5": "8add691ca0644ed937d74b77dd278e9b",
         "sha1": "25b943620df5daa0dc614c0d5ca3e1081fa1fa79",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "664AB3D0143D00E11A8581B9C4F35AA1": {
         "name": "Pro Evolution Soccer 2013 (USA) (En,Fr,Es,Pt)",
@@ -18054,14 +18211,16 @@
         "md5": "664ab3d0143d00e11a8581b9c4f35aa1",
         "sha1": "4df43278bc21061a8e7c031e953b9e90bfa7bc18",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "726CEE43DFCD47280C55974E8F7EF4ED": {
         "name": "Pro Evolution Soccer 2013 (Europe) (It,El)",
         "size": 1258913792,
         "md5": "726cee43dfcd47280c55974e8f7ef4ed",
         "sha1": "1cfad3de23fc8f5ac93cda76e8bbdd2cf77c3038",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "58EE52974816DC13DC2B1EE51EFD0981": {
         "name": "World Soccer Winning Eleven 2013 (Japan)",
@@ -18076,14 +18235,16 @@
         "size": 1144848384,
         "md5": "adb7d6103f29b7871e07e66518b0c724",
         "sha1": "3ec82cf03d93b4116a1e59bd4aaa2657f46d1941",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "19BBEC237EB4E31E1666D6BAA25E1383": {
         "name": "Pro Evolution Soccer 2014 (Europe) (Fr,De)",
         "size": 1184432128,
         "md5": "19bbec237eb4e31e1666d6baa25e1383",
         "sha1": "e246b454ebaee5e79ca4bdf352ea46a21e7c8e61",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "14012D2767910EDF0B6F2E3E73C142FD": {
         "name": "Pro Evolution Soccer 2014 (Europe) (It,El)",
@@ -18091,7 +18252,8 @@
         "md5": "14012d2767910edf0b6f2e3e73c142fd",
         "sha1": "6c96aa13c9a8c28ff452b7f2413c025515e34062",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "717FCA3CC3E533E1C14DEB050507A7B8": {
         "name": "Pro Evolution Soccer 2014 (Europe) (Es,Pt)",
@@ -18211,7 +18373,8 @@
         "size": 1401618432,
         "md5": "71fac4a8e23b8957bdc1fa0dd4436238",
         "sha1": "3eba923a584730b4b6364375847fd9f583ef71df",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "9DB0828DFD956DFB1429EA4F15219E7F": {
         "name": "Project Cerberus (Japan) (v1.03)",
@@ -18277,7 +18440,8 @@
         "size": 1241448448,
         "md5": "bf2a7801221a5b92d1ebe762fce4ae5a",
         "sha1": "632fcd6fe7e133a23e6732bbc132864410ddfdbc",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "BC676C7E5B3E79F8093ED64CCE613AEC": {
         "name": "Pursuit Force (USA) (Demo)",
@@ -18285,7 +18449,8 @@
         "md5": "bc676c7e5b3e79f8093ed64cce613aec",
         "sha1": "8cc6d52ca5ba34fc8b6df1210734925034cba08b",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "D73ED26A871F433A98A2B627A8CD3625": {
         "name": "Pursuit Force (USA)",
@@ -18301,7 +18466,8 @@
         "md5": "7862e0cf4df0b99f5e7c6a0535a49811",
         "sha1": "6431a66725c554c3cf561b6b2737b3a894348f53",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "41B52FE13452EFBBEF52BAC7F1E50F1E": {
         "name": "Pursuit Force - Daitsuiseki (Japan)",
@@ -18334,14 +18500,16 @@
         "md5": "31f307fac918767d82ea46305f78dd31",
         "sha1": "f3b54d564a80af79221b2af99f848e89ebd1002c",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "A73A9C539254F1CF80B0B2ED9A555C04": {
         "name": "Pursuit Force - Extreme Justice (USA) (Demo)",
         "size": 283312128,
         "md5": "a73a9c539254f1cf80b0b2ed9a555c04",
         "sha1": "f4d2f25b87a31b42134e32d5d619406775585081",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "B8DAE0E8E70A4F7350D8E6D4C86AB7BA": {
         "name": "Puyo Pop Fever (Europe) (v1.01)",
@@ -18473,7 +18641,8 @@
         "md5": "2bfdadbdfcd31dfb29c3e93e3896538e",
         "sha1": "aebabf08c93292bf9bc306cf55cdcfc77348cc06",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "86EE78423E6382C1F1C2EDC2706D0AE4": {
         "name": "Simple 2500 Series Portable!! Vol. 11 - The Puzzle Quest - Agaria no Kishi (Japan) (v1.01)",
@@ -18505,7 +18674,8 @@
         "size": 142966784,
         "md5": "093b1720bb440b03601189afcfa40016",
         "sha1": "a69282e5511701926c3c3753623b0f512b17905f",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "008DEFBB362583F98188C3FB1182B7B8": {
         "name": "PW - Project Witch (Japan) (v1.02)",
@@ -18646,7 +18816,8 @@
         "size": 1687060480,
         "md5": "2e74971aa2b3a330736840d409cb28ca",
         "sha1": "1d846e38d98306d382a31f95a6e7ea0792799cf6",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "ADF094A596FFE8CF8669C0F1EC748122": {
         "name": "Rain Wonder Trip (Korea) (v1.01)",
@@ -18783,14 +18954,16 @@
         "size": 906362880,
         "md5": "4c6e3189a3eae7fe8f379de293adea33",
         "sha1": "dcede61660c3097f21d026af21b6e72637bc0941",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "NL"
     },
     "449CE739C37A177BEEEF96A786B36434": {
         "name": "Ratatui (Portugal)",
         "size": 906362880,
         "md5": "449ce739c37a177beeef96a786b36434",
         "sha1": "c539050795975bb9934bc289c150b8778d1649f5",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "POR"
     },
     "3518C1CF57DE9D015AC5515FB49C36ED": {
         "name": "Rottatouille (Norway)",
@@ -18821,7 +18994,8 @@
         "size": 105510912,
         "md5": "6ebdefaa131f891886ad0a20d5932bcb",
         "sha1": "3f00d696c408e9332962d0027e8d800b58848c73",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "95214D990DC3188563071ADA7A30EFF8": {
         "name": "Ratchet & Clank - Size Matters (USA) (En,Fr,De,Es,It) (v1.01)",
@@ -18836,7 +19010,8 @@
         "size": 122748928,
         "md5": "dc129f9c42b687324bd039951bff76c0",
         "sha1": "c966ec5a661f548b610f0bf0bcfda9bcf445097d",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "F3BCF15253073439179191786B60AA6B": {
         "name": "Ratchet & Clank 5 - Gekitotsu! Dodeka Ginga no MiriMiri Gundan (Japan)",
@@ -18851,7 +19026,8 @@
         "size": 614367232,
         "md5": "ca019874aa0c30d9c2c342852043c68a",
         "sha1": "08e465b52161ee80caf613c4f93713b25a06a70c",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "7CFB047B5DF01EA7FF87F89808E9FBC7": {
         "name": "Real Madrid - The Game (Europe) (En,Fr,Es,It,Pt)",
@@ -18990,7 +19166,7 @@
         "size": 1669726208,
         "md5": "4fad79985bd701354f66039d25579da8",
         "sha1": "a8462515adb23d2ed34707097a529e1efcfb58de",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "0A6C4FC815B8F77BA5D75382DAB0EEC0": {
@@ -19014,7 +19190,7 @@
         "size": 1543700480,
         "md5": "3d4165c1f59d448259a01f4dce6c5d7b",
         "sha1": "cef74af4c658510ed085906a5c286747134f795b",
-        "region": "ASI",
+        "region": "ASIA",
         "status": "verified",
         "system": "PSP"
     },
@@ -19032,7 +19208,7 @@
         "size": 906362880,
         "md5": "e22244a989684123e4142c99b016d7b0",
         "sha1": "35c6bc37c1b050b901c432f09b74c73d87647028",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "9803B37FEE5C7E40E3A42B94C26AFE6B": {
@@ -19073,7 +19249,7 @@
         "size": 1523023872,
         "md5": "8704e8df49fd9df11181ec464bb3ef8e",
         "sha1": "9ee57fc509b43f8f575bfab1056e39b686918801",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "254AA71733A69E66307515391C45E134": {
@@ -19106,7 +19282,8 @@
         "size": 619741184,
         "md5": "4c10968c6f9b5ed43adc0044d6198fa6",
         "sha1": "c67ae4c6ccfcd74afac249b09ac7096a8c049399",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "8E9A721046EE76DDB44505A41CC8524C": {
         "name": "Riviera - Yakusoku no Chi (Japan) (v1.01) (Special Edition)",
@@ -19185,7 +19362,8 @@
         "size": 1733689344,
         "md5": "365b4fee13b62b949485a58e38827c27",
         "sha1": "75eccf291ca64daf5275415adf39e457b729c64a",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "F7625952C0BBCE5D380E1413921D8B18": {
         "name": "Rugby League Challenge (Europe)",
@@ -19467,7 +19645,7 @@
         "size": 227213312,
         "md5": "675b96cec84945034d1e37b610b653cd",
         "sha1": "482c742e6534ac510a74486bb1b0cdf7cd2540e3",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "DB928E74095FF39117754A94D598E1D3": {
@@ -19483,7 +19661,7 @@
         "size": 178388992,
         "md5": "b30f8f21c418323531179e8b25aaeec1",
         "sha1": "83eebc6a530978004cbb21a0931436a1e3d1cc07",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "FE0A203048A6D71B973B40AC2D342E3F": {
@@ -19524,7 +19702,7 @@
         "size": 461799424,
         "md5": "ed58bca4e52ad5470e982b5c5ac7797f",
         "sha1": "f8a4fd65b941add47bd449fa29826407429fe5b4",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "7BA79450DAA4B917CC349CA46FB801A4": {
@@ -19664,7 +19842,7 @@
         "size": 593883136,
         "md5": "b4a74240dcdaa996eefe2d13631e383a",
         "sha1": "26ff6529b2cc6b4cc66951962e10e1defcc17f5e",
-        "region": "SPA",
+        "region": "EUR",
         "system": "PSP"
     },
     "D562D5FEC7DF29ACC411C56AD6225693": {
@@ -19747,7 +19925,8 @@
         "md5": "f69f4ddfd0b2794ab9d64488463eb998",
         "sha1": "171a324dec026c8ea5b165044edb5e5f4dd7d4c2",
         "status": "baddump",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "4A8D0953831D1E98E88F55F0D6FED105": {
         "name": "Secret Agent Clank (Korea)",
@@ -19762,7 +19941,7 @@
         "size": 1516077056,
         "md5": "19aa7ead37bd5ad21adc31a261ef7825",
         "sha1": "7f8df0d33017d728a1b80bd7b134561f763df914",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "F6CEEAFF54BFEE56FDFA3FE811CFC72D": {
@@ -19835,7 +20014,8 @@
         "size": 197394432,
         "md5": "7532c4d45e38b2df11500b8d788c82f3",
         "sha1": "280ae7edd468c9bff55eb4661a98fcd3f40f7919",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "AA3AE9879103D486B92A0393A028D384": {
         "name": "Sega Rally Revo (Japan)",
@@ -20193,7 +20373,8 @@
         "md5": "f7015d746b5b14b9194c29df5eeda845",
         "sha1": "d970d2cca78e46639f5191ac51b29a89f8e4edfc",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "67BF4CC8BEDA37C270B5021A5AD324EA": {
         "name": "Shin Megami Tensei - Persona 3 Portable (Europe) (v1.01)",
@@ -20242,7 +20423,7 @@
         "size": 1703837696,
         "md5": "ee13a0e6cc301dc1b41d150cd62f15ed",
         "sha1": "28fbda58ea9aaeb88bba0e4c2487cfcdaa453a3b",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "B28E51B5DE803EA1B98F81BB1A23D429": {
@@ -20267,7 +20448,7 @@
         "size": 1792507904,
         "md5": "026f886c476fd3f47d10d3a2e82b36c7",
         "sha1": "583605c97210fad0045fadf8aa6ae6ff9622fec5",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "DB3F8796D18AD9CA102F2306DBA40B2D": {
@@ -20398,7 +20579,8 @@
         "size": 891191296,
         "md5": "4953ebbb73de0e868191a3b1d72e25e7",
         "sha1": "c5c91bc3e5a2e0e292dfbbe1ebca27b3cc1850c2",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "F4E21E8F54B77CA4CFB31180A467E316": {
         "name": "Shinseiki GPX Cyber Formula VS (Japan) (v1.02)",
@@ -20486,7 +20668,8 @@
         "size": 1076527104,
         "md5": "786bd2494e0aa3d61dec05a1d7edd723",
         "sha1": "cf48aca74022ac4f0e433cbc8f3344f17564f66d",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "01A9C617424C548C95A0A796C2E9CBD8": {
         "name": "Shukufuku no Campanella Portable (Japan) (v1.02)",
@@ -20536,7 +20719,7 @@
         "size": 804683776,
         "md5": "ba0477902fe7ee77f8fd29164f205b5d",
         "sha1": "21e736ff4b68399e534f5e238f85ae0b7826ea34",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "7AFD545C11362922BCAA14BEBE58DDE2": {
@@ -20552,7 +20735,8 @@
         "size": 656502784,
         "md5": "773093d992865515278c7cea6ffa8b62",
         "sha1": "592f057fb6034f03af23e2a558664de990e20372",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "DD9673508661F54A8B3991A999BD3B78": {
         "name": "Silent Hill - Zero (Japan) (v1.02)",
@@ -20804,7 +20988,7 @@
         "size": 1670709248,
         "md5": "3e4730ca5cfc5467a6655501a453e836",
         "sha1": "c7db1820b559ee63c823a1dc730f023fef802734",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "517BA9F72784D68FE904092E8C2F5ED1": {
@@ -20820,7 +21004,8 @@
         "size": 1517813760,
         "md5": "edf3606872c090bef0cabdef74d83337",
         "sha1": "e9bcbe447114201f2b0028469167f09e49ccf621",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "80497351CEA1349729551F983269C0C8": {
         "name": "Skate Park City (Europe) (v1.02)",
@@ -20924,7 +21109,7 @@
         "size": 1397620736,
         "md5": "920510bc4e60ee515d89f02c1d06ef52",
         "sha1": "c5ac2809776c476dd2187a0e918898c6a967eb26",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "E924A0483EDBC5BD0A995B610EBC9168": {
@@ -20981,7 +21166,7 @@
         "size": 1219330048,
         "md5": "96b34509d7c6a36c20feda5b6bd9e29e",
         "sha1": "0f403139a0579e46b25caa399d22b1c7aaa70a82",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "D2DADAAC9B30F47FB5E960AAC4B54AB1": {
@@ -21013,7 +21198,8 @@
         "size": 375652352,
         "md5": "ed4b11709aaf1b45c29532c8ad6916c2",
         "sha1": "120f9db673cb8d6122d9b0060ff965524f8c4ed7",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "1F015944A964D7114EAF64F317F6F9E2": {
         "name": "SOCOM - U.S. Navy SEALs - Fireteam Bravo (USA) (v1.01)",
@@ -21029,7 +21215,8 @@
         "md5": "69f2e986b3f0d66e37c52cf49eff86bd",
         "sha1": "c196ea37c0c1089831f7a60dd9eb801284c3ea92",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "6E596D2F70A4E930B17CCAD24A547DD7": {
         "name": "SOCOM - U.S. Navy SEALs - Fireteam Bravo 2 (Europe) (En,Fr,De,Es,It) (v1.01)",
@@ -21044,7 +21231,8 @@
         "size": 351240192,
         "md5": "f8f9534b455f3e460be7582c01bef0e6",
         "sha1": "abfaef9a9444571f750c868c8653fdfd7f7e564d",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "7917FFB4452F037D1CA3B572F189530A": {
         "name": "SOCOM - U.S. Navy SEALs - Fireteam Bravo 2 (USA)",
@@ -21069,7 +21257,8 @@
         "md5": "8f3141467135775c5d8ba950d72be626",
         "sha1": "a1080dc22e56797f7074501537ffc651f9a1dcd0",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "DBEC03D2A0BF6F918443D0425EA0AE40": {
         "name": "SOCOM - U.S. Navy SEALs - Tactical Strike (USA)",
@@ -21135,14 +21324,16 @@
         "size": 587268096,
         "md5": "d52be71897679999cc43d32528c059e3",
         "sha1": "dbec5b3a2c0063c356b89a0023e0b8f98182c355",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "55CB48A228B299F31573D9F4E8179E54": {
         "name": "Sonic Rivals 2 (USA) (Sample)",
         "size": 519766016,
         "md5": "55cb48a228b299f31573d9f4e8179e54",
         "sha1": "18c162fd20dace1b54ec0d370ba85c4678fa705c",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "853C06455EAAD108E274B72F6737517E": {
         "name": "Sony Computer Science Kenkyuusho Mogi Kenichiro Hakase Kanshuu - Nou ni Kaikan Aha Taiken! (Japan) (v2.01)",
@@ -21157,7 +21348,8 @@
         "size": 303792128,
         "md5": "2cbb8f7b45640063a861f6ec526ae368",
         "sha1": "3615154870ee14e7b8ba90316f40b2edc0a8f436",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "BD7F844E908EE444B63108EAF13B01C8": {
         "name": "Sony Computer Science Kenkyuusho Mogi Kenichiro Hakase Kanshuu - Nou ni Kaikan Minna de Aha Taiken! (Japan) (v1.01)",
@@ -21408,7 +21600,7 @@
         "size": 875036672,
         "md5": "c42769d4fdd2dfb4337bff7027286fcd",
         "sha1": "b3300ebb64c4e270241bbef9a0843e2d59935e80",
-        "region": "SPA",
+        "region": "EUR",
         "system": "PSP"
     },
     "753D6F34F8F1ABAC4FDB10D1D9DC53A9": {
@@ -21459,7 +21651,8 @@
         "md5": "d25a570de2143337fd5b24a6343fad4a",
         "sha1": "ea2360207a942f75aefe31c0fb61732aa9cf73aa",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "46D474577E99079B8682677A97D67EBA": {
         "name": "Spider-Man 3 (Europe) (En,Fr,De,Es,It) (v1.01)",
@@ -21745,7 +21938,7 @@
         "size": 1478393856,
         "md5": "0b365dd3f1d60de2ade074a01072e09d",
         "sha1": "6930a34020e02734a8271dcbb2cd2f16e97ed079",
-        "region": "ITA",
+        "region": "EUR",
         "system": "PSP"
     },
     "2F4529CA279344CA996D1FD132959E7F": {
@@ -21769,7 +21962,7 @@
         "size": 1287684096,
         "md5": "c74ac0c373a0d4af529f51b6becd425e",
         "sha1": "f8c558f9d52dfcc62c4fce95b3e038fda888fdac",
-        "region": "GER",
+        "region": "EUR",
         "system": "PSP"
     },
     "8FDD023B7780067D8DABED3F282D2DDA": {
@@ -22196,7 +22389,8 @@
         "md5": "248afa5e132e38ef0955543fd75a3d3e",
         "sha1": "9be232920612cda1cb42eb82df1a2aacd8f9dc9d",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "236D1B41400C8392EBD32A570484661B": {
         "name": "Suto-Mani - Strobe-Mania (Japan) (v1.01)",
@@ -22236,7 +22430,8 @@
         "size": 1539833856,
         "md5": "447f3cb9e5e359fac9878535a9915d9f",
         "sha1": "2f55a83cc9b6533f9c3c2ba3cf64dd27a3cd95dc",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "6D8DF36C981D0673081F93744322A851": {
         "name": "Suzumiya Haruhi-Chan no Mahjong (Japan) (v1.02)",
@@ -22291,7 +22486,8 @@
         "size": 339214336,
         "md5": "54a56971e7dcd4bbe20598bffaaf3717",
         "sha1": "1fd89d449d3c246dd912c91be9d98e9de5b13120",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "B5B58939CD1D4A764B2AE41F20D6E243": {
         "name": "Syphon Filter - Dark Mirror (USA) (v1.01)",
@@ -22316,7 +22512,8 @@
         "size": 472285184,
         "md5": "f087da417cfe8e8559e6c43fdb7a3667",
         "sha1": "16aa60dbdb6b473f4dcea42737d51d5cf76cddd1",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "AC7F63F53C43D6CFD330F0BF7EE30F8F": {
         "name": "Syphon Filter - Logan's Shadow (USA)",
@@ -22374,7 +22571,8 @@
         "size": 389906432,
         "md5": "45515e8925e88ae7e1d1b3ca0b0502cf",
         "sha1": "1689ca6875bc75e99a815634d9d450a184e0a67d",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "524F3DEAF71CABB6737CC9A04B4D09C4": {
         "name": "Taiko no Tatsujin Portable 2 (Japan)",
@@ -22529,7 +22727,8 @@
         "md5": "0e6eb27cf8e1dabdc0724f6fd81a0a2a",
         "sha1": "ed671cb29700e58bce0265849b212f69e8c11b55",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "38243EBC5DE9EEE1F5D6606B08DE9D0E": {
         "name": "Tales of the World - Radiant Mythology (USA)",
@@ -22577,7 +22776,7 @@
         "size": 1801093120,
         "md5": "1b4cd3d94dd5f64c5628bfea247d9624",
         "sha1": "7ed3df8e698c9bb72a24bcb248cabf9432743d47",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "C94D8FE8F0548A7DA36E77263966194C": {
@@ -22585,7 +22784,8 @@
         "size": 1801093120,
         "md5": "c94d8fe8f0548a7da36e77263966194c",
         "sha1": "be75b13618e2922f8b555cc53399bceb7b897258",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "ASIA"
     },
     "A5AEAC2384409D3427B36A2650C7F321": {
         "name": "TalkMan EURO - TalkMan Europa Gengo Ban (Japan) (En,Ja,Fr,De,Es,It) (v1.03) (Software Tantaiban)",
@@ -22600,7 +22800,8 @@
         "size": 1802960896,
         "md5": "cc146cb0b9723a38b571037ed278034a",
         "sha1": "94c54aa0e9f9e2d79665f1dae41726ccb4903627",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "C12D754C2BB7DCA50354E32D2D9C42F2": {
         "name": "TalkMan (Japan) (En,Ja,Zh,Ko) (v1.02) (Microphone Doukonban)",
@@ -22616,7 +22817,7 @@
         "size": 1228374016,
         "md5": "1c8f23265b0d4926a1d41289a9a625de",
         "sha1": "26f29f10224f97af9f31ef37055c6e5150685cfa",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "887BA1E2659378C3685B29ACBAB32D2E": {
@@ -22632,7 +22833,8 @@
         "size": 1228505088,
         "md5": "73015df3a3dd7b66746621f0e2ffc13a",
         "sha1": "5bdcb676b40e3962fe8aac73777e8ce83783742a",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "9B05CFD0D041714D674908626A440234": {
         "name": "TalkMan Shiki Shabelingual Eikaiwa (Japan) (En,Ja) (Software Tantaiban)",
@@ -22656,7 +22858,8 @@
         "size": 453640192,
         "md5": "0352f3a269917e8419cd7f473eed1ffa",
         "sha1": "88ec6d265df821aa133be5990a1438bd9e57acca",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "AE35BB5DF770474CCBB0F670C145D736": {
         "name": "TalkMan Shiki Shabelingual Eikaiwa for Kids! (Japan) (En,Ja) (Software Tantaiban)",
@@ -22671,7 +22874,8 @@
         "size": 327286784,
         "md5": "5c904027fe5e60afa8367650153eb166",
         "sha1": "1a253afe213be838eec5911bec3751c95ada7e13",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "D8218BD8B8ADE1B4F38532E6EFA923E8": {
         "name": "TalkMan Travel (Japan)",
@@ -22808,7 +23012,7 @@
         "size": 1750237184,
         "md5": "245446d366746ad07fd1f2a4cc4c9220",
         "sha1": "79c59414116b60de687e3b5dda766d7a254c446d",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "610A5558857906E2BBF1352D96D5DDD4": {
@@ -22824,7 +23028,8 @@
         "size": 1783758848,
         "md5": "767cf429116fb323afbb94264cd9bfcb",
         "sha1": "76824b57d4cdcbc49f6a5946e28734be198e796f",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "3236024A1C151F9D5A3B23EDE2FD63F6": {
         "name": "Tekken - Dark Resurrection (USA) (En,Fr,De,Es,It)",
@@ -22839,14 +23044,16 @@
         "size": 1791524864,
         "md5": "251abff38ceb80e493331389a5e69207",
         "sha1": "66eb9b07114d0ca428629e98e50aeee409c7dd91",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "1B178879EBDB285D1047CB21DAFD4CBC": {
         "name": "Tekken - Dark Resurrection (Europe) (Demo)",
         "size": 1181089792,
         "md5": "1b178879ebdb285d1047cb21dafd4cbc",
         "sha1": "25cd04872d63a0e6712ae76e5e770a10f577b7d1",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "D6B3214A00438F5442807EEC3DC24944": {
         "name": "Tekken 6 (Europe) (En,Fr,De,Es,It,Ru)",
@@ -22894,7 +23101,7 @@
         "size": 1190395904,
         "md5": "748f98ac6caee54e5721791b1fbdecb1",
         "sha1": "d0c08a00fe7253449f6bcec9fabca4b61269b9e4",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "09014538CA001087EE71C843009377B5": {
@@ -22983,7 +23190,8 @@
         "size": 1811611648,
         "md5": "3e813bf8752502fdf57babab07350535",
         "sha1": "92694a26724a6612838408ff1212549ada8ce98d",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "2870F1EA032E6590D02C3B20103670F1": {
         "name": "Test Drive Unlimited (Europe) (En,Fr,De,Es,It) (v1.01)",
@@ -22999,7 +23207,8 @@
         "size": 1572765696,
         "md5": "2e9adf3854cad1d9cc3be0759912bc29",
         "sha1": "95d3339b5c3ba6f74c481e27acbf521aa72863ac",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "54FA0706DF786D4379AE96E034CAC52B": {
         "name": "Test Drive Unlimited (USA)",
@@ -23048,7 +23257,7 @@
         "size": 892665856,
         "md5": "63e8489649f4c94c1df3dee4183a32d9",
         "sha1": "3f93897684d328e696ec1ec6c7c18812f704405f",
-        "region": "SPA",
+        "region": "EUR",
         "system": "PSP"
     },
     "AA41F6C91ECD233E65ED983F68B55E76": {
@@ -23056,7 +23265,7 @@
         "size": 894271488,
         "md5": "aa41f6c91ecd233e65ed983f68b55e76",
         "sha1": "6e7ac596ab73d83c91616e4e01b231c2103c9e10",
-        "region": "GER",
+        "region": "EUR",
         "status": "verified",
         "system": "PSP"
     },
@@ -23097,7 +23306,7 @@
         "size": 1812692992,
         "md5": "21bff37420b825dd428c72543297444e",
         "sha1": "9b0a25d8bdfbf2a4a189d5f62340c4a5a1d8ad2c",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "7D9E19A7E07A9A93517EF523D5EB87C5": {
@@ -23113,7 +23322,7 @@
         "size": 1301020672,
         "md5": "13cd60bf1770a859a9c7b9925e389acf",
         "sha1": "13df342908ddeccc5c42dfc7c909680a688ae037",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "B6C2A879A82098AC71E7BFD9376FBF15": {
@@ -23137,7 +23346,8 @@
         "size": 1301381120,
         "md5": "74b0bdd2dd97adbe3d24f365e15ec129",
         "sha1": "a99ed2e6d257f773e8e8c68eb15a1a2ac17dd447",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "90C0E728D7D4E685A045564D066ADDBC": {
         "name": "Tiger Woods PGA Tour 07 (Europe)",
@@ -23211,7 +23421,8 @@
         "md5": "56ef3f9600b9d39fe3f7aa7b51c48771",
         "sha1": "5e76d2cba736c437f63fedde97f551e2af472e8f",
         "status": "baddump",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "C529238502AED7CB35ABAF692448CA66": {
         "name": "Tiger Woods PGA Tour 10 (Europe)",
@@ -23566,7 +23777,8 @@
         "size": 1812332544,
         "md5": "81a8e1669656ff99a110e9a623107c87",
         "sha1": "5dae82b4835c474eeea26895a1a007237e027107",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "EEE22318F8A8AED5A473600C39DE5A1A": {
         "name": "Tomb Raider - Anniversary (Europe) (En,Fr,De,Es,It) (v1.02)",
@@ -23613,7 +23825,8 @@
         "size": 1506312192,
         "md5": "80a1482ea254eca0ef50cffe6ffb09f5",
         "sha1": "ced3f874f56e16ee5c4bcf51a862534a9671d2c1",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "7DC0D056AEA52582099A12FC17D8E9DB": {
         "name": "Tony Hawk's Project 8 (Europe) (Fr,De,Es,It) (v1.02)",
@@ -23621,7 +23834,8 @@
         "md5": "7dc0d056aea52582099a12fc17d8e9db",
         "sha1": "581b401c6140f422eb6d3f6afa6e17d6a2396189",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "E2B5355332C76ED47F67102546ABEFBD": {
         "name": "Tony Hawk's Project 8 (USA) (v2.03)",
@@ -23725,7 +23939,7 @@
         "size": 905838592,
         "md5": "ff0c2f9581af5de5e7f245b4720abec6",
         "sha1": "7fb456ccecba3228bfc860d150d9cd14776f2c88",
-        "region": "ITA",
+        "region": "EUR",
         "system": "PSP"
     },
     "560DEC5BFB47C1350ADB87D0311F8E5F": {
@@ -23741,7 +23955,8 @@
         "size": 1634566144,
         "md5": "40e3ea199b203cfedbe4efd1303f535d",
         "sha1": "ccfa4e0187095cd0ed6b1c42c9fb475957f70767",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "GER"
     },
     "5A72246406EBB70504BF8A4A4706EFA6": {
         "name": "Transformers - Revenge of the Fallen (USA)",
@@ -23756,7 +23971,7 @@
         "size": 1752793088,
         "md5": "e68a3758183f79388dad81b3ab4252e0",
         "sha1": "716ce46670072648c16754de836f1e72f3f7d7aa",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "0546ED1F95C7E9B81CF069CBBE74E66E": {
@@ -23764,7 +23979,8 @@
         "size": 1750237184,
         "md5": "0546ed1f95c7e9b81cf069cbbe74e66e",
         "sha1": "8f403cb00f718206ca88d67c7a140b03ffd0822f",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "132E1FCB9BFD13EC43D980FD5B077CD3": {
         "name": "Transformers - The Game (Europe) (v1.02)",
@@ -23787,7 +24003,7 @@
         "size": 1560117248,
         "md5": "d10346d5dce34b4e8226586a996b17f6",
         "sha1": "84c5c9a0457d073b918846af430c918b7ca1b98d",
-        "region": "GER",
+        "region": "EUR",
         "system": "PSP"
     },
     "9504D884957458B18C96666CEE27E0BF": {
@@ -23795,7 +24011,7 @@
         "size": 1566605312,
         "md5": "9504d884957458b18c96666cee27e0bf",
         "sha1": "fdc70e4dffb2ba53c1bee5d1449e8b4de5312e4f",
-        "region": "SPA",
+        "region": "EUR",
         "system": "PSP"
     },
     "8FC52FA92E0938D43731AEA5B364F54E": {
@@ -23983,7 +24199,7 @@
         "size": 1189150720,
         "md5": "4354d5e76196ddae11149ddd0845521a",
         "sha1": "5ab1a802a536e50d8fa3138087d71347c4286326",
-        "region": "EUR",
+        "region": "FRA",
         "system": "PSP"
     },
     "318F54CF13720CE3C163B92C7220A891": {
@@ -24008,7 +24224,7 @@
         "size": 1379237888,
         "md5": "55926e72e20a68a854e574576583b0f8",
         "sha1": "f5244b862402552a4236a071873161777eccae4d",
-        "region": "SPA",
+        "region": "EUR",
         "system": "PSP"
     },
     "33DD023CF036EB8F4B55DBF6283270E1": {
@@ -24049,7 +24265,7 @@
         "size": 199229440,
         "md5": "38f2d6069adf3f3bcc6337bc84b92509",
         "sha1": "0bb2800a75ede148d069fd6c0ea85875f0939d66",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "CFB342A7B2B63C9E031AF5C4B5719186": {
@@ -24075,7 +24291,7 @@
         "size": 431947776,
         "md5": "bfb0e8aebff7da7ba0487f6e58adcb8f",
         "sha1": "f16d23bde086930c8b971bc1e00d5b72f4e39e83",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "75DBB58AFE0497092F3CAC294DD8762C": {
@@ -24290,7 +24506,8 @@
         "size": 671481856,
         "md5": "26d616a57ca65eceb926500b075fa753",
         "sha1": "2fbb818ae2081634f1261b6939b84a33ef84d8c4",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "NL"
     },
     "A5FB9AF07E61E8298F993197955700A2": {
         "name": "Uta no Prince Sama (Japan) (v2.00)",
@@ -24647,7 +24864,7 @@
         "size": 776699904,
         "md5": "61d15ee1566fcd7ab5844d63525bc5cf",
         "sha1": "6fc9ecf1532a8e5f281485d200c847d5514f5550",
-        "region": "NOR",
+        "region": "EUR",
         "system": "PSP"
     },
     "534521416BFD8790D4E63EFBB3705EE9": {
@@ -24655,7 +24872,7 @@
         "size": 778698752,
         "md5": "534521416bfd8790d4e63efbb3705ee9",
         "sha1": "68714f6a3dabd942d572c9f37cb58af4a7eefdc7",
-        "region": "SPA",
+        "region": "EUR",
         "status": "verified",
         "system": "PSP"
     },
@@ -24664,7 +24881,7 @@
         "size": 776077312,
         "md5": "c4db3eaba421181478313f17bacf06c6",
         "sha1": "9a318a7606fa0b5c4c44323e7d64b58e42569fc9",
-        "region": "FRA",
+        "region": "EUR",
         "system": "PSP"
     },
     "08D3458911C2EF76A75CE4839EEEDC86": {
@@ -24680,7 +24897,8 @@
         "size": 773193728,
         "md5": "833cf13d29b6ec24a656c804b19856b8",
         "sha1": "a4dac8970c48d2bda227c684a8f6b41a3b34faff",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "C3B1BDC4D94891E3B2C4079EE941C530": {
         "name": "Wand of Fortune - Mirai e no Prologue Portable (Japan) (v1.01)",
@@ -24788,7 +25006,7 @@
         "size": 1183744000,
         "md5": "18250b364cc0115f4b1223942b76d6dd",
         "sha1": "3cacb0f9b278ce8ffa8a66a6f11befd61865bce0",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "4EA6C2AC8F0BCAEAD16E7118F598B54E": {
@@ -24812,7 +25030,7 @@
         "size": 764739584,
         "md5": "2dc049f6317572d304ffabc3ee6c5c40",
         "sha1": "d713e2dee9d77c3755e8d370428d812ea7ae8fe0",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "97F59D1CA445235E2A431B67F2C53A0B": {
@@ -24869,7 +25087,7 @@
         "size": 1729396736,
         "md5": "e28b9b9615afd982524b0b7c0ed8386c",
         "sha1": "9d942e5a37f2e740fd8d19ada122c706d0605835",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "9EBB407DAFA6AD16EE7C9AE44A9BCF8D": {
@@ -24967,7 +25185,7 @@
         "size": 171606016,
         "md5": "3441ac44f8544e22a041e66af7f94729",
         "sha1": "6db4e2a6968fd8fef9c7fcb32efbcbdd1d62f3c1",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "E752B6E89D0B36148E156A7446A89AB0": {
@@ -25182,7 +25400,7 @@
         "size": 456884224,
         "md5": "4903d7f706bfae1bceeb3bed4b675276",
         "sha1": "6b43396c41158a3bddf0ffea9c6bd7eb1f38cc31",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "2D827F7BC9A672815F3BC83311B9D53C": {
@@ -25190,14 +25408,16 @@
         "size": 526581760,
         "md5": "2d827f7bc9a672815f3bc83311b9d53c",
         "sha1": "bdacd20b153c04af83a7d027aa94fc27f56b13d0",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "D29FFCBF37A6DF4B0867F9C2C125959B": {
         "name": "WipEout Pulse (USA) (En,Fr,De,Es,It) (Promo)",
         "size": 456949760,
         "md5": "d29ffcbf37a6df4b0867f9c2c125959b",
         "sha1": "0db2b49c523a312797d0856af560da556012b5b8",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "DF6A43B2EE58506C2618AFC9CE3E73FA": {
         "name": "WipEout Pulse (USA) (En,Fr,De,Es,It)",
@@ -25212,7 +25432,8 @@
         "size": 404848640,
         "md5": "33216c9e7e01d3ae8f9e9cac679bb0fd",
         "sha1": "a395d61a858d9f91796b4ba81211437f68b2b15e",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "181D349BB577F0CC4AAFDC54D9AEA96B": {
         "name": "WipEout Pure (Europe) (En,Fr,De,Es,It) (v1.01)",
@@ -25245,7 +25466,8 @@
         "md5": "fcd1476a60705344444d7f2a6c7aeca2",
         "sha1": "30d4d9bccb5a6615de2a997cd35e74696ae5389b",
         "status": "verified",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "6B3DA555861AE94F9B17F69727813631": {
         "name": "WipEout Pure (Korea) (v1.01)",
@@ -25449,7 +25671,8 @@
         "size": 906362880,
         "md5": "05730187cfae26a8617a402f7b6e0f4a",
         "sha1": "74fab22adbd813a51456c3042ee39e404bf8232d",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "970524054C8967A2ADF278130BFD75FF": {
         "name": "World Tour Soccer 06 (USA)",
@@ -25464,7 +25687,8 @@
         "size": 906362880,
         "md5": "6adaa87ba34229badb704d2d647f2435",
         "sha1": "0654a87908a83e1f372d6b7e20066b42c6431b43",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "E3B3ED26F60415B8A0423E5A6D25F675": {
         "name": "Worms - Open Warfare (Europe) (En,Fr,De,Es,It) (v1.01)",
@@ -25527,7 +25751,8 @@
         "size": 1697415168,
         "md5": "1e662c846b12175265ff44cfe258d71a",
         "sha1": "91afafeebe7efffdce189a3053fca43292806991",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "BC5F0700700A8FC219C87034A26E2FED": {
         "name": "WTF - Work Time Fun (USA) (v1.01)",
@@ -25560,7 +25785,8 @@
         "md5": "208b6714a4433a73513393f68486d4d2",
         "sha1": "3ac5940384b3822b599525e45b2e7dc55fb34320",
         "status": "baddump",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "USA"
     },
     "4274F27D0638FF9C42DF9EB33EB51ECD": {
         "name": "WWE All-Stars (Europe)",
@@ -25664,7 +25890,8 @@
         "size": 1785757696,
         "md5": "9ec9dd6f8d728b2134332e9a8ab29e9a",
         "sha1": "0b059de2bbdd2e1fefcb6eebc82ea010e74f4ce6",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "E1E670DEA4C8BC84605923EAA05E82E0": {
         "name": "WWE SmackDown! vs. RAW 2009 featuring ECW (Europe)",
@@ -25687,7 +25914,8 @@
         "size": 1563066368,
         "md5": "a080f6fa1476cf5914b997551e9bf190",
         "sha1": "01c765985631f3e368bfa305daefa0893ff7e8ce",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "4F7D38C020A1722914E450F21A188FC9": {
         "name": "WWE SmackDown! vs. RAW 2010 featuring ECW (Europe) (v1.01)",
@@ -25823,7 +26051,7 @@
         "size": 1567227904,
         "md5": "4f783eee9d1cfe9091bd843f2347914f",
         "sha1": "4fd6e8e278bd83843bd682d2c730185fc33306b5",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "7B8DF3B834A89E6EE1F701EAB9149032": {
@@ -25863,7 +26091,7 @@
         "size": 1462566912,
         "md5": "2ed6cfd861b802cc4a2143aad5b9e6a4",
         "sha1": "97bf6572bd3752a7e6b3ffceccccac48b7588853",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "D37CEA726430A6DC0C3E4111CEDB53E8": {
@@ -25879,7 +26107,7 @@
         "size": 1226801152,
         "md5": "f9b73e3238e186ef7c3297c1b4d196a5",
         "sha1": "84c7742d6751698b9dec3883aed4b66489af8352",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "8759E970BFCA865E959FC2D762F2FAEB": {
@@ -25895,7 +26123,7 @@
         "size": 1256488960,
         "md5": "663fe287e899259deb12bc2f29263a92",
         "sha1": "d07e9e94ee9670c28ae576a25ca64436f6a18740",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "86C931EAE2F19995D6CEB21302D998E9": {
@@ -25911,7 +26139,7 @@
         "size": 1250885632,
         "md5": "5ba775f1b6a8947c4eded44c909279e9",
         "sha1": "b246d7b9b2b8d9daf345e933decc5e589b05ca42",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "CB126D5E6273F1D7CA9981A64C4E31E1": {
@@ -25927,7 +26155,7 @@
         "size": 1274609664,
         "md5": "949ef29a0bc237df2d2990417aa7e625",
         "sha1": "13af74d37eeff2496f86ba4daf3c2ac0d5413f8c",
-        "region": "ASI",
+        "region": "ASIA",
         "system": "PSP"
     },
     "A091606FB7A7C3B79B56E86A70BD559E": {
@@ -25986,7 +26214,8 @@
         "size": 866254848,
         "md5": "7a6065a5e80920d40751db116a64d7a1",
         "sha1": "16ec13fc368e8266263e0637394d7e0102325292",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "JPN"
     },
     "E4D5FDD9072F86F45E75DEE217A5EE49": {
         "name": "Ys - Napishtim no Hako (Japan) (v1.03) (Tokubetsuban)",
@@ -26176,7 +26405,8 @@
         "size": 1754347520,
         "md5": "e49569baa900a74dbd365d983cfb74e6",
         "sha1": "9a67ac15f8b56b3442f7e307e35b4519590d8fe2",
-        "system": "PSP"
+        "system": "PSP",
+        "region": "EUR"
     },
     "C28C8B13078919255D7623C921F8D82E": {
         "name": "Yu-Gi-Oh! GX - Tag Force 3 (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl) (v1.02)",

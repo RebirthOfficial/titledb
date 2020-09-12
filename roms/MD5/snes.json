@@ -746,7 +746,7 @@
         "size": 2097152,
         "md5": "92b75bed7f7a539e7df5a8c4e703b3a1",
         "sha1": "a8585b3e61c610af18a077dd1a2ea3d0aa25dda8",
-        "region": "INT",
+        "region": "USA",
         "status": "verified",
         "system": "SNES"
     },
@@ -1625,7 +1625,7 @@
         "size": 1048576,
         "md5": "38bace8688b9962e2f90b294e0e4956b",
         "sha1": "149e916dfd4058f8de97d7bc8f74d5e630853ffb",
-        "region": "INT",
+        "region": "JPN",
         "system": "SNES"
     },
     "D349F2853C8795C46FA2CD82268D0C18": {
@@ -3180,7 +3180,7 @@
         "size": 2097152,
         "md5": "0726f74c1173cb59bb3908385a148cb2",
         "sha1": "930ab53fded53a65824690b394d6e8c6565c083b",
-        "region": "INT",
+        "region": "USA",
         "status": "verified",
         "system": "SNES"
     },
@@ -4266,7 +4266,7 @@
         "size": 3072,
         "md5": "037ac4296b6b6a5c47c440188d3c72e3",
         "sha1": "a002f4efba42775a31185d443f3ed1790b0e949a",
-        "region": "INT",
+        "region": "USA",
         "system": "SNES"
     },
     "DB9465E77AC9B8A496D0039031C9D446": {
@@ -5012,7 +5012,7 @@
         "size": 2097152,
         "md5": "85f2e975d484f3735012ad7eab4bca51",
         "sha1": "82a8406ba79971ac62d4e79971a4169c4461725e",
-        "region": "INT",
+        "region": "USA",
         "system": "SNES"
     },
     "EEF0F5D6606B40819A5623DF2CA4955A": {
@@ -5521,7 +5521,7 @@
         "size": 4194304,
         "md5": "c404ab597eb5db701c2bd503c33ed089",
         "sha1": "61de74e32e1625ae318d38508fe865b324dcee93",
-        "region": "INT",
+        "region": "USA",
         "system": "SNES"
     },
     "738B5CED005273A7AA1723B32786890E": {
@@ -6016,7 +6016,7 @@
         "size": 8192,
         "md5": "428fdb968d54353d9c9eced1b0586671",
         "sha1": "188d471fefea71eb53f0ee7064697ff0971b1014",
-        "region": "INT",
+        "region": "USA",
         "system": "SNES"
     },
     "332273CC0DF5775D3803F2FD88E95D18": {
@@ -6024,7 +6024,7 @@
         "size": 8192,
         "md5": "332273cc0df5775d3803f2fd88e95d18",
         "sha1": "78b724811f5f18d8c67669d9390397eb1a47a5e2",
-        "region": "INT",
+        "region": "USA",
         "system": "SNES"
     },
     "54ECF1DC3401BA5DC0D2A838C26F35C5": {
@@ -6040,7 +6040,7 @@
         "size": 8192,
         "md5": "9ebbdcec67c0c01d5a0593d3cf167c9e",
         "sha1": "198c4b1c3bfc6d69e734c5957af3dbfa26238dfb",
-        "region": "INT",
+        "region": "USA",
         "system": "SNES"
     },
     "484908D68405D44E2BE757B4E1E75D15": {
@@ -6056,7 +6056,7 @@
         "size": 8192,
         "md5": "f229fda2d7b33c5a218cba28147ab9b8",
         "sha1": "af6478aecb6f1b67177e79c82ca04c56250a8c72",
-        "region": "INT",
+        "region": "USA",
         "system": "SNES"
     },
     "BA4B6F2C3195DF69497F1F32FE697746": {
@@ -12489,7 +12489,7 @@
         "size": 3145728,
         "md5": "4546f1ae84cebdafc86b9487d01d319e",
         "sha1": "7a7dc960d8c5946d249d715c9595257f65801db4",
-        "region": "INT",
+        "region": "USA",
         "status": "verified",
         "system": "SNES"
     },
@@ -13971,7 +13971,7 @@
         "size": 3145728,
         "md5": "e5ba6b230aa1e4986b7cd3906c63b170",
         "sha1": "2cbb1a60656c6571ecb0b0cd8ae8e46609f37514",
-        "region": "NL",
+        "region": "HOL",
         "status": "verified",
         "system": "SNES"
     },
@@ -18520,7 +18520,7 @@
         "size": 8388608,
         "md5": "21a22272f3d2961d5004e224fd1b969f",
         "sha1": "fc83981d26a189bbc1e2e552ae91fc202cdd5261",
-        "region": "INT",
+        "region": "USA",
         "system": "SNES"
     },
     "5D103C68EDE69EA754701E26FF2350E0": {
@@ -19195,7 +19195,7 @@
         "size": 2097152,
         "md5": "0a36948bb2aee077113f75b0b3f9e773",
         "sha1": "40aef565230d70b833a73197adac73549b152f67",
-        "region": "INT",
+        "region": "USA",
         "system": "SNES"
     },
     "D705272112CA6F1FD0F8C93DFD0E5D0C": {
@@ -19203,7 +19203,7 @@
         "size": 8388608,
         "md5": "d705272112ca6f1fd0f8c93dfd0e5d0c",
         "sha1": "8b811098d64567729baca24ea8e6578f481099a9",
-        "region": "INT",
+        "region": "USA",
         "system": "SNES"
     },
     "8379D0277138024063110C1DB828CAD6": {
@@ -20462,7 +20462,7 @@
         "size": 524288,
         "md5": "2114d08f617eaad8c6e08e9e8ebafcb1",
         "sha1": "856c5c858b278e97df7b41828fbd757d7e0c0321",
-        "region": "USA",
+        "region": "SPA",
         "status": "verified",
         "system": "SNES"
     },
@@ -21185,7 +21185,7 @@
         "size": 2097152,
         "md5": "3e942c28552d8b8673fe80979b3c1f73",
         "sha1": "fa48972ae8406b7ef17b3b0096bed6b858d36939",
-        "region": "INT",
+        "region": "USA",
         "system": "SNES"
     },
     "095BC90D5A35570B7AD74EAC6D24CA37": {
@@ -21680,7 +21680,7 @@
         "size": 6291456,
         "md5": "d40bd9267fb21ad8f8987cb8da473dbc",
         "sha1": "128d966ecf656957b9b9b39128817d1c6a9cbd21",
-        "region": "INT",
+        "region": "USA",
         "status": "verified",
         "system": "SNES"
     },
@@ -21689,7 +21689,7 @@
         "size": 6291456,
         "md5": "4edb2359e76a7ac13dc0d8d79783b038",
         "sha1": "241d5eea760fbdcffcfafd1064d68f18ec38fb94",
-        "region": "INT",
+        "region": "FRA",
         "status": "verified",
         "system": "SNES"
     },
@@ -21698,7 +21698,7 @@
         "size": 6291456,
         "md5": "5fb4a64249b0937fb189fbbf6248805c",
         "sha1": "5c2088cdc86c4792aeeffdfbe19004a32d3396c4",
-        "region": "INT",
+        "region": "GER",
         "status": "verified",
         "system": "SNES"
     },
@@ -21707,7 +21707,7 @@
         "size": 6291456,
         "md5": "4bad426ef6070dc2c2732acb12b6b3bf",
         "sha1": "6908bc9191e4271f9cbb28420db793f7cabd3bd6",
-        "region": "INT",
+        "region": "SPA",
         "status": "verified",
         "system": "SNES"
     },
@@ -22917,7 +22917,7 @@
         "size": 1048576,
         "md5": "83e32937e3edc564e117ff70e6b8f5c9",
         "sha1": "dfd2856dcf975aed784546d1b452eb3fec3f3a90",
-        "region": "INT",
+        "region": "USA",
         "status": "verified",
         "system": "SNES"
     },
@@ -23065,7 +23065,7 @@
         "size": 3145728,
         "md5": "3dfe9582fc493ef793cfa7cf3ed2acec",
         "sha1": "f7501045b5326255f3bde0543eb0a541b62588a9",
-        "region": "INT",
+        "region": "USA",
         "system": "SNES"
     },
     "646266B49957FDD51D19FA9496E6480B": {
@@ -24023,7 +24023,7 @@
         "size": 2097152,
         "md5": "852ecf00f608c53db8ad6d3208ac25b1",
         "sha1": "22f864b4a8728f08513b979d2a960eb3083b2c83",
-        "region": "INT",
+        "region": "USA",
         "system": "SNES"
     },
     "A5ADB1AB3DAA665A58AD6AD1111D8F5B": {
@@ -24738,7 +24738,7 @@
         "size": 2097152,
         "md5": "bc3e7f53d233442fbe5061800b795ffa",
         "sha1": "9b4c25f1219335e43db59e3b511c9187ee82fd20",
-        "region": "CHN",
+        "region": "ASI",
         "system": "SNES"
     },
     "24CDD84975E4D8146146940E74775B2F": {
@@ -25091,7 +25091,7 @@
         "size": 1048576,
         "md5": "1c05d1b60aa41166d04dc93894f79d05",
         "sha1": "138320659a5168f59ff3f8e8bebd98a0592a271e",
-        "region": "AUS",
+        "region": "EUR",
         "status": "verified",
         "system": "SNES"
     },
@@ -25585,7 +25585,7 @@
         "size": 524288,
         "md5": "594d25ab061e52409723f519d584c732",
         "sha1": "f93250b2914c7550a0607c2197ee39f5834cebab",
-        "region": "EUR",
+        "region": "SWE",
         "system": "SNES"
     },
     "7803710E1B59F8B12219B64DE39DEA61": {
@@ -25602,7 +25602,7 @@
         "size": 262144,
         "md5": "b15ddb15721c657d82c5bab6db982ee9",
         "sha1": "973e10840db683cf3faf61bd443090786b3a9f04",
-        "region": "INT",
+        "region": "USA",
         "status": "verified",
         "system": "SNES"
     },
@@ -25653,7 +25653,7 @@
         "size": 256,
         "md5": "d574d4f9c12f305074798f54c091a8b4",
         "sha1": "aa2f50a77dfb4823da96ba99309085a3c6278515",
-        "region": "INT",
+        "region": "USA",
         "status": "verified",
         "system": "SNES"
     },
@@ -28867,7 +28867,7 @@
         "size": 8388608,
         "md5": "5513579a778a6045ceabca1e3cc988e8",
         "sha1": "0488a08a003f57335202f03fe96f1dc7c1f5aab1",
-        "region": "INT",
+        "region": "USA",
         "system": "SNES"
     },
     "2402F5886F141C8C81AD863B1F603975": {
@@ -29641,7 +29641,7 @@
         "size": 1048576,
         "md5": "44a9023e8bc4a1d73d6654ad79745707",
         "sha1": "92a3ce60b79d4409ae51048cf3ce0e84828e178d",
-        "region": "BRA",
+        "region": "SPA",
         "status": "verified",
         "system": "SNES"
     },
@@ -32224,7 +32224,7 @@
         "size": 2097152,
         "md5": "740e48a66f1de6135c818433daaafc55",
         "sha1": "7ea216437c77e1ac20f9a00eb53b283d269aa15a",
-        "region": "INT",
+        "region": "USA",
         "system": "SNES"
     },
     "1E6D224DD2A2BC8678B7AA5817C7DB96": {

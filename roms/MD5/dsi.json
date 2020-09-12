@@ -2037,7 +2037,7 @@
         "size": 2544640,
         "md5": "D61146922ABD47635A02C6CC3FDF6AE0",
         "sha1": "371e7e795d2dafc5fcb70800c2b050056c05c22e",
-        "region": "EUR",
+        "region": "GER",
         "status": "verified",
         "system": "DSI"
     },
@@ -2354,7 +2354,7 @@
         "size": 6187008,
         "md5": "B73C754631CD622B9FE27A839F7AF093",
         "sha1": "f726293f7ce54a446a8156b1fd775584cb58dcc4",
-        "region": "EUR",
+        "region": "JPN",
         "system": "DSI"
     },
     "CD989504C5CC6126FC9E7D8ACEAB080F": {
@@ -2683,7 +2683,7 @@
         "size": 4726784,
         "md5": "8AEAFBC04A62D6F3624819B7B4ADACC2",
         "sha1": "6166590966ba67bad9967475c12bda9fe90fff04",
-        "region": "HOL",
+        "region": "NL",
         "status": "verified",
         "system": "DSI"
     },
@@ -2895,7 +2895,8 @@
         "md5": "EE271D4A31A5A98BF8A9A12EB792DB2B",
         "sha1": "2106a64ef22bbd4039d9af4b5052e2dc74a29999",
         "status": "verified",
-        "system": "DSI"
+        "system": "DSI",
+        "region": "JPN"
     },
     "CF9EE180C4CC9863E1CB970E9B800B2F": {
         "name": "Game & Watch - Judge (USA, Europe)",
@@ -3434,7 +3435,7 @@
         "size": 2281472,
         "md5": "A40BB8FF863043C58475B6192EF86C35",
         "sha1": "d5adcc9705a4bf6e85f68f6d3c93ffd2464322c9",
-        "region": "HOL",
+        "region": "NL",
         "status": "verified",
         "system": "DSI"
     },
@@ -5469,7 +5470,7 @@
         "size": 2552832,
         "md5": "232D185F8B6FE18DEE3BAC1193F0844B",
         "sha1": "c0f12924671050b22ef9d4db919486da6fa48008",
-        "region": "EUR",
+        "region": "FRA",
         "status": "verified",
         "system": "DSI"
     },
@@ -5921,7 +5922,7 @@
         "size": 676,
         "md5": "E74C83D30197B665EDA58C8DD22D497A",
         "sha1": "5170f6d413d9209533cf4e3e862aeb90d79efe60",
-        "region": "USA",
+        "region": "INT",
         "status": "verified",
         "system": "DSI"
     },
@@ -6490,7 +6491,7 @@
         "size": 5478400,
         "md5": "601542E208E669C1CF29398EE9BCED40",
         "sha1": "b009d4ea4f836e53dcce9d22be142273700668b6",
-        "region": "HOL",
+        "region": "NL",
         "status": "verified",
         "system": "DSI"
     },
@@ -7121,7 +7122,8 @@
         "md5": "418A63F9786DA155DF8C864493338EC0",
         "sha1": "282024eee8e758acac460491b2ac7b7805c0ed78",
         "status": "verified",
-        "system": "DSI"
+        "system": "DSI",
+        "region": "JPN"
     },
     "B2014186CEFA3A49C49F9385511A05C6": {
         "name": "Dr. Mario Express (USA) (Rev 1)",
@@ -7410,7 +7412,8 @@
         "md5": "E5DA7DE91B5697BAB97080F51E89E4A2",
         "sha1": "0e7a169eac63df5362fe58e8a78f59b8dfd48217",
         "status": "verified",
-        "system": "DSI"
+        "system": "DSI",
+        "region": "USA"
     },
     "3E285B6AE9769681E2C51BD3E557D911": {
         "name": "Mario vs. Donkey Kong - Mini Mini Sai Koushin! (Japan)",
@@ -8472,7 +8475,7 @@
         "size": 2539520,
         "md5": "8D36F9C2896A6F2B28178E900844C2B7",
         "sha1": "3b4ce12990ad00321febbaccfcf594346794ad79",
-        "region": "EUR",
+        "region": "SPA",
         "status": "verified",
         "system": "DSI"
     },

@@ -1004,7 +1004,8 @@
         "md5": "74443f278fdf9931255035430632da3c",
         "sha1": "18e1d82ea5e5fc3ed4b9875e220b39e51df809fe",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "4E46DD3AE5C9C70C49587D093517049A": {
         "name": "Ace Combat Advance (USA, Europe)",
@@ -1155,7 +1156,8 @@
         "md5": "27f322f5cd535297ab21bc4a41cbfc12",
         "sha1": "d0a0a4cfe9b95ac7118f7ef476f014ca0242eb65",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "04775A93461D24CF1A7E3346D244E516": {
         "name": "Advance Wars (USA) (Rev 1)",
@@ -1172,7 +1174,8 @@
         "md5": "0cf8afe8006793c1c96ade67e872ce84",
         "sha1": "44551654068eac31e29de2f8d78059a1b1f14347",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "C3F79DD7EB12B961F5BDD00C05EB37A7": {
         "name": "Advance Wars (Europe) (En,Fr,De,Es) (Virtual Console)",
@@ -1180,7 +1183,8 @@
         "md5": "c3f79dd7eb12b961f5bdd00c05eb37a7",
         "sha1": "5ab62a81e34c5786e879446bd4dea5ca071eb94b",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "C5BE1188D3ED703A50426C4D552B469F": {
         "name": "Lu-Hai-Kong Dazhan (China) (Proto)",
@@ -1188,7 +1192,8 @@
         "md5": "c5be1188d3ed703a50426c4d552b469f",
         "sha1": "fca8d30cb57b0602d84947b869717542e4632733",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "CHN"
     },
     "AD4CF738F97416827BAF17D6C43576D7": {
         "name": "Advance Wars 2 - Black Hole Rising (Europe) (En,Fr,De,Es,It)",
@@ -1214,7 +1219,8 @@
         "md5": "4db9e72d1867b8f4f745d54486bb6cf4",
         "sha1": "f6df48f6d7a36965f795023c039fb05985418132",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "24409E68056B96BD4530D774F163D798": {
         "name": "Advance Wars 2 - Black Hole Rising (Europe) (En,Fr,De,Es,It) (Virtual Console)",
@@ -1222,7 +1228,8 @@
         "md5": "24409e68056b96bd4530d774f163d798",
         "sha1": "c0d436830eba89d8f2f609c1e2e6bcd276822677",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "84E3389B9A4A120959B37C15B5BCC460": {
         "name": "Adventure of Tokyo Disney Sea (Japan)",
@@ -1254,7 +1261,8 @@
         "size": 4157240,
         "md5": "451ad2324cce205bab6913abd02e5f1e",
         "sha1": "c6d06002f71b3023b9d93a5d237b289cec51242e",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "GER"
     },
     "2C2E9B38C21FD511B4F1871B12183416": {
         "name": "Adventures of Jimmy Neutron Boy Genius, The - Attack of the Twonkies (USA, Europe)",
@@ -1312,7 +1320,8 @@
         "size": 4194304,
         "md5": "a7763d58c7fd18307cefd9bcb6391d89",
         "sha1": "3f88084c501fb15820f6ad9a9c87ac21af3b59eb",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "D9EA8C0A5CB934DDC7801389FABA43E2": {
         "name": "Agassi Tennis Generation (Europe) (En,Fr,De,Es,It)",
@@ -1380,7 +1389,8 @@
         "size": 4194304,
         "md5": "a5c6b967e5d7c35d2aba50bbf4c5657c",
         "sha1": "9a0623a8680c4cf9b745f940b99da0a192764828",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "8ED4304E943B553F8FF3ABC1E66EA91E": {
         "name": "Aladdin (Europe) (En,Fr,De,Es)",
@@ -1494,14 +1504,16 @@
         "size": 8388608,
         "md5": "766f6e0b917707f098faf6501207a94c",
         "sha1": "e6ad581061116daa69f12fac798b4e7e81f6f8b2",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "B5518F9500708791A1FE10DE6B8C3522": {
         "name": "All-Star Baseball 2004 (USA) (Beta 1)",
         "size": 8388608,
         "md5": "b5518f9500708791a1fe10de6b8c3522",
         "sha1": "f1d17e2083e0ad5b13162b6eff550a88bb4ef7c8",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "C7C56AAED390488E4112EF64B51BB2AD": {
         "name": "Altered Beast - Guardian of the Realms (Europe) (En,Fr,De,Es,It)",
@@ -2117,7 +2129,8 @@
         "md5": "43ccab5d3761e9964500a454fdf6776b",
         "sha1": "f2d3d4f8226c17c5391abcb2a2cbce10c59ab4c7",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "3B3CDB2583A22769FB80BAE6B334DC81": {
         "name": "Banjo-Kazooie - Grunty's Revenge (Europe) (En,Fr,De,Es,It) (Beta 1)",
@@ -2125,7 +2138,8 @@
         "md5": "3b3cdb2583a22769fb80bae6b334dc81",
         "sha1": "5a0b6fe8ac36e05de9c2e9b31d8b68ef125f4d96",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "288280C929CDE064B9363A7AD4548A76": {
         "name": "Banjo-Kazooie - La Vendetta di Grunty (Italy)",
@@ -2546,7 +2560,8 @@
         "size": 16777216,
         "md5": "f50a0c3fbf3e206528a3e6f99c80820c",
         "sha1": "b7361717769fa942e04827de416b1fc1b5bcfd3e",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "GER"
     },
     "01D53AE496CA36129F7A62CCF3CEED83": {
         "name": "Bible Game, The (USA)",
@@ -2631,7 +2646,8 @@
         "size": 8388608,
         "md5": "8364f53c818449f93687ec490cd90120",
         "sha1": "7ff9811e2bd40b24da02be194213d41a0885aa34",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "F4F51F42AF0FCF96A1C33705F7F5CE08": {
         "name": "Bionicle - Maze of Shadows (USA)",
@@ -2732,7 +2748,8 @@
         "size": 8388608,
         "md5": "8e501d5abf552c71851b535f451ee663",
         "sha1": "2f5ad08e5e87533328deb688d383313e558a44d6",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "20D7B1BCAF56617DF5718F0052A83011": {
         "name": "Black Black - Bura Bura (Japan)",
@@ -2807,7 +2824,8 @@
         "md5": "63233c0e440c0b351ef902bfdbcf7b2e",
         "sha1": "d57b1f717ee65a8e45cf5c2a38a9fc542a1d1d20",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "2B9A9998D870AFAEC5D7B0F1A2A477F4": {
         "name": "BMX Trick Racer (USA)",
@@ -2892,7 +2910,8 @@
         "size": 16777216,
         "md5": "5eed126956c06a047b7098e0facd7067",
         "sha1": "f91126cd3a1bf7bf5f770d3a70229171d0d5a6ee",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "9F1C1202ED1D856C5836CEE6818A171E": {
         "name": "Bokura no Taiyou - Taiyou Action RPG (Japan)",
@@ -2926,7 +2945,8 @@
         "size": 16777216,
         "md5": "f4e3dead5af182598623cf89f9a428f4",
         "sha1": "54a4dcdeca2ee9a22559eb104b88586386639097",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "6449DC62CDF67C4D4D293FEBD38DCFDA": {
         "name": "Zoku Bokura no Taiyou - Taiyou Shounen Django (Japan) (Rev 1)",
@@ -3519,7 +3539,8 @@
         "size": 4194304,
         "md5": "fb6512463e361b4a79bb4f62bfca86fd",
         "sha1": "1a89cecd9bf89df42ae4ef35d17d437b17e53c80",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "5C1230403A28121A7235D3CDA810E96A": {
         "name": "Calciobit (Japan)",
@@ -3618,7 +3639,8 @@
         "size": 16777216,
         "md5": "0a05b2762f053783d9e1d20ed10a6b4a",
         "sha1": "2149b1f92fcd114fa78ee6303181cdc9903ae237",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "ED307F6EA37B57EAE6E7D32B76FDDF7D": {
         "name": "Care Bears - The Care Quests (Europe) (En,Fr,De,Es,It,Nl,Pt,Da)",
@@ -3780,7 +3802,8 @@
         "md5": "4da06e60c419238f114ca2c632a094c5",
         "sha1": "b5fa3402a8fb86786f97d08f88b3cbc790bb5d6e",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "50A1089600603A94E15ECF287F8D5A1F": {
         "name": "Castlevania - Circle of the Moon (USA)",
@@ -3797,7 +3820,8 @@
         "md5": "2cc38305f62b337281663bad8c901cf9",
         "sha1": "e055b4ab00e16ec39c9036ef85463c770d809c6c",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "4A5D8E686D55829D54A03FDA8D6887D7": {
         "name": "Castlevania - Aria of Sorrow (Europe) (En,Fr,De)",
@@ -3823,7 +3847,8 @@
         "md5": "a7f1f118df6437e4dc1d2906dbb2109b",
         "sha1": "353bd090e2479fabccc889f1458d00d67ab5b81f",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "E7470DF4D241F73060D14437011B90CE": {
         "name": "Castlevania - Aria of Sorrow (USA)",
@@ -3840,7 +3865,8 @@
         "md5": "83319d4f9e32e0ef5a5c1fc423f174d5",
         "sha1": "b69a77970878b453e2b308fe124641f66925ae6a",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "E21564DEA14E62D831CC1FFE2FEFAD0B": {
         "name": "Castlevania - Aria of Sorrow (Europe) (En,Fr,De) (Virtual Console)",
@@ -3848,7 +3874,8 @@
         "md5": "e21564dea14e62d831cc1ffe2fefad0b",
         "sha1": "458c42a6b8fd6cf18579b0f7eef9dcd12b43c12b",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "E619F9DCD7EF3D4C6851834018B139BD": {
         "name": "Castlevania - Harmony of Dissonance (Europe)",
@@ -3975,7 +4002,8 @@
         "size": 4194304,
         "md5": "ab6251b0f54cf6787fd4a6b5d5d4c5b6",
         "sha1": "b713f9658f8f5c24c1bc1c840bd74ae4b3edd2d3",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "A458D8CF99EE5DBF244B0900E7DF0588": {
         "name": "Nakayoshi Pet Advance Series 3 - Kawaii Koneko (Japan) (Rev 1)",
@@ -4363,7 +4391,8 @@
         "size": 4194304,
         "md5": "071c28e42eb8ddcca7bf8e81ced22b1d",
         "sha1": "03d9257bd0ee161fde3b512f8e522a4b8c075745",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "588203BD9DE678A55A9F1707931302F2": {
         "name": "Classic NES Series - The Legend of Zelda (USA, Europe)",
@@ -4515,7 +4544,8 @@
         "md5": "7335165118ee0eb99c3a911bd2f73ce3",
         "sha1": "f04aa9f1dd0fc7b5bca47aa19bde8e2a9ac0f35f",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "78672EAD9F35F00E467F8C7D308ACDFC": {
         "name": "Contra Advance - The Alien Wars EX (USA)",
@@ -4532,7 +4562,8 @@
         "md5": "afa41ce5b29fae6464ca878691edb46b",
         "sha1": "6bfca66655a58405337da4f040f758d7312f17ef",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "3700B0ED17C59B333B19D2FBC7D37EF9": {
         "name": "Contra Advance - The Alien Wars EX (Europe) (Virtual Console)",
@@ -4540,7 +4571,8 @@
         "md5": "3700b0ed17c59b333b19d2fbc7d37ef9",
         "sha1": "56dd2e44fa4eec7a952e7440862329efeec048b8",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "D3F866C892022EC6FA89B4DBDBCB0EFA": {
         "name": "Contra Hard Spirits (Japan) (En)",
@@ -4650,7 +4682,8 @@
         "size": 16777216,
         "md5": "a9c93a07964aa816a8e226ae0c735a41",
         "sha1": "35d1c8c90890bf7ce66306e6c06a3676a723dcf3",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "24EF180602E0658BBE38FABC5D09894C": {
         "name": "Crash Bandicoot Purple - Ripto's Rampage (USA) (Rev 1)",
@@ -4792,14 +4825,16 @@
         "size": 4194304,
         "md5": "7fc96f1c2565f244c7dd561b6cbe43bf",
         "sha1": "55805ec4d5dfa28d628c2c9e3df509a8763929eb",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "2670653630214CF574B16ED8A7C9EA9E": {
         "name": "Crazy Chase (Europe) (En,Fr,De) (Beta)",
         "size": 4194304,
         "md5": "2670653630214cf574b16ed8a7c9ea9e",
         "sha1": "39530e28dd22a710f2cc414b377c638078aa54b7",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "F341BAB11F2BFD79B995554D40A61CBA": {
         "name": "Crazy Frog Racer (Europe) (En,Fr,De,Nl)",
@@ -4906,7 +4941,8 @@
         "size": 8388608,
         "md5": "6cb4dc8b610a4238a159a7037185540d",
         "sha1": "af24d128b28758a8a1bda45b5a24a299e1e14b90",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "987308F23CEA98609A77629CC1BFB23A": {
         "name": "Cruis'n Velocity (USA, Europe)",
@@ -4922,7 +4958,8 @@
         "size": 8388608,
         "md5": "6a0d1dd9bc181792f61f7c92262392c4",
         "sha1": "d1716d4603dd8db7ae8715d5142a60230d17e1d2",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "09DAAE27C8D72F04AC2EA12D8A9CC89D": {
         "name": "Crushed Baseball (USA)",
@@ -4954,7 +4991,8 @@
         "size": 4194304,
         "md5": "6dbd1f78af20f0034a05c396db83b86f",
         "sha1": "fab8b62a141865f12c69334f4db14c837d9d94af",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "B2E1C0DE1D83068B2DAA90EFC543BD29": {
         "name": "CT Special Forces - Back to Hell (Europe) (En,Fr,De,Es,It,Nl)",
@@ -5190,7 +5228,8 @@
         "md5": "dc5f5d4a85fee39dc0a6ebd59cd566e7",
         "sha1": "5d98b5179f4e9ae7ae72d6a43bed5f046f881a7b",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "BCE3926504E6FBC983463AA238EE5FAF": {
         "name": "Dave Mirra Freestyle BMX 3 (USA, Europe)",
@@ -5340,7 +5379,8 @@
         "size": 8388608,
         "md5": "fab0e663d83fa071089cc626b84c92eb",
         "sha1": "c2db9b977758b4f350340f981baffcc0bba0c6c2",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "F87A7DC67415D1F4C16CC430FCF98D9D": {
         "name": "DemiKids - Light Version (USA)",
@@ -5415,7 +5455,8 @@
         "md5": "38856f86a30538cbb3e4164da96002a7",
         "sha1": "c10913d0139048feb1c14da03a949f5572855daa",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "CHN"
     },
     "0635251B85657F9C1DE295546DA09AEB": {
         "name": "Densetsu no Stafy 2 (Japan)",
@@ -5432,7 +5473,8 @@
         "md5": "8dc9eb3c6a76fe563bdd7b7d10f2b72c",
         "sha1": "8dfe8da91357d4ce39793700bca0ed56ffbb4bd0",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "CHN"
     },
     "EE4FBCEC249A68B796BE491F56FFE03D": {
         "name": "Densetsu no Stafy 3 (Japan) (Rev 1)",
@@ -5449,7 +5491,8 @@
         "md5": "a9a2f5d60ea44e08901abdfe69f2438a",
         "sha1": "a7a742e779d314f6909f1350db2da8a63445c433",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "88BBE65DA38EDA5082175FA13F092311": {
         "name": "Derby Stallion Advance (Japan)",
@@ -5498,7 +5541,8 @@
         "md5": "8aa75eb2e94320c942e8c71cedcec97c",
         "sha1": "f230375ba4b0346d749e50117fe701d8c1cbfffa",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "C4E93A88CA2A79A051D8A93F2B879A46": {
         "name": "Dexter's Laboratory - Deesaster Strikes! (USA) (En,Fr,De,Es,It) (Rev 1)",
@@ -5867,7 +5911,8 @@
         "size": 8388608,
         "md5": "90d814291cc18d1e9e07378c42d67c2d",
         "sha1": "d704ea9311c6ac9773bb70181de86ba0843583fd",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "064DB81169E3CB761C5702260039AE28": {
         "name": "Yaobai Senxigang (China) (Proto)",
@@ -5875,7 +5920,8 @@
         "md5": "064db81169e3cb761c5702260039ae28",
         "sha1": "1113608c19806a0b7503e5f3f4f1edd172e0fdfc",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "CHN"
     },
     "75EC8B0B1BC187F559B3571A0F0DFA4D": {
         "name": "Dogz (Europe)",
@@ -5958,7 +6004,8 @@
         "size": 16777216,
         "md5": "60619052b2bfde557f3b873fe29ecf21",
         "sha1": "bd12aaadfac73e7fde336c8b25ece78447cc1d87",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "839F44AEC4456B2BE03A1BDEC90AE7F7": {
         "name": "Dogz 2 (Europe) (En,Fr,De,It)",
@@ -6034,7 +6081,8 @@
         "md5": "76deaaafe8cd89891c8fb2d4e1b5deaf",
         "sha1": "5c3924d428ee9553a81e88d33bcadaf56a0bb8a6",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "2151C4D48BE4C45F54A2A7365E4293EB": {
         "name": "Domo-kun no Fushigi Television (Japan)",
@@ -6329,7 +6377,8 @@
         "size": 8388608,
         "md5": "830d34040be2289d156228addc5972dd",
         "sha1": "5c77f64471eac6ef647b203decde5ff4f9a69438",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "A0C9F4034BB720AAB33B356B002E8A55": {
         "name": "Doubutsu-jima no Chobigurumi 2 - Tama-chan Monogatari (Japan)",
@@ -6611,7 +6660,8 @@
         "md5": "2286cf9c0253344a19ccc19a36ea293f",
         "sha1": "2246a0f00c3b5f8ae147c764fbc29fcbc097e673",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "1455D99497A4D004AA0EDC0E50BD2530": {
         "name": "Screw Breaker - Goushin DoriRureRo (Japan)",
@@ -6678,7 +6728,8 @@
         "size": 8388608,
         "md5": "e07ab5a02cd7c2f503cef587890afb54",
         "sha1": "0135a92f0043df0d0ebac7f45c53c44d8b095ae2",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "585A0F57C4DB96B18DBF15F9C0C2FA6F": {
         "name": "Drome Racers (Europe) (En,Fr,De,Da)",
@@ -6711,7 +6762,8 @@
         "size": 4194304,
         "md5": "d41cff4cf06a89d9a79df9e47f192d20",
         "sha1": "bf38c881b273fee0f89c02e431b285593b964932",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "EFA8473A8125181965F08156C95CC6BB": {
         "name": "Dual Blades (USA)",
@@ -6816,7 +6868,8 @@
         "size": 8388608,
         "md5": "0635910eceb7b59722a49c9d7d12bbc2",
         "sha1": "07617a0c443010fff99fdf292e3dd556b2c5d406",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "54BC72AB1F56930DDB05C66F118D7608": {
         "name": "Duke Nukem Advance (Europe) (En,Fr,De,It)",
@@ -6877,7 +6930,8 @@
         "md5": "b4da8d96a5701f91ef8934ee84b8358f",
         "sha1": "677cd51c1ecdde73a6f40ec2cd30d35c77db459a",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "269015766DE9F577B51F3B5C8623C738": {
         "name": "Shin Sangoku Musou Advance (Japan) (Rev 1)",
@@ -6993,7 +7047,8 @@
         "md5": "9e3c1af23ea83cc4852c632525bea1c5",
         "sha1": "893413581baef9859e8dd0cc2007655c147c382f",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "E94540FB5D5E27D7A33C50076BD7628A": {
         "name": "Ed, Edd n Eddy - Jawbreakers! (USA) (Rev 1)",
@@ -7049,7 +7104,8 @@
         "size": 4194304,
         "md5": "e8fb25970f5634b9b159edef8c719090",
         "sha1": "1940cd1e8781c1a238ac7bf79f7b9a36d5e8b1a5",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "F65E87D6867D2AE8561FFCD1AB9ED57B": {
         "name": "Elemix! (Japan)",
@@ -7155,7 +7211,8 @@
         "size": 8388608,
         "md5": "d4e09dc235ec13e6926c5338147e350c",
         "sha1": "975cff59783cd8f5ec30caaa9e6bef130a6e3529",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "84B222956DE83BD53D37D9C3E0EE3AF1": {
         "name": "ESPN Great Outdoor Games - Bass Tournament (Europe)",
@@ -7305,7 +7362,8 @@
         "md5": "d6c5534615de1c9478768506f5282ff0",
         "sha1": "dcbe4d167adda76f7d59bbaa96feb03852806b97",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "8CBBFC4BAC6A08F33E91D7CD6408A660": {
         "name": "Extreme Ghostbusters - Code Ecto-1 (Europe) (En,Fr,De,Es,It,Pt)",
@@ -7456,7 +7514,8 @@
         "md5": "1dbf1b5255a3fc4b9a412f79f83a77fb",
         "sha1": "6ef9bd0d816fbe347e72cab07068c939c9f3d9b6",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "27FABA97CC9E3C633A443630575F3585": {
         "name": "F-Zero - GP Legend (Europe) (En,Fr,De,Es,It) (Virtual Console)",
@@ -7464,7 +7523,8 @@
         "md5": "27faba97cc9e3c633a443630575f3585",
         "sha1": "82791235abe3bbd5866e228e12cd9aaae0f5cde8",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "55C14323547AA4F83E5EEDE98D0417F3": {
         "name": "F-Zero - Maximum Velocity (USA, Europe)",
@@ -7481,7 +7541,8 @@
         "md5": "b9634f900966068cd331074f78da553e",
         "sha1": "bd08e426c743c7429efd576ce0ef00a70cffd72a",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "0915AC62D58A160028EB47141657013F": {
         "name": "F-Zero for Game Boy Advance (Japan)",
@@ -7853,7 +7914,8 @@
         "md5": "8f57159b2046dc687bce6fef836cbd61",
         "sha1": "b59790b9c4c1b00a2e6caf40c3acfdbea64d3c98",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "GER"
     },
     "63BC29511F80B9EA2E5CD6DAA9E76970": {
         "name": "Fear Factor Unleashed (USA)",
@@ -7939,7 +8001,8 @@
         "size": 4194304,
         "md5": "e187189ca821fd17afd4d9de7a376f9c",
         "sha1": "1dc940dda8da59ade503c1e8901a0e44285f4e9b",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "12EA1887210DFA6164D7CBEAE7573A48": {
         "name": "Final Fantasy I & II - Dawn of Souls (Europe) (En,Fr,De,Es,It)",
@@ -7974,7 +8037,8 @@
         "md5": "6eb4a3639f10155ad9a09bbaf46144d5",
         "sha1": "ee60276f72ce0d1852f741f02bf1f4478b8f2d61",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "2FF590AA635590C2F8140C88CBB19025": {
         "name": "Final Fantasy IV Advance (Europe) (En,Fr,De,Es,It)",
@@ -7991,7 +8055,8 @@
         "md5": "971a2979e6e04942e61271ddd563f480",
         "sha1": "417c7713f01d8e7a7c1f7bc11deb2e214d426cd9",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "C74DD5CC3AB6E5D4AC53B1677E1ABD69": {
         "name": "Final Fantasy IV Advance (USA)",
@@ -8043,7 +8108,8 @@
         "md5": "b9731d99116248946e32d4f6d4448160",
         "sha1": "3ca7cffe302e733501a4777a576928ea159b89e4",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "393EB5846807DF1F2E0F5C2FA77CDE31": {
         "name": "Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It) (Virtual Console)",
@@ -8051,7 +8117,8 @@
         "md5": "393eb5846807df1f2e0f5c2fa77cde31",
         "sha1": "c184b9da365f6361b7dcda35fe1a970fa9857ae0",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "EBC874A9FFABAACD7EA1A3E128DD97D3": {
         "name": "Final Fantasy V Advance (Europe) (En,Fr,De,Es,It)",
@@ -8084,7 +8151,8 @@
         "md5": "e6c6fa9ed05399d05b41806cfe76d4f1",
         "sha1": "b9fcf062355a66537aec0b791400c55ec2436e3c",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "7F6BF3B4D84F113AA454136E5B53FD77": {
         "name": "Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It)",
@@ -8143,7 +8211,8 @@
         "md5": "cc6b4d0d6c91c28b762784a171a3c5d8",
         "sha1": "c1b60a87ccb0aa915696a799765196a0d3a3ce53",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "303E99BC49C209E554F395B674D49689": {
         "name": "Final Fight One (Europe) (Virtual Console)",
@@ -8151,7 +8220,8 @@
         "md5": "303e99bc49c209e554f395b674d49689",
         "sha1": "72df7961f5791bb59723b01b1276ad94e994da69",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "C824E72AA57E94EEA86343E107B0DCA2": {
         "name": "Finding Nemo (USA, Europe)",
@@ -8167,7 +8237,8 @@
         "size": 8388608,
         "md5": "03e4df3b3506eee9173dffd6e5db4fce",
         "sha1": "8c9e1517bcf4c7b9c099d4fef8ef4bdeba2c7857",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "GER"
     },
     "C7262E8C52597D29C8858C1EA1EB0161": {
         "name": "Findet Nemo (Germany)",
@@ -8270,7 +8341,8 @@
         "md5": "4a56abd9722a5767b493b7e9bdb45c28",
         "sha1": "a9dc86554bd10ed842a126eda8367be3ce857d77",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "E196292AB09ED4C6F0B1E394D38CDAEB": {
         "name": "Fire Emblem (Europe) (En,Fr,De) (Virtual Console)",
@@ -8278,7 +8350,8 @@
         "md5": "e196292ab09ed4c6f0b1e394d38cdaeb",
         "sha1": "bd826084425979b5df7ae68982ec21d5ab83408e",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "C69CDEC6C30685B9ED3A91FE7AA84D8E": {
         "name": "Fire Emblem (Europe) (En,Es,It) (Virtual Console)",
@@ -8286,7 +8359,8 @@
         "md5": "c69cdec6c30685b9ed3a91fe7aa84d8e",
         "sha1": "3339129045335791b4dd078f0375143601e3115c",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "9485F273F4E97E9E8F21966407F2E782": {
         "name": "Fire Emblem - Rekka no Ken (Japan)",
@@ -8302,14 +8376,16 @@
         "size": 16777216,
         "md5": "d9449bc62cc7cfffe5ca75de8beb27f4",
         "sha1": "a408d29a9b80829a0864f531e04213f585192ced",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "7FEE20A09C485433F51A97BFB468446C": {
         "name": "Fire Emblem - Rekka no Ken (Japan) (Beta) (2003-02-19)",
         "size": 16777216,
         "md5": "7fee20a09c485433f51a97bfb468446c",
         "sha1": "3b987bd15a3958901f38686c54a6250ab3398703",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "8643FE7632D4895DCAACA230475E70FB": {
         "name": "Fire Emblem - Fuuin no Tsurugi (Japan)",
@@ -8326,7 +8402,8 @@
         "md5": "cd5c952ccf9a78915cbefec0fecf241d",
         "sha1": "d98acd0ed837b44d5a97228bb9f61626c96ed2cb",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "CHN"
     },
     "8F0DAD780F01CE002331693F4733F27E": {
         "name": "Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)",
@@ -8350,7 +8427,8 @@
         "size": 16777216,
         "md5": "5b7cba28b1295c4c6e74801dba32588d",
         "sha1": "81c48809c9b8c3a099b7f9b1e08ab3dd8adde368",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "005531FEF9EFBB642095FB8F64645236": {
         "name": "Fire Emblem - The Sacred Stones (USA, Australia)",
@@ -8367,7 +8445,8 @@
         "md5": "84c0b60d9fb6c9d94e057a0f67c31cf6",
         "sha1": "48671a710cab196cdddd1560e76ef1edfb689943",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "E80A4CBCFDF598B7EFCF80BE26C55F56": {
         "name": "Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Virtual Console)",
@@ -8375,7 +8454,8 @@
         "md5": "e80a4cbcfdf598b7efcf80be26c55f56",
         "sha1": "8e12184314e55ed454411194b6eb677bb6a318ef",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "AACBDC2916C5941607B0B2D6D68512ED": {
         "name": "Fire Pro Wrestling (USA, Europe)",
@@ -8523,7 +8603,8 @@
         "size": 4194304,
         "md5": "62b84a21cff0c51dbeead301010dc5ef",
         "sha1": "9114816441be2173491496c4f2dbbda9def0bf2c",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "E582614D06F941FF491543A721A9ACB0": {
         "name": "Franklin the Turtle (USA) (En,Fr,De,Es,It,Sv,No,Da,Fi)",
@@ -8539,7 +8620,8 @@
         "md5": "5c76354506a11fe8883783fa3bd07e62",
         "sha1": "5211fb864a60461f7ae20c42e2bf60e08a9f96ba",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "F5A10AEAB11D8F77BE5CD4D9BE1C2766": {
         "name": "Franklin's Great Adventures (Europe) (En,Fr,De,Es,It,Nl,Pt,Da)",
@@ -8706,14 +8788,16 @@
         "size": 8388608,
         "md5": "69198ba531e06fa1cd9014d6d41ac0d4",
         "sha1": "8d582ad27c888e3dbbffbd421f40b54d15f977ef",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "980F809CCC92DD1868AB151ACD8A9A82": {
         "name": "Fruits Mura no Doubutsu-tachi (Japan) (Rev 1)",
         "size": 8388608,
         "md5": "980f809ccc92dd1868ab151acd8a9a82",
         "sha1": "31ecf4c1539ef7460706b17bb4404d4254c6265a",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "20121E429EE5ECE132B9AC3B0F22EFE9": {
         "name": "Fushigi no Kuni no Alice (Japan)",
@@ -8846,7 +8930,8 @@
         "size": 8388608,
         "md5": "cb9ee964b373d6c44272a292571bf9c1",
         "sha1": "2d97fde943dd575cbf29c420eb6694f411cfd626",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "D74A23C7DF011771C5BFA6F36B2DD920": {
         "name": "Gakuen Senki Muryou (Japan)",
@@ -8904,7 +8989,8 @@
         "md5": "acfd5c0223a5719665d464d72b6d1b33",
         "sha1": "3fd362b2e05f86f430bb5225cbeb4a8d04ef9d1f",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "923410C2A52DECB781A381F399F2DD2B": {
         "name": "Game & Watch Gallery Advance (Europe) (Virtual Console)",
@@ -8912,7 +8998,8 @@
         "md5": "923410c2a52decb781a381f399f2dd2b",
         "sha1": "a5e44abd785eba858d966be75135d4a39687df46",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "D7DD9A6376E9C85AE177CD61EE9E3312": {
         "name": "Game Boy Gallery 4 (Japan) (Virtual Console)",
@@ -8920,7 +9007,8 @@
         "md5": "d7dd9a6376e9c85ae177cd61ee9e3312",
         "sha1": "1c42316f5170da878c57be47df3672285835f963",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "ECB42C36F389B45E7B93D14673DBE506": {
         "name": "Game Boy Advance Video - All Grown Up! - Volume 1 (USA)",
@@ -9121,7 +9209,8 @@
         "md5": "875c60c35458f63372127463480a7d50",
         "sha1": "6128a476edb10e6839ac5bd2697e83b9b7a9b234",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "E86A02BBF04EA054E92544FACA7DEE9B": {
         "name": "Game Boy Advance Video - Shrek (USA) (Rev 6)",
@@ -9138,7 +9227,8 @@
         "md5": "cefd35569b6321beeba225e3a5805d6e",
         "sha1": "2dedea86ec289a0e31089299613d9f74cca03609",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "FF7D14C12B6B006F44E224DAA0C8857C": {
         "name": "Game Boy Advance Video - Shrek + Shark Tale (USA) (Rev 5)",
@@ -9164,7 +9254,8 @@
         "md5": "7cd63622d3f60e87d5fb1f6379c73dd4",
         "sha1": "5cd627e205020297b25d707131883be5850515fe",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "36DFCAB0D39BAE344F1E9ECDA2A226B7": {
         "name": "Game Boy Advance Video - Sonic X - Volume 1 (USA)",
@@ -9324,7 +9415,8 @@
         "md5": "85cc314417d8f96798248507629eaa8b",
         "sha1": "6a144ffcc55c9cb7c8b3e8a4ab49efe45dd25c3e",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "CD27477E70B529B736746185B882100E": {
         "name": "Garfield - The Search for Pooky (USA) (En,Fr,De,Es,It)",
@@ -9340,7 +9432,8 @@
         "md5": "54aecbd6193fa4306c371916f00ff6c6",
         "sha1": "5ead81908f576e37837bab60d5c580ca684a8fc5",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "5969F2B6F8F15AFEDCDB695FD3554133": {
         "name": "Garfield and His Nine Lives (Europe) (En,Fr,De,Es,It,Nl)",
@@ -9403,7 +9496,8 @@
         "size": 1048576,
         "md5": "06ee51d1f0c2744999145e3e6ecfc745",
         "sha1": "e0899f4097054862d33c03e21e9d4a5eef790402",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "CHN"
     },
     "9FB5863A15E8504667328D24365B31E2": {
         "name": "Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Japan)",
@@ -9816,7 +9910,8 @@
         "size": 4194304,
         "md5": "4e822c3e31350a457da3b640bc05e3ad",
         "sha1": "6aa43d0624af03214473f329fda6334dc9c63009",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "15E493A90D9B8CC7935F01ABD57393B2": {
         "name": "Grim Adventures of Billy & Mandy, The (USA)",
@@ -9849,7 +9944,8 @@
         "size": 8388608,
         "md5": "65fb37341bb23e897deaa49e17ee3bc0",
         "sha1": "9d8c6c6242f4c61886aafcaab602ce80dff3a226",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "266DA549741DBC9B9C902C113B13B4B6": {
         "name": "Advance GTA (Japan) (En) (Rev 1)",
@@ -9922,14 +10018,16 @@
         "size": 362512,
         "md5": "8ef186d8565c1408e653bfe5341a5ffb",
         "sha1": "79e5600c34424bceb6458ce579b8485d5f478578",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "CCAA6814BCB83EC7FFF309616A2F6D40": {
         "name": "GT Racers (Europe) (Beta) (2005-10-14)",
         "size": 2619992,
         "md5": "ccaa6814bcb83ec7fff309616a2f6d40",
         "sha1": "fb10fdeb8c853cc13fdec789b710e3b0847e8680",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "9145DED7C7FB57275B6BD23AC1E93FD5": {
         "name": "Guilty Gear X - Advance Edition (Europe)",
@@ -9960,7 +10058,8 @@
         "size": 8388608,
         "md5": "aea3115b6ce9a25aa574c9754f4fedfb",
         "sha1": "85915ecf10ce73afe9fffbbc8cd7a449dfe802c4",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "81528AA0F4ABABA9D4A6E1C71F6BE3F5": {
         "name": "Gumby vs. the Astrobots (USA)",
@@ -10026,7 +10125,8 @@
         "size": 8388608,
         "md5": "a476526adc63d7e287d905eb7251d120",
         "sha1": "15c0e3389709bb275c42e99ed25212d09e49e361",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "41AE841D5771E442F7FB5393906CB898": {
         "name": "Gyakuten Saiban 2 (Japan)",
@@ -10508,7 +10608,8 @@
         "size": 8388608,
         "md5": "b9fb4f6d037649f4f87cc47f36d60869",
         "sha1": "7288a474b8d8eebb6fc8fdb90fa298b031e3e1c8",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "F74BAAB7B2516B43119D23292033C735": {
         "name": "Herbie - Fully Loaded (Europe) (En,Fr,De)",
@@ -10550,7 +10651,8 @@
         "size": 4194304,
         "md5": "3e96ed2991e696db50a279e2854c0be5",
         "sha1": "cebe93ddcb49664f0ffb9fb70dbcb5c91e70d340",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "FA70BAC809F1801F26472A023330E1DC": {
         "name": "Hi Hi Puffy AmiYumi - Kaznapped! (Europe) (En,De)",
@@ -10625,7 +10727,8 @@
         "size": 16777216,
         "md5": "e041a99eccf2d2b7360b6703ce73e169",
         "sha1": "163701c68771e2108202a3cfd8effe69cc48aeb7",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "A0451DBC9FABBD40A86B76C30E60794A": {
         "name": "Hikaru no Go (Japan) (Rev 1)",
@@ -10641,14 +10744,16 @@
         "size": 8388608,
         "md5": "889fbc49115ce1f21e89490e0a2fe457",
         "sha1": "a96299f55026b959ed806bff0fb4a440d33e65af",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "722C772A025767DA32AAA02D5246CD8D": {
         "name": "Hikaru no Go (Japan) (Demo) (Promo)",
         "size": 4194304,
         "md5": "722c772a025767da32aaa02d5246cd8d",
         "sha1": "636c3247f455263c41fc0dee85fd4532246b60c2",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "3B7A7175D8BDD4A54C41E7D0BE54C6DB": {
         "name": "Hikaru no Go 2 (Japan)",
@@ -10932,7 +11037,8 @@
         "size": 16777216,
         "md5": "80e03339cd076a4f89c8b89653b45d8c",
         "sha1": "e752cad1fa3ffec56c9f6ca5886f37da0dc74240",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "A3201407F7988A563F4DFB243DB02BCB": {
         "name": "I Spy Challenger! (USA)",
@@ -11221,7 +11327,8 @@
         "size": 8388608,
         "md5": "bdce643a2c1162add50aa14fd89016c3",
         "sha1": "db9c0819b6413d76085ac5e814953f889abcb3ab",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "C3CAEECE33E072B537CB07670B4610EB": {
         "name": "Invincible Iron Man, The (USA, Europe)",
@@ -11279,7 +11386,8 @@
         "size": 8388608,
         "md5": "a0f41d368e75924c642553e61311416d",
         "sha1": "3e951fd97bacd4f258bf30785af22934f7697a91",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "6D7D6CD0D1BDE4855B230AD510E16771": {
         "name": "Iron Kid (Korea)",
@@ -11329,7 +11437,8 @@
         "size": 8388608,
         "md5": "a0ef6d6f6346d5fa888348012eb4f6c2",
         "sha1": "b4cd024b10d740f3525dddfbcc613c04a8d4c166",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "5479685BBB7459BA67159CF430C4274B": {
         "name": "J.League Pocket 2 (Japan)",
@@ -11612,7 +11721,8 @@
         "size": 8388608,
         "md5": "a1b0a5ba65f8287f7474e984bbfe8561",
         "sha1": "e3302c2aa5cd14bf5546a3069bc6757363ee38b4",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "A57DD211881C6FBB7B92487AB6E3B9AF": {
         "name": "Justice League Heroes - The Flash (Europe) (En,Fr,De,Es,It)",
@@ -11909,7 +12019,8 @@
         "md5": "b6af8c28bcb17fb7564aa638eda471ef",
         "sha1": "d0b5ab22924481efccafd2ac10bab93cca4085d6",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "CC2A04C4ADDCB14C30B0CED2A83C2D91": {
         "name": "Kim Possible - Revenge of Monkey Fist (USA)",
@@ -11970,7 +12081,8 @@
         "md5": "94bdc794be9af6ec327e2df9394891fd",
         "sha1": "ecfb6409abb7ff429aadc65a6b953dbaef3d09d8",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "33402D100218CC080C24858EC2A0D7AE": {
         "name": "Kong - The 8th Wonder of the World (USA) (En,Fr,Es)",
@@ -12029,7 +12141,8 @@
         "md5": "1266f7f9d73252d70b25ebfe966c9a2b",
         "sha1": "06a42bba1c892f77c7d12381fbf243fb294363cc",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "6946574D398CA3AB0056AF834BCB2BB3": {
         "name": "King of Fighters EX, The - NeoBlood (USA) (Rev 1)",
@@ -12044,7 +12157,8 @@
         "size": 8388608,
         "md5": "e9626c897aab5bf3e9c42e0611fb4062",
         "sha1": "cde8454951d3509f0b2bf9de98221eef248f5f8d",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "D369F791D86A969778D2C3A5278D544C": {
         "name": "Kingdom Hearts - Chain of Memories (Europe) (En,Fr,De,Es,It)",
@@ -12112,7 +12226,8 @@
         "md5": "c77f9deac4047b9844795b6c18e7a5c4",
         "sha1": "d84dd2ad9caf2754dd76bc1f8f534b6a80a13b04",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "0F0382627E439CF2F308986E3E921A28": {
         "name": "Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Virtual Console)",
@@ -12120,7 +12235,8 @@
         "md5": "0f0382627e439cf2f308986e3e921a28",
         "sha1": "700006a8b919d7ee4b7dd972dbf6c429d1adca71",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "DF5EFE075B35859529EBF82A4D824458": {
         "name": "Kirby & The Amazing Mirror (USA)",
@@ -12137,7 +12253,8 @@
         "md5": "941590a0d3e5de3e46cd2e9242349f56",
         "sha1": "a7b758c2abf4f0ef722922eab4d394a1579b52e8",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "0C3D24B790A8212C779C85DE3CDE98A5": {
         "name": "Kirby & The Amazing Mirror (Europe) (En,Fr,De,Es,It) (Virtual Console)",
@@ -12145,7 +12262,8 @@
         "md5": "0c3d24b790a8212c779c85de3cde98a5",
         "sha1": "d740b50e4b363b902f7cf3831b08c306e12ea9c7",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "6DD162A103FB55DDF99B6E688019354F": {
         "name": "Kirby - Nightmare in Dream Land (Europe) (En,Fr,De,Es,It)",
@@ -12180,7 +12298,8 @@
         "md5": "c702f8da946f5a50df244151dd7f9e6a",
         "sha1": "3d142008d50a64c315fd2d7cbd86ba94dffa2e12",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "B1C3362836665E8CBC70AFBC258078ED": {
         "name": "Kirby - Nightmare in Dream Land (Europe) (En,Fr,De,Es,It) (Virtual Console)",
@@ -12188,7 +12307,8 @@
         "md5": "b1c3362836665e8cbc70afbc258078ed",
         "sha1": "dfa3d9c8402f3eb2ea3e12e8f195187709634f92",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "D552538ADBA7BF2BC443822265BCFE20": {
         "name": "Kisekko Gurumii - Chesty to Nuigurumi-tachi no Mahou no Bouken (Japan)",
@@ -12263,7 +12383,8 @@
         "md5": "638f157064b6f57cc30d212068857b82",
         "sha1": "455c6f19a703b2bd54a9a3a9588964239965e6db",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "46D2A77E4FD8429E6B7BF79C0679770E": {
         "name": "Klonoa Heroes - Densetsu no Star Medal (Japan)",
@@ -12378,7 +12499,8 @@
         "size": 4194304,
         "md5": "253d5403fff7e6a7c4166423f2693f8f",
         "sha1": "329b82282d633d1162f9afb3334c035b10b91e72",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "6055DEB1D8E3CF3DF590588A89C24975": {
         "name": "Konami Krazy Racers (USA) (Virtual Console)",
@@ -12386,7 +12508,8 @@
         "md5": "6055deb1d8e3cf3df590588a89c24975",
         "sha1": "d12e61908cffcc368f4e54026e37efd831c9377f",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "B529DF3EEFF903B24A6D6F4F5541EC99": {
         "name": "Konami Krazy Racers (Europe) (Virtual Console)",
@@ -12394,7 +12517,8 @@
         "md5": "b529df3eeff903b24a6d6f4f5541ec99",
         "sha1": "3d031266129fc1a115e764dcc0a4fb51bc2d5d7f",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "D7010827EC2382C727B9AA565E842ABE": {
         "name": "Konami Wai Wai Racing Advance (Japan)",
@@ -12608,7 +12732,8 @@
         "md5": "93539207be7d05e2ef8e3e9b44a82c2e",
         "sha1": "32e8274989c717128cd40dc2e8afd9922c52f9ea",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "CHN"
     },
     "B77C57C60FC0DCBA3B2DDD3E2F1C5F86": {
         "name": "Kururin Paradise (Japan)",
@@ -12625,7 +12750,8 @@
         "md5": "43849ed3425271e56e183d6b6999dfb7",
         "sha1": "5cf7f27378668b4ddd28e084a7c15299acdd6774",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "CHN"
     },
     "F4AC2D26605EBBB0D390E07810F12484": {
         "name": "Lady Sia (Europe) (En,Fr,De,Es,It,Nl)",
@@ -12810,7 +12936,8 @@
         "size": 16777216,
         "md5": "5e12b81983f6d9624143d0143eccf815",
         "sha1": "63fcad218f9047b6a9edbb68c98bd0dec322d7a1",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "0B061059FD5E7F7B034F96932C86829C": {
         "name": "Zelda no Densetsu - Fushigi no Boushi (Japan)",
@@ -12910,7 +13037,8 @@
         "size": 8388608,
         "md5": "d4633c1ba39d6ab290ce9c8044574906",
         "sha1": "8c7620285cfd2ca951a902bb4d7aab532c585300",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "3FF6F06DE88F0646E8CF85181CA2E10D": {
         "name": "LEGO Soccer Mania (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)",
@@ -13042,7 +13170,8 @@
         "md5": "3a1325d0afa9ec59246673fb01878a09",
         "sha1": "49455b812ed129ab57a7765d8e82253930751485",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "E309212ADC8DA5280235F8765649858E": {
         "name": "Lilo & Stitch 2 (Europe) (En,Fr,De,Es)",
@@ -13212,7 +13341,8 @@
         "size": 8388608,
         "md5": "644712a277e801997624cece31b661a9",
         "sha1": "4b77ba458b593ca35166e9a9792792ac92e263df",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "FE2003B76CDED94A19BC69FC44BFD525": {
         "name": "Lord of the Rings, The - The Fellowship of the Ring (USA) (Rev 1)",
@@ -13704,7 +13834,8 @@
         "size": 4194304,
         "md5": "9c62897f2997c1fb8919533e7af3f1c5",
         "sha1": "5f7c1b88b8c7caa57a0af81cd3ae74171abe50d1",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "38D7FC6D3804B6F80557096FA2AEB1FE": {
         "name": "Maniac Racers Advance (Europe) (En,Fr,De,Es,It)",
@@ -13778,7 +13909,8 @@
         "md5": "54ac1def7820beed364a38edb65e22f0",
         "sha1": "cfd0bff1b0ca5576a58012d1ba02ffe6b9e91fa2",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "CHN"
     },
     "4B1A5897D89D9E74EC7F630EEFDFD435": {
         "name": "Mario & Luigi - Superstar Saga (USA)",
@@ -13794,7 +13926,8 @@
         "size": 8388608,
         "md5": "0d36cede54581698ac841e4895dae45b",
         "sha1": "e235a9a617626cff6b0b572d6f6144fa8ffb6719",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "D84016C53084FD5539D53F48F89A84E5": {
         "name": "Mario & Luigi - Superstar Saga (USA) (Virtual Console)",
@@ -13802,7 +13935,8 @@
         "md5": "d84016c53084fd5539d53f48f89a84e5",
         "sha1": "4ec07adff2f432bd665faf67c6c861eda60de4e1",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "93F18A489A5BD7129152A9E6DD42AC19": {
         "name": "Mario & Luigi - Superstar Saga (Europe) (En,Fr,De,Es,It) (Virtual Console)",
@@ -13810,7 +13944,8 @@
         "md5": "93f18a489a5bd7129152a9e6dd42ac19",
         "sha1": "790e6241916f35eef7ad9ef0ca238199f628b2e0",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "D571970F19FAFDBCDDDB71A02563317E": {
         "name": "Mario & Luigi RPG (Japan)",
@@ -13885,7 +14020,8 @@
         "md5": "1aa85dfb96e1abbee490420dc628b3b9",
         "sha1": "5d9def24cc44d9b58bddf2b607b22e291b417b3d",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "69FA9EAEC8026EDB3EAEAC72ADE14457": {
         "name": "Mario Golf - Advance Tour (USA) (Virtual Console)",
@@ -13893,7 +14029,8 @@
         "md5": "69fa9eaec8026edb3eaeac72ade14457",
         "sha1": "bf4ba4c10b24b8699ca75e6d24f4d8e26150c7c2",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "DE0FD2E4E4C888EED0719511095EFD22": {
         "name": "Mario Golf - GBA Tour (Japan)",
@@ -13928,7 +14065,8 @@
         "md5": "54a1ea59c39ff418af3b009cd1ecc6d6",
         "sha1": "c3d02578dbd7f465bdfa177ed111f0dd74205c69",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "CHN"
     },
     "784A036FF1AAE709E90167186639B75E": {
         "name": "Mario Kart - Super Circuit (USA)",
@@ -13945,7 +14083,8 @@
         "md5": "534033fe98697b1cfb9336d718bc7421",
         "sha1": "ba53c107fe4f39018cff94c0d532314facc9aef0",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "DAD3FD70CC43107E381285DCB5313D1B": {
         "name": "Mario Kart - Super Circuit (Europe) (Virtual Console)",
@@ -13953,7 +14092,8 @@
         "md5": "dad3fd70cc43107e381285dcb5313d1b",
         "sha1": "e1dc3a1aa9a6a0fdf1726bb2728279a728101013",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "F35D2F567EDD9C04E7F9647EDB206995": {
         "name": "Mario Kart Advance (Japan)",
@@ -13970,7 +14110,8 @@
         "md5": "ffb9c2fe3dc23fd7796f71f7d54fe447",
         "sha1": "7061696811f424f875af5af837dc49eff802a63a",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "B354078C54B943BDC6D2227E4686EA0F": {
         "name": "Mario Kart Advance (Japan) (3DS Virtual Console)",
@@ -13978,7 +14119,8 @@
         "md5": "b354078c54b943bdc6d2227e4686ea0f",
         "sha1": "d740f9e662c6cb372eb141bd50160b6ab19fd1db",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "0ACBC949FC02EC0ABD9E1825C03B8973": {
         "name": "Mario Party Advance (Europe) (En,Fr,De,Es,It)",
@@ -14012,7 +14154,8 @@
         "md5": "179ebcf3fa5934d89bdad8f970a391c9",
         "sha1": "f23b5792d5ecfce966e83f7fcc7c330542da888d",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "5E7F2849199EA37E6629B35948757D02": {
         "name": "Mario Party Advance (Japan) (Virtual Console)",
@@ -14020,7 +14163,8 @@
         "md5": "5e7f2849199ea37e6629b35948757d02",
         "sha1": "d09c3db0cf4a4a0fa5cad3ae00ad3b4ec8603207",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "AF4D91A53DD51E98E6C5249502897904": {
         "name": "Mario Party Advance (Europe) (En,Fr,De,Es,It) (Virtual Console)",
@@ -14028,7 +14172,8 @@
         "md5": "af4d91a53dd51e98e6c5249502897904",
         "sha1": "34d13fd8cca31a77eeebf9c864a4388969f975c4",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "F6C0A645317D6ED90ABC4E04F7B33B46": {
         "name": "Mario Power Tennis (Europe) (En,Fr,De,Es,It)",
@@ -14045,7 +14190,8 @@
         "md5": "c414d73f6e76645aa202b5f5e516e494",
         "sha1": "24087080476ce04853455fd82f09c4d8c65604d1",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "928C0BD4CF82B3FD6F34B53D4FD02E69": {
         "name": "Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It)",
@@ -14062,7 +14208,8 @@
         "md5": "d9adc18e11c3fea39b49a99abcdc41fc",
         "sha1": "a7ccb4dddb6a1d9008fccd799c6cee027cc1013f",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "A3658157B02A6F5618866AF93C9B771D": {
         "name": "Mario Tennis Advance (Japan)",
@@ -14106,7 +14253,8 @@
         "md5": "cc77b8efa679cb57c129831fa6770ad7",
         "sha1": "68eebe6dbcf8973ed7426a793185db202a01288f",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "D64C95901C720F6DBF7B6DAB929E617F": {
         "name": "Marvel - Ultimate Alliance (Europe) (En,It)",
@@ -14192,7 +14340,8 @@
         "md5": "4c083f328ed63a20cd865f3b942e52e7",
         "sha1": "9e1d0d5d5454d544ab85b34ad0e50fad7b54487c",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "753971AF89A797D2C0BAD3198D56963C": {
         "name": "Matchbox Cross Town Heroes (Europe)",
@@ -14314,7 +14463,8 @@
         "md5": "b107d6671edc1721663b451836df0753",
         "sha1": "51bba24c752123598f0b194d9d07a640b3318e12",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "5036B4887C2A72FA5632DD4D19621CD3": {
         "name": "Medabots - Metabee (Europe) (Virtual Console)",
@@ -14322,14 +14472,16 @@
         "md5": "5036b4887c2a72fa5632dd4d19621cd3",
         "sha1": "5a4d269998829d7e41fdb014ffa11584ea1f8aa6",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "C98531DEF6532B3ED048A5EBC0AB4C3C": {
         "name": "Medarot Ni Core - Kabuto (Japan)",
         "size": 8388608,
         "md5": "c98531def6532b3ed048a5ebc0ab4c3c",
         "sha1": "cb1e070c2cf9ba7c7ce7c102e69e7815941ca5f1",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "BC69FB3645301FF9622F3289512614E6": {
         "name": "Medarot Ni Core - Kabuto (Japan) (Rev 1)",
@@ -14371,7 +14523,8 @@
         "md5": "f7d2a8559099d30d1cbf74d0d3a6415c",
         "sha1": "8bfb9ac937b3bd83bff66e222a9d5cb6aa404d8d",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "67453491BE57A22F8DDFB33C83B56EA9": {
         "name": "Medabots - Rokusho (Europe) (Virtual Console)",
@@ -14379,7 +14532,8 @@
         "md5": "67453491be57a22f8ddfb33c83b56ea9",
         "sha1": "e2f74f9e9a0ba2be1373ba817a3c627ff2d0d8c1",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "55198B6049BBC81860889039E93B464E": {
         "name": "Medarot Ni Core - Kuwagata (Japan)",
@@ -14412,7 +14566,8 @@
         "md5": "a177481ebdc538ad11692b49367ce18d",
         "sha1": "111f38266e52fa59f3cd53ad4a27807695a5831b",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "6090BBE71705B8D3A9BE397F51D29E12": {
         "name": "Medabots AX - Metabee Ver. (Europe) (En,Fr,De,Es,It) (Virtual Console)",
@@ -14420,7 +14575,8 @@
         "md5": "6090bbe71705b8d3a9be397f51d29e12",
         "sha1": "e3ae2ac91b981798ae229b27247b47db3e0a0636",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "6F9802A7094757A4E535F763FF9B7DE4": {
         "name": "Medarot G - Kabuto (Japan)",
@@ -14454,7 +14610,8 @@
         "md5": "8fef2a90bef400616bfe5788d1c68f09",
         "sha1": "4b3291a502e7e99b9ce3272b8ba6a1fd0497ffcc",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "898100FD892E820942867D94939F8505": {
         "name": "Medabots AX - Rokusho Ver. (Europe) (En,Fr,De,Es,It) (Virtual Console)",
@@ -14462,7 +14619,8 @@
         "md5": "898100fd892e820942867d94939f8505",
         "sha1": "e2fbe91592322b5430960ebfa2c75d153edc9f10",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "1E68810A62D6DB776B3E602E39601B70": {
         "name": "Medarot G - Kuwagata (Japan)",
@@ -14512,7 +14670,8 @@
         "md5": "e84d4d9b8c1a68292e76a4c566e5040f",
         "sha1": "e43aaba3f925443cfccf9294b870024a9c71a9a9",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "BBCD12EA6A44F220B40A196EDFD2580B": {
         "name": "Medarot Navi - Kabuto (Japan)",
@@ -14573,7 +14732,8 @@
         "md5": "89c23bad78a30d9d1065262da512594f",
         "sha1": "37db963a52aecec8018057cef3811860c3e889ed",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "E6D2B51EBE0420817D16ACAD4F89BF7A": {
         "name": "Mega Man & Bass (Europe) (Virtual Console)",
@@ -14581,7 +14741,8 @@
         "md5": "e6d2b51ebe0420817d16acad4f89bf7a",
         "sha1": "37a188a250ff553a71144f8bbe92098c85c8006d",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "93D1BA78096704C5DCFA993337469542": {
         "name": "Rockman & Forte (Japan)",
@@ -14614,7 +14775,8 @@
         "md5": "55e2ee8dd7a4a6574a1c8545b7d53fb8",
         "sha1": "e936db20e9cf923dc10c6c1dc14bc7ed6b220080",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "D2B0CAB71D1C40AA38E94EEB2D1C8718": {
         "name": "Mega Man Battle Chip Challenge (Europe) (Virtual Console)",
@@ -14622,7 +14784,8 @@
         "md5": "d2b0cab71d1c40aa38e94eeb2d1c8718",
         "sha1": "f0776ad33eb01a47207a076d95b534145223371d",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "E7970A74B423E6B4E842EC640EBA3630": {
         "name": "Rockman EXE Battle Chip GP (Japan)",
@@ -14665,7 +14828,8 @@
         "md5": "dbe975f9dd8b09d76c73a6d18bdaa6fc",
         "sha1": "a371765e107c30dc4ac37c2f114a785305f47a4c",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "FD80C3AD287CA570CE26C425237D1902": {
         "name": "Mega Man Battle Network (Europe) (Virtual Console)",
@@ -14673,7 +14837,8 @@
         "md5": "fd80c3ad287ca570ce26c425237d1902",
         "sha1": "0dcbc43d5d50401c0eab8bb5989055523ce90b10",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "833E55B181AC9B4DA56B6341C1F4E09A": {
         "name": "Mega Man Battle Network 2 (Europe)",
@@ -14689,7 +14854,8 @@
         "md5": "5c9a6664da79a4893895fd0c380fd020",
         "sha1": "6ed31ea56328673ba9d87186a7d506c701508e28",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "AE77F77FE5879ABFA3A15D4422DAC2DB": {
         "name": "Battle Network Rockman EXE 2 (Japan) (Rev 1)",
@@ -14715,7 +14881,8 @@
         "md5": "710e4ecb8f411648fedad9102c7b3b93",
         "sha1": "3bc2a627a859431db0f40f755fbc2857936e23b2",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "54D7F45EF822D7485B623D46A636F2E7": {
         "name": "Mega Man Battle Network 2 (USA, Europe) (Virtual Console)",
@@ -14748,7 +14915,8 @@
         "md5": "0b57d3560459bd31c60667ad64843343",
         "sha1": "ff65af8fea15ecf5a556595efe414d1211a9ab4e",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "E23C4D809417568BCBFB93172609C77E": {
         "name": "Mega Man Battle Network 3 - Blue (Europe) (Virtual Console)",
@@ -14756,7 +14924,8 @@
         "md5": "e23c4d809417568bcbfb93172609c77e",
         "sha1": "a9fe51d3ffd7488739821b895b45cf91c10a3108",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "6FE31DF0144759B34AD666BADAACC442": {
         "name": "Mega Man Battle Network 3 - Blue Version (USA)",
@@ -14773,7 +14942,8 @@
         "md5": "41fabd164c0e4102c0187329e9f52c5c",
         "sha1": "6e30310f3994803e56170f6d67c5f154a5d91ccb",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "DEA8CB17074798C5123422836024D4C8": {
         "name": "Mega Man Battle Network 3 - White (Europe)",
@@ -14788,7 +14958,8 @@
         "size": 8388608,
         "md5": "ee0b14aab3ce1039857ad005636e07a4",
         "sha1": "2a381543f84dacc0f8310d4516fde0c33b5feca0",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "15B8647B2A4E1D62F779703A0A50154A": {
         "name": "Battle Network Rockman EXE 3 (Japan) (Rev 1)",
@@ -14805,7 +14976,8 @@
         "md5": "5d9223837dc976e6756616324c5cd2cb",
         "sha1": "e0bd967c2296ca5a515e8b6231d4959336c1278d",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "68817204A691449E655CBA739DBB0165": {
         "name": "Mega Man Battle Network 3 - White Version (USA)",
@@ -14822,7 +14994,8 @@
         "md5": "3bb6b3f488281c23460a717b71faa366",
         "sha1": "1f0762b7c817211e855f4f50c2b11585d0893be9",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "6C653DE4749981579252E59FCAE956D5": {
         "name": "Mega Man Battle Network 4 - Blue Moon (Europe)",
@@ -14848,7 +15021,8 @@
         "md5": "333c21725d933d2bc0cc2209f70afd48",
         "sha1": "62a0169f0fe00e5f8184475a20a36877d1063f63",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "CD06FCA8F11C9FBF1C89D067719CC7F6": {
         "name": "Mega Man Battle Network 4 - Blue Moon (Europe) (Virtual Console)",
@@ -14856,7 +15030,8 @@
         "md5": "cd06fca8f11c9fbf1c89d067719cc7f6",
         "sha1": "0fbf2b2f53f0a32e893e2593e2d7c542b5fcac99",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "73DDEA9ABD509F650ADDD4998E86976F": {
         "name": "Rockman EXE 4 - Tournament Blue Moon (Japan)",
@@ -14864,7 +15039,8 @@
         "md5": "73ddea9abd509f650addd4998e86976f",
         "sha1": "c4302ada1ff652c740dff51df6dec801fd5b7854",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "157CEC6FF0D7360E856B8E09508EC2E5": {
         "name": "Rockman EXE 4 - Tournament Blue Moon (Japan) (Rev 1) (Virtual Console)",
@@ -14898,7 +15074,8 @@
         "md5": "c055ae4f347bf3dfe626979c06133057",
         "sha1": "07426328dbb4a3aea763e75c8ffe6de482ff69d0",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "5137FDF04021DC7817CB1BE34B590ADF": {
         "name": "Mega Man Battle Network 4 - Red Sun (Europe) (Virtual Console)",
@@ -14906,7 +15083,8 @@
         "md5": "5137fdf04021dc7817cb1be34b590adf",
         "sha1": "36d83a1509d28b0c09365466cc1481c919d84cb0",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "60F4B5B05656DC3760A3EAB6CED61E31": {
         "name": "Rockman EXE 4 - Tournament Red Sun (Japan)",
@@ -14914,7 +15092,8 @@
         "md5": "60f4b5b05656dc3760a3eab6ced61e31",
         "sha1": "7efe1b77c39b58e1400af5392bec313003fa7861",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "A2492CA979C2C616AD38E81E5DC3E655": {
         "name": "Rockman EXE 4 - Tournament Red Sun (Japan) (Rev 1)",
@@ -14948,14 +15127,16 @@
         "md5": "759281beed4bfa975262fd49028efebb",
         "sha1": "c715f1d01e016ad6890ebc8ec90120bc3b146a7e",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "A32D78CB1D76EB097760417F232B4B76": {
         "name": "Mega Man Battle Network 5 - Team Colonel (Europe) (Virtual Console)",
         "size": 8388608,
         "md5": "a32d78cb1d76eb097760417f232b4b76",
         "sha1": "061c291b29629d5ce44011d2d83931f2e35044ed",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "504DC19D9F102F1F202AE76DECB12998": {
         "name": "Rockman EXE 5 - Team of Colonel (Japan)",
@@ -14980,7 +15161,8 @@
         "md5": "b03e618d511a7ed9ec3adc43bd58aa96",
         "sha1": "70ee16615f7d9d6bb13382d70dd2f213b918063b",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "5405A66D7B053281E4D48AFB1E31C270": {
         "name": "Mega Man Battle Network 5 - Team Proto Man (Europe) (Virtual Console)",
@@ -14988,7 +15170,8 @@
         "md5": "5405a66d7b053281e4d48afb1e31c270",
         "sha1": "b68b310e3106e7fa6a47d4155239be2e43959da4",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "71B00BA406C522D3CEC48311BD7BC760": {
         "name": "Mega Man Battle Network 5 - Team Protoman (USA)",
@@ -15031,7 +15214,8 @@
         "md5": "72b6564b31f444de7392ba1c9faa1be5",
         "sha1": "b2c83b22b4b1e8a95259f3111419afeffe551825",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "B5ED2211C2C8679B9CC720672B5C9AFB": {
         "name": "Mega Man Battle Network 6 - Cybeast Falzar (Europe) (Virtual Console)",
@@ -15039,7 +15223,8 @@
         "md5": "b5ed2211c2c8679b9cc720672b5c9afb",
         "sha1": "90da73e38628aeb0100749ae65ef4738dea35055",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "0E3ED3A6CC2F201897C58CB31D43A35F": {
         "name": "Rockman EXE 6 - Dennoujuu Falzar (Japan)",
@@ -15055,7 +15240,8 @@
         "md5": "866719fa99283d111b0ff914a7685999",
         "sha1": "5bbe25423a3042209b16389e2d1eddda4a803dfd",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "5383A0D8C214F3FA64E5D8F672F6C4AA": {
         "name": "Mega Man Battle Network 6 - Cybeast Gregar (Europe)",
@@ -15080,7 +15266,8 @@
         "md5": "65295e47fa2bc35407211c331d8f6b7c",
         "sha1": "0a8de8417b9939573daa04f95cdecdeaaf58a79e",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "28587F7914842E2104C48DA646CA0FD8": {
         "name": "Mega Man Battle Network 6 - Cybeast Gregar (Europe) (Virtual Console)",
@@ -15088,7 +15275,8 @@
         "md5": "28587f7914842e2104c48da646ca0fd8",
         "sha1": "7106dc0469898cb5768ec76c99029b24039d7605",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "053CF73404DCC39BE7CBD77C8E833150": {
         "name": "Rockman EXE 6 - Dennoujuu Gregar (Japan)",
@@ -15105,7 +15293,8 @@
         "md5": "de2f2ca8f0d03a8a2e14258dac2581fd",
         "sha1": "678787c7d7cbee119eb524211487fb5dcd01426b",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "B24A17D080A01A404CBF018BA42B9803": {
         "name": "Mega Man Zero (USA, Europe)",
@@ -15122,7 +15311,8 @@
         "md5": "c75988e7042168414e341c102dc7776c",
         "sha1": "7279705e24d32895dada7f5476f68bbc33dd643b",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "A8110C3928CAFFB9A73B48A009F9044F": {
         "name": "Rockman Zero (Japan)",
@@ -15157,7 +15347,8 @@
         "md5": "c0d76fd7a2b656fdec1802d62309c4a7",
         "sha1": "d7a1edd912f8e01bc442809b922bceaf5a1f0176",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "EFB231CCA7699E588D9E9C3977A04B17": {
         "name": "Mega Man Zero 2 (Europe) (Virtual Console)",
@@ -15165,7 +15356,8 @@
         "md5": "efb231cca7699e588d9e9c3977a04b17",
         "sha1": "4ae9cd23f80d190f21002d2fdf4b8847c9452592",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "4B59CEEA0351DEFB6EB4BAD1DCFB38BD": {
         "name": "Rockman Zero 2 (Japan)",
@@ -15199,7 +15391,8 @@
         "md5": "d67692814d313e0f70637fb2157ab6cc",
         "sha1": "de5413481d823c53973cb29507567ef3dc6af399",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "CAD17987AF79A57E44FF18A892D1AA70": {
         "name": "Mega Man Zero 3 (Europe) (Virtual Console)",
@@ -15207,7 +15400,8 @@
         "md5": "cad17987af79a57e44ff18a892d1aa70",
         "sha1": "8245ecb895caf0e0a2914f46bb79e4c9c5ba8c4a",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "AA9AEEA52DE34B25351E76D70BFBE2B8": {
         "name": "Rockman Zero 3 (Japan)",
@@ -15241,7 +15435,8 @@
         "md5": "fa34fc711555c60249603a4ebb718c8e",
         "sha1": "24a774446c8f652c78bb4bd938fc57c612db3d6c",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "0D221D3AD421C62DA3FE6AF1ECD67381": {
         "name": "Mega Man Zero 4 (Europe) (Virtual Console)",
@@ -15249,7 +15444,8 @@
         "md5": "0d221d3ad421c62da3fe6af1ecd67381",
         "sha1": "4424f9e08381a447192d87bbad20dab3c77740db",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "D4E3855B1E6630921DE0E188AC974EBF": {
         "name": "Rockman Zero 4 (Japan)",
@@ -15348,7 +15544,8 @@
         "size": 4194304,
         "md5": "4a7edee1aafebdcc97ee01909f14a7c7",
         "sha1": "73c58f67e1ff42cffa30970b6f226c352635f07d",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "7AB3A2B98CE6A85BFA23BC8BB6ECADEF": {
         "name": "Metal Slug - Super Vehicle-001 (Japan) (En) (Proto)",
@@ -15390,7 +15587,8 @@
         "md5": "b98c04116cb1bd98415b9b7b9c1281d3",
         "sha1": "a2c3d4fa78524a27ee8b2c2bfc962aa01404996f",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "8B7A8C1E315CCF6132AFB5BCD7AA4136": {
         "name": "Metalgun Slinger (Japan)",
@@ -15433,7 +15631,8 @@
         "md5": "36c8139a261f869d76292e83942e7470",
         "sha1": "3c0b7ccd303c30ac5c4ffc9fb0aa7137a533ad69",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "9C2DDD136B3B893DB31B806142D20B8C": {
         "name": "Metroid - Zero Mission (USA) (Beta)",
@@ -15441,7 +15640,8 @@
         "md5": "9c2ddd136b3b893db31b806142d20b8c",
         "sha1": "58986c4d6f2e5ccdc04936cc8b7c9d378570710c",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "E23C14997C2EA4F11E5996908E577125": {
         "name": "Metroid - Zero Mission (USA) (Virtual Console)",
@@ -15449,7 +15649,8 @@
         "md5": "e23c14997c2ea4f11e5996908e577125",
         "sha1": "2ea5e30681dc7aab3258535debbddfb9aa245a8a",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "A52CE4E5E4DD8761A15521712C7DDDD1": {
         "name": "Metroid - Zero Mission (Europe) (En,Fr,De,Es,It) (Virtual Console)",
@@ -15457,7 +15658,8 @@
         "md5": "a52ce4e5e4dd8761a15521712c7dddd1",
         "sha1": "eeba0bf63e5b55ea99be9ba461459023ad352019",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "7C1AC3A3B9F0948BBCC6D5B2AFAC860C": {
         "name": "Miteluode - Lingdian Renwu (China)",
@@ -15500,7 +15702,8 @@
         "md5": "37477683a1e646431c5396164df388f3",
         "sha1": "a45b539becbf10f3913255d6d624ee954dcc5593",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "305060AA2E1F0A854B772FA23988C2B9": {
         "name": "Metroid Fusion (Europe) (En,Fr,De,Es,It) (Beta) (2002-09-16)",
@@ -15508,7 +15711,8 @@
         "md5": "305060aa2e1f0a854b772fa23988c2b9",
         "sha1": "f688f2d3186a0a90040abb214efd1e8e93a424cd",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "5D07CC8A45EAE858BEA6DFC97F63E813": {
         "name": "Metroid Fusion (USA) (Virtual Console)",
@@ -15516,7 +15720,8 @@
         "md5": "5d07cc8a45eae858bea6dfc97f63e813",
         "sha1": "c63419a4ee7c2a5e412fa16645ee04cb24027724",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "A80377600D682074B81B97C9F616DCD5": {
         "name": "Metroid Fusion (Europe) (En,Fr,De,Es,It) (Virtual Console)",
@@ -15524,7 +15729,8 @@
         "md5": "a80377600d682074b81b97c9f616dcd5",
         "sha1": "82e507863f647dc566bbf45227e8cd284052ecba",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "0DC8A17AF87706F54DB5B78F02C5AD12": {
         "name": "Miteluode Ronghe (China)",
@@ -15698,7 +15904,8 @@
         "size": 4194304,
         "md5": "612f5672ae601b796db01dce034a5548",
         "sha1": "7440c18668813a6ff2a51205b79fbf19ab96f09d",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "A005C0D182F08177F732F4E03F3EEB68": {
         "name": "Minna no Soft Series - Shanghai (Japan) (Rev 1)",
@@ -15713,7 +15920,8 @@
         "size": 4194304,
         "md5": "8ecb24e6711df71241e4d52c7d1d07e0",
         "sha1": "1e2846d6998db5c43ffa7cafe0790a5efdbea3c8",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "469B5B94DD8E223A5FA1CD04E4E4C1DC": {
         "name": "Minna no Soft Series - Tetris Advance (Japan) (Rev 1)",
@@ -15729,7 +15937,8 @@
         "size": 4194304,
         "md5": "2166bc8d0cf08a6fe0cc44559a52c3a1",
         "sha1": "03e115da05736e773dadb57a26e3f94002299f6c",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "582AD48ED874C3707ABBD0967A3CC6AA": {
         "name": "Minority Report - Everybody Runs (USA, Europe)",
@@ -15864,7 +16073,8 @@
         "size": 8388608,
         "md5": "ba1f2cd7d4eb41792103bf0a95fc0c09",
         "sha1": "4649710eb75181573d10ad059b3bc6270508ce3d",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "2C5221FBCBD75A985D68451CF7FA6C8E": {
         "name": "Monster Gate - Ooinaru Dungeon - Fuuin no Orb (Japan)",
@@ -16199,7 +16409,8 @@
         "size": 4194304,
         "md5": "98711bc267ca910024398a1f8c078160",
         "sha1": "25554ecf8c3b534e0a70c6d4e402fa8f721da7d8",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "D3B2AB65C92E18DF21788C4B30128041": {
         "name": "Motoracer Advance (Europe) (En,Fr,De,Es,It)",
@@ -16414,7 +16625,8 @@
         "size": 4194304,
         "md5": "d6d1aebc7605124b44f024f54d3be293",
         "sha1": "77743de7541e0a9d09e3aac864c4e3f9f1a51d2b",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "0E7E7ED17B4E8E4D09E166D3BD923B40": {
         "name": "Namco Museum (Europe)",
@@ -16505,7 +16717,8 @@
         "size": 8388608,
         "md5": "96e56b4cf97be08b81750164890df648",
         "sha1": "c8e5498f55829d342b510e0c57639984e1ac03ef",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "DFFC7306234751E18B163FBF3E925F1B": {
         "name": "Naruto - Ninja Council (USA)",
@@ -16521,7 +16734,8 @@
         "md5": "4bf83da83d572a0b60613767bb23e0ac",
         "sha1": "bdba5846c7615423acd416e9eeaab31bbfce57db",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "4E6E4E85EDE139A629320DCF0613F4A6": {
         "name": "Naruto - Ninjutsu Zenkai! Saikyou Ninja Daikesshuu (Japan) (Rev 1)",
@@ -16563,7 +16777,8 @@
         "size": 8388608,
         "md5": "edebadbee7e89aede8bdf6d245580085",
         "sha1": "17b43ab5eb95f0169827ffd739899f8a1827e798",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "2FB73B874BBF4119E5CBF17B8CEAE9C1": {
         "name": "NASCAR Heat 2002 (USA)",
@@ -16656,7 +16871,8 @@
         "size": 8388608,
         "md5": "2363306cb2927ee859a39ba2744d7f42",
         "sha1": "bd87e466168127d11231c75c47dfe09d42c03198",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "D3CD571FD2FC800473DF5BC282C6CE84": {
         "name": "NES Classics - Castlevania (Europe)",
@@ -17200,7 +17416,8 @@
         "md5": "a8af304d0a9a60911018847cdea41eb8",
         "sha1": "afe4a9dfd653ae2b3589297889105d55eb775c81",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "54DB03F65D646FF884CC1EDE2BF9F2E5": {
         "name": "Pac-Man Collection (Europe) (Virtual Console)",
@@ -17208,7 +17425,8 @@
         "md5": "54db03f65d646ff884cc1ede2bf9f2e5",
         "sha1": "a12acc97936dbe32fb10f58b2585c6189182153f",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "30E7A35F23B2259B65844A667191C556": {
         "name": "Pac-Man Pinball Advance (Europe) (En,Fr,De,Es,It)",
@@ -17354,7 +17572,8 @@
         "size": 4194304,
         "md5": "625b7485ca6ef9d497b8fa392f627cd0",
         "sha1": "f7997151c77f5e78c72195a32d96b2354fe5267a",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "1319BABF77CDB73C904364BF354F7595": {
         "name": "Choro Q Advance (Japan) (Rev 1)",
@@ -17387,7 +17606,8 @@
         "size": 8388608,
         "md5": "d7c540384eff184dbd81292f3f7f8c29",
         "sha1": "57317b9c6c2075b7d39d85d949efb49db85aad13",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "989135C9DD288D2C5731C2563C7863EA": {
         "name": "Peter Pan - Return to Neverland (Europe) (En,Fr,De,Es,It,Nl)",
@@ -17395,7 +17615,8 @@
         "md5": "989135c9dd288d2c5731c2563c7863ea",
         "sha1": "ccf431f78f749360dc385271a806f2cf1141cea8",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "09963EA87F2EFED0F73883E68DEF20F6": {
         "name": "Peter Pan - Return to Neverland (USA) (Rev 1)",
@@ -17452,7 +17673,8 @@
         "size": 8388608,
         "md5": "70351a87511a012d5985d525cfc7baf2",
         "sha1": "fefc7a73ddceaf28ebb95b88f5f39a5489024d4e",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "41349A272E07FF38FF3A8009188BA326": {
         "name": "Himawari Doubutsu Byouin - Pet no Oishasan Ikusei Game (Japan) (Rev 1)",
@@ -17871,7 +18093,8 @@
         "size": 4194304,
         "md5": "4073a47136f2ce4f2ab6d53a16eb75fb",
         "sha1": "41a0c7c7ac492ecf94a4270099c5371b851377c4",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "480117B99FF0CE0934D5F4E3B5A952B4": {
         "name": "Pocket Dogs (USA)",
@@ -17946,7 +18169,8 @@
         "md5": "27398cda21dd14b9e0aa28e0e2cb03a2",
         "sha1": "5a27193b69815626c7ffc1dc27c14e000b348193",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "FRA"
     },
     "DD383A093793BFDD76B03D41BA4134F7": {
         "name": "Pokemon - Aura Mew Distribution (Germany)",
@@ -17954,7 +18178,8 @@
         "md5": "dd383a093793bfdd76b03d41ba4134f7",
         "sha1": "c0e8dd88ba17bd55873b36d2e04515596c7c57cb",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "GER"
     },
     "58AABFF30FFD1DCBA6E01F7A542ACC63": {
         "name": "Pokemon - Aura Mew Distribution (Italy)",
@@ -17962,7 +18187,8 @@
         "md5": "58aabff30ffd1dcba6e01f7a542acc63",
         "sha1": "7bc8d22780f4bf767de30441cafa304cce5d83d4",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "ITA"
     },
     "B6EF26112E4FBB50AABAE5BF84250260": {
         "name": "Pokemon - Aura Mew Distribution (Spain)",
@@ -17970,7 +18196,8 @@
         "md5": "b6ef26112e4fbb50aabae5bf84250260",
         "sha1": "bb20ef87da0874e199e87e1979aa1490d3ecdcd7",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "SPA"
     },
     "89073FCE9C0D5B25ACDFDF8A1D7B9D9D": {
         "name": "Pokemon - Aurora Ticket Distribution (USA)",
@@ -18057,7 +18284,8 @@
         "md5": "47596db5a16556c60027e7bf372ec917",
         "sha1": "04139887b6cd8f53269aca098295b006ddba6cfe",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "FF25067B591BA324CD44689A9BA8AA48": {
         "name": "Pocket Monsters - FireRed (Japan) (Rev 1)",
@@ -18090,7 +18318,8 @@
         "md5": "e26ee0d44e809351c8ce2d73c7400cdd",
         "sha1": "41cb23d8dccc8ebd7c649cd8fbb58eeace6e2fdc",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "B8663B80EEF5A1E9B41B683AA1234902": {
         "name": "Pokemon - Version Rouge Feu (France)",
@@ -18125,7 +18354,8 @@
         "md5": "138a71a5be83f3f3d7af3d31916a5fc7",
         "sha1": "5946f1b59e8d71cc61249661464d864185c92a5f",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "89B9F7D5D4ECDF933981AA6F9F05C53E": {
         "name": "Pocket Monsters - LeafGreen (Japan) (Rev 1)",
@@ -18212,7 +18442,8 @@
         "md5": "61657d0452f6b4f1da6e3583ddd15021",
         "sha1": "910e90d3b90b83690ba12207f87091b67565d8ba",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "E15EFF9DF4CDB078896E7EE894DC98F6": {
         "name": "Pokemon - Edicion Rubi (Spain)",
@@ -18220,7 +18451,8 @@
         "md5": "e15eff9df4cdb078896e7ee894dc98f6",
         "sha1": "1f49f7289253dcbfecbc4c5ba3e67aa0652ec83c",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "SPA"
     },
     "61623A55AC0FF4CB97DB7C9A78A477AD": {
         "name": "Pokemon - Edicion Rubi (Spain) (Rev 1)",
@@ -18237,7 +18469,8 @@
         "md5": "1af28ea547d4116dc752c93f7f694239",
         "sha1": "1c2a53332382e14dab8815e3a6dd81ad89534050",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "GER"
     },
     "9AA6AC6FD369A686373A2E1BF8BB6AA3": {
         "name": "Pokemon - Rubin-Edition (Germany) (Rev 1)",
@@ -18252,7 +18485,8 @@
         "size": 16777216,
         "md5": "a93c24b102f9ffbd5676e18f2e4cb33c",
         "sha1": "ca5e3d415c4b47353a73a616878ba833f3648b7a",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "GER"
     },
     "53D1A2027AB49DF34A689FAA1FB14726": {
         "name": "Pokemon - Ruby Version (USA)",
@@ -18260,7 +18494,8 @@
         "md5": "53d1a2027ab49df34a689faa1fb14726",
         "sha1": "f28b6ffc97847e94a6c21a63cacf633ee5c8df1e",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "E0503182A2E699678BCF25A6897A24D6": {
         "name": "Pokemon - Ruby Version (USA, Europe) (Rev 1)",
@@ -18275,7 +18510,8 @@
         "size": 16777216,
         "md5": "3c971ea747a4bbdbd305c6f85c1c99ff",
         "sha1": "a6ee94202bec0641c55d242757e84dc89336d4cb",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "FRA"
     },
     "C014449536D7D32E5B6A3B91D10C0FE9": {
         "name": "Pokemon - Version Rubis (France) (Rev 1)",
@@ -18291,7 +18527,8 @@
         "md5": "4d3e531abcbbe530c0543c91d1d7d63f",
         "sha1": "2b3134224392f58da00f802faa1bf4b5cf6270be",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "ITA"
     },
     "1191848184916ADE8DF270FA27D2555F": {
         "name": "Pokemon - Versione Rubino (Italy) (Rev 1)",
@@ -18325,7 +18562,8 @@
         "md5": "1c1e71c7877fe5bfdb3d612006159bf5",
         "sha1": "3df0c0c6142a9c2a6c632419ebc423ca0d5f42f7",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "CC87721BB3DFA680F15E875EDCF0B4DD": {
         "name": "Pokemon - Edicion Zafiro (Spain)",
@@ -18333,7 +18571,8 @@
         "md5": "cc87721bb3dfa680f15e875edcf0b4dd",
         "sha1": "3a6489189e581c4b29914071b79207883b8c16d8",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "SPA"
     },
     "A40E90F68309AD1FD0B9EFE33DCC6BA8": {
         "name": "Pokemon - Edicion Zafiro (Spain) (Rev 1)",
@@ -18349,7 +18588,8 @@
         "md5": "43906c58afaf0760f62ec698ef10eafc",
         "sha1": "5a087835009d552d4c5c1f96be3be3206e378153",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "GER"
     },
     "9D816B369343D39B94AF9A8B0CE7F63B": {
         "name": "Pokemon - Saphir-Edition (Germany) (Rev 1)",
@@ -18365,7 +18605,8 @@
         "md5": "f34e91399c719812e66e2c828a2e93d7",
         "sha1": "3ccbbd45f8553c36463f13b938e833f652b793e4",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "3A32FD98B065283D09EEBA1CE0542888": {
         "name": "Pokemon - Sapphire Version (USA, Europe) (Rev 1)",
@@ -18380,7 +18621,8 @@
         "size": 16777216,
         "md5": "2e6e9e3b87f99f04a1ac44b01bfa6ecd",
         "sha1": "c269b5692b2d0e5800ba1ddf117fda95ac648634",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "FRA"
     },
     "C59C79D8BFACD27A1C3FAFDA2BD801D0": {
         "name": "Pokemon - Version Saphir (France) (Rev 1)",
@@ -18396,7 +18638,8 @@
         "md5": "f42847fa81d5d1cf30d1dd5b64924561",
         "sha1": "f729dd571fb2c09e72c5c1d68fe0a21e72713d34",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "ITA"
     },
     "B075DCF2B63A992E10204B553800FF40": {
         "name": "Pokemon - Versione Zaffiro (Italy) (Rev 1)",
@@ -18447,7 +18690,8 @@
         "md5": "779a2a4435e0093a7846798270705c76",
         "sha1": "aa2ab3352e4bcc5069bb11db85432825da61303b",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "98B421421F79E774231B65DF7B1B3C47": {
         "name": "Pokemon Pinball - Ruby & Sapphire (Europe) (En,Fr,De,Es,It)",
@@ -18464,7 +18708,8 @@
         "md5": "3cebd1599fbc2cbea21bc940445e8f2c",
         "sha1": "fdd86f127982769941379054ef73cb344db61ae1",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "BA6D0FBFF297B8937D3C8E7F2C25FA0F": {
         "name": "Pokemon Pinball - Ruby & Sapphire (USA)",
@@ -18515,7 +18760,8 @@
         "md5": "52ef9fe877fcf5f5271af1985a275f33",
         "sha1": "eb300d18aef0f9c5e55cd5d7ac0f3bd402f7dc47",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "76E7DAC53DB04F2B4FBC792659954C7D": {
         "name": "Tongqin Yi Bi (China) (Proto)",
@@ -18523,7 +18769,8 @@
         "md5": "76e7dac53db04f2b4fbc792659954c7d",
         "sha1": "2d5f1b6df4cb355e1c3b27ccb83584b9b56eb67f",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "CHN"
     },
     "68C38C871CB58802077D3AC695113F15": {
         "name": "Tsuukin Hitofude (Japan)",
@@ -18540,7 +18787,8 @@
         "md5": "e38706415aeef12402ea38b8f1f8e0e0",
         "sha1": "906dbf246cb40954fc27942763048bc09783b1f8",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "FB55CC8AE270AA9A18871602D3AE36CC": {
         "name": "Polly Pocket! - Super Splash Island (Europe) (En,Fr,De,Es,It) (Vivendi)",
@@ -18571,7 +18819,8 @@
         "size": 4194304,
         "md5": "0d2a4b08c87137212ef39a4c7e9d44cc",
         "sha1": "333cf7c32e017f25c1674313b15f05c62676335b",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "B86876FDB1125CC3132DAB1CC0D6EB74": {
         "name": "Pop Idol (Europe)",
@@ -18639,7 +18888,8 @@
         "size": 8388608,
         "md5": "45ef3c56fb1d7e33144d3517133e1ced",
         "sha1": "43badcefe8cad127f8f8655ee89262517399a20b",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "22B69C5C0108766BE33AD23340F387E2": {
         "name": "Power Pro Kun Pocket 3 (Japan) (Rev 1)",
@@ -18656,7 +18906,8 @@
         "md5": "d8635a000fffb777f91137993d439ee3",
         "sha1": "c6d7317d945f96034699501ac33b1966c5d2c3de",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "70A5FAAF9B9BFE3BEBD8CCFF75A6155B": {
         "name": "Power Pro Kun Pocket 4 (Japan) (Rev 1)",
@@ -18673,7 +18924,8 @@
         "md5": "4d5f240b6a56582f7743287726e6242b",
         "sha1": "6ab43fd731c1d8b6388d6719b8bcbce698da51de",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "9A5D5AC7A142A38C31DE819F8E059CCA": {
         "name": "Power Pro Kun Pocket 5 (Japan) (Rev 1)",
@@ -18689,14 +18941,16 @@
         "size": 8388608,
         "md5": "7cc95cffcb5835b1cde52c805be8461a",
         "sha1": "15bc24f0f47e0317c849c1c33a36357a43def74c",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "F8282772301A8AFC2C6979B447FA9C55": {
         "name": "Power Pro Kun Pocket 5 (Japan) (Promo)",
         "size": 8388608,
         "md5": "f8282772301a8afc2c6979b447fa9c55",
         "sha1": "f9fd4c8ee4f274c751551f056dc868abd0355390",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "128F71AA30E3435283DF66B77A361672": {
         "name": "Power Pro Kun Pocket 6 (Japan)",
@@ -18711,7 +18965,8 @@
         "size": 8388608,
         "md5": "17d463e3e82827c38ee8fc301790d279",
         "sha1": "066d2086d776c66aa566eac211a0e9b45f1942f6",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "845DC86C7D1869BBE0B984D19D9BA01F": {
         "name": "Power Pro Kun Pocket 7 (Japan)",
@@ -18859,7 +19114,8 @@
         "size": 4194304,
         "md5": "2a141847ee3dc1e13ada211a8c2537cc",
         "sha1": "dc789663025c8e5122622ce4fc6d0953a5656bd6",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "8BAC13CF55656A7D66AB32482FD7A323": {
         "name": "Premier Action Soccer (Europe) (En,Fr,De,Es,It)",
@@ -18885,7 +19141,8 @@
         "md5": "479cb924baec02b8cb63a3f4838cdf17",
         "sha1": "480d3accdbc7a3fd2923c5c743561b3170d8924c",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "729069EE00DAD63007EB77CB892E4627": {
         "name": "Premier Manager 2004-2005 (Europe) (En,Fr,De,It)",
@@ -18920,7 +19177,8 @@
         "md5": "6d820b583b6ab2cc5c901d56b43e38cb",
         "sha1": "c169e0c60d3e2dd01b09c478de7bb62cadb516d6",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "6CFF8B06C18DFAFDC44A2C5725F6EFE2": {
         "name": "Prince of Persia - The Sands of Time (USA) (En,Fr,Es) (Rev 1)",
@@ -19105,7 +19363,8 @@
         "md5": "13f57e428c160262e73401f12c24b204",
         "sha1": "d69cba10e14ffc8ab7401c42bcf0661ef0e2cbe3",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "15452792617C0DE7201719EBC43BD424": {
         "name": "Puyo Pop - Endless Version (USA) (GameCube)",
@@ -19113,7 +19372,8 @@
         "md5": "15452792617c0de7201719ebc43bd424",
         "sha1": "82988783cd5aa06003d6b6369e19fcfbf0c0a02f",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "8D7C792D3C715F48833D0390B4EEBC45": {
         "name": "Puyo Pop Fever (Europe) (En,Fr,De,Es,It)",
@@ -19172,7 +19432,8 @@
         "size": 564192,
         "md5": "0f05d7a1eac546b2c66c902ff97b4ce1",
         "sha1": "760145639c82c75e21d648c946211b962d7e254a",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "FB85F8209FE4EA11E6578B11E8194546": {
         "name": "R-Type III - The Third Lightning (Europe) (En,Fr,De,Es,It)",
@@ -19359,7 +19620,8 @@
         "size": 8388608,
         "md5": "870cfbf9950eea5db33c118564233db3",
         "sha1": "064f6b09732f4225f5964d0e8bd386affb83e3d7",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "3CC4C3494A707402F53FC6B6E770994A": {
         "name": "Rayman 3 (USA) (Beta)",
@@ -19367,7 +19629,8 @@
         "md5": "3cc4c3494a707402f53fc6b6e770994a",
         "sha1": "bfb9a22d0f53cd71aa4c5afe8cce2caf721140b8",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "F2391BA88F816726E5A2CE4D321C5ABF": {
         "name": "Rayman Advance (Europe) (En,Fr,De,Es,It)",
@@ -19392,7 +19655,8 @@
         "size": 8388608,
         "md5": "39551d9b694cd4fec703e661ca08bd5f",
         "sha1": "2a473e6a0664412ead33aa9889912dc25db93714",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "ED8221D6853E1C7B070866D3CA3267EA": {
         "name": "Ready 2 Rumble Boxing - Round 2 (Europe) (En,Fr,De)",
@@ -19500,7 +19764,8 @@
         "size": 8388608,
         "md5": "836c290e70dd96db342b73d92b758b57",
         "sha1": "8c94cb30b7c870de02c6d9ba72bd346c11326cf2",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "3F9EA1E569FC4405974537224BD522CB": {
         "name": "Revenge of the Smurfs, The (Europe) (En,Fr,De,Es,It,Nl)",
@@ -19525,7 +19790,8 @@
         "md5": "f81f60fdb2fd774c72a170a1805db52e",
         "sha1": "67f8adacff79c15d028fffd90de3a77d9ad0602d",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "51E7DF2B5E752530518F33F9B5EB4E7E": {
         "name": "Rhythm Tengoku (Japan) (Demo) (Kiosk)",
@@ -19533,7 +19799,8 @@
         "md5": "51e7df2b5e752530518f33f9b5eb4e7e",
         "sha1": "9efdb1b03853cd45d056d8bc9fb2efb4d97460d6",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "8A23378FDCECACA9A648D378C1D9609D": {
         "name": "Ripping Friends, The - The World's Most Manly Men! (USA, Europe)",
@@ -19576,7 +19843,8 @@
         "md5": "865b424538c65f2e5a96255408752eef",
         "sha1": "a29bcbdf6829561e78433c4a4f93ddddc8ba0bca",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "E131F08B70001F4C979CF4D64F806192": {
         "name": "Riviera - Yakusoku no Chi Riviera (Japan) (Rev 1)",
@@ -19784,7 +20052,8 @@
         "md5": "97c3b138b9797675dfb2135118347992",
         "sha1": "6efcd1f8ef84f6f90f265a33ca3d469fb6c41e7f",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "5AE5F07BD435A1BAB5AD2D505AAAF035": {
         "name": "Rocky (Europe) (En,Fr,De,Es,It)",
@@ -19951,14 +20220,16 @@
         "size": 8388608,
         "md5": "bbe5c39533aaf3c912cf1b3ee9fee2ea",
         "sha1": "d4023e0a54a48999a46bf6b63c3bb91e3a795738",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "52590C39A7C6793010ECFB9E17BB68A9": {
         "name": "Samsara Naga 1x2 (Japan) (Rev 1)",
         "size": 8388608,
         "md5": "52590c39a7c6793010ecfb9e17bb68a9",
         "sha1": "2c0ecc0fe283dd1f912c5ca24d1272795109398f",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "9D01C59ABE3149CA2A9C0900571E6914": {
         "name": "Samurai Deeper Kyo (USA)",
@@ -20041,7 +20312,8 @@
         "size": 4194304,
         "md5": "27d0a58227e4c5c6e8481faa4d541fc0",
         "sha1": "e94d0845b3b1ba5a275652e5043f0a49c2f23cdc",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "FBD187500572B8AF52C505F4F8A4BD9B": {
         "name": "Santa Claus Saves the Earth (Europe)",
@@ -20384,7 +20656,8 @@
         "md5": "914bd4b83ad1a0b426cb183132526431",
         "sha1": "4dcd7cee46d3a5e848a22eb371bebbbc2fb8d488",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "BE824A74553013BCB38BA79C460B001C": {
         "name": "Sentouin Yamada Hajime (Japan)",
@@ -20599,7 +20872,8 @@
         "size": 4194304,
         "md5": "710ac1eb3062a922652505e055ecb7b1",
         "sha1": "b2f100650af2c8d6ec02c0a71774eeba22d6be2f",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "FBAD88C14DCEDEFE6C70B06ADCD0A0DB": {
         "name": "Shin Bokura no Taiyou - Gyakushuu no Sabata (Japan)",
@@ -20970,14 +21244,16 @@
         "size": 4194304,
         "md5": "c37e6a339dcf314bb0c014b737c972d6",
         "sha1": "ad31cb6237a888b51585ccd58077b5f8317ce192",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "139B7E51D2F49DFFEEDE13E464BAFEEA": {
         "name": "SimCity 2000 (USA)",
         "size": 4194304,
         "md5": "139b7e51d2f49dffeede13e464bafeea",
         "sha1": "8999c32301ef811da086e9599d7e7d6cf1533a70",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "BD4488CDEF5226ABEBDD0FA28CD1C5D7": {
         "name": "SimCity 2000 (USA) (Rev 1)",
@@ -21010,7 +21286,8 @@
         "size": 4194304,
         "md5": "147ea6fe88f1e2bb50b51e19f5f54cb9",
         "sha1": "6435a2492072864fed7c43ff4792328f981c036f",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "D9A3D6AE2EC335FE8CF8008539AC14E7": {
         "name": "Simple 2960 Tomodachi Series Vol. 3 - The Itsudemo Puzzle - Massugu Soroete Straws (Japan)",
@@ -21034,7 +21311,8 @@
         "size": 4194304,
         "md5": "57d3ac8d32b263592b600dc69939b973",
         "sha1": "e487e3db4498c27dd37d601ad973ec9d1bde5677",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "8F0FDAEDA361783EE74ABD980B418388": {
         "name": "Simpsons, The - Road Rage (USA, Europe)",
@@ -21279,7 +21557,8 @@
         "size": 8388608,
         "md5": "b62f11b1d014d5c5c2dd703676cb443d",
         "sha1": "8dab4c2d38bd13ed88f98a9210cd0cb4ff11520c",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "49ECC8EF1988E7AE81FBDA1B4CF71EED": {
         "name": "Sonic Advance (USA) (En,Ja)",
@@ -21358,7 +21637,8 @@
         "size": 16777216,
         "md5": "edd737aa42cbc7fa7d8b86c249f06ca1",
         "sha1": "dcdd05854b47c52a74ff13f8d50cb1c7f612e376",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "7194F25DA6BE4548F7E0C80F73E3F628": {
         "name": "Sonic Battle (Europe) (En,Ja,Fr,De,Es,It)",
@@ -21649,7 +21929,8 @@
         "size": 4183576,
         "md5": "ac7714ceeab8964ea40cfac5c52afd5f",
         "sha1": "53c4bb950d9b92918f26aeb7b0105604d0263ba1",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "GER"
     },
     "DE5D47CD1D1632127C6D1FA8CF90C849": {
         "name": "Spirit - L'Etalon des Plaines - A la Recherche de la Terre Natale (France)",
@@ -21747,7 +22028,8 @@
         "size": 8166400,
         "md5": "f3f8de4d9497fde3be0a950a10bb2f5b",
         "sha1": "7d59035ecd7f7db78368de499667b79ff4899237",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "C2BFA5C822F33EAED02AD2F94A0414B4": {
         "name": "SpongeBob SquarePants - SuperSponge (USA, Europe)",
@@ -21924,14 +22206,16 @@
         "size": 8388608,
         "md5": "17dd0e3e76207e30614768482078cc3f",
         "sha1": "3e7a5a0f62a7319d0ebf3d302377b08f3f4cdd8e",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "EFFA1B8AE6A342DC47F1AD1228C78965": {
         "name": "SpongeBob SquarePants Movie, The (USA) (Beta 1)",
         "size": 6871418,
         "md5": "effa1b8ae6a342dc47f1ad1228c78965",
         "sha1": "68c7be5be01db6d428a4fe7c5b54ec58f6f793e4",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "8D76FF1A5411FBD8BA0010DBCD0E5AA2": {
         "name": "SpongeBob SquarePants Movie, The (USA)",
@@ -22072,7 +22356,8 @@
         "size": 8388608,
         "md5": "5e35371eaf3ad42844654216b28937a8",
         "sha1": "64608522b649f54c1e7678fb54ffeb8246f0342f",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "36E7D6E276C0E4F56984A2F8491B9364": {
         "name": "Spyro Adventure (Europe) (En,Fr,De,Es,It,Nl)",
@@ -22114,7 +22399,8 @@
         "md5": "6a496546576101291a97a93846f0d9dd",
         "sha1": "e76783d027fb1cd6426bfe3d482c595b585e32ae",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "0CB99D064F970B580A8F0C1B87BD643B": {
         "name": "Spyro Orange - The Cortex Conspiracy (USA) (Rev 1)",
@@ -22305,7 +22591,8 @@
         "size": 4231928,
         "md5": "177cbecf21922a3d5f19d160816c31c2",
         "sha1": "861066ddf8b52be194b30cbb70e959989f0a2f76",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "F39B607DC13C4D8C4353B7981F5F6CB6": {
         "name": "Steel Empire (Europe)",
@@ -22356,7 +22643,8 @@
         "size": 8388608,
         "md5": "fb1e889cf258cd014fbb08e5f8554a35",
         "sha1": "abf63b6dee8368b06b3e6dbee5844314f1f292f3",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "71C5D8E089D0C1B15B4E376515BD4F18": {
         "name": "Strawberry Shortcake - Summertime Adventure (USA)",
@@ -22662,7 +22950,8 @@
         "size": 4194304,
         "md5": "816db888cae935e71a74a4ae6c461bee",
         "sha1": "5fc95814ea7695d1301df4b545614a1ffae95218",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "B4863030186E7E1DA0A6009DADA06CD5": {
         "name": "Super Dodge Ball Advance (Europe)",
@@ -22678,7 +22967,8 @@
         "size": 4194304,
         "md5": "2221038e601e260c39b5b5937064d4e4",
         "sha1": "66405cb265a5df8ea33b3c1e287b9b1098e90fbd",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "0C5D34497C80CE931A91238C54C7E668": {
         "name": "Super Dropzone - Intergalactic Rescue Mission (Europe)",
@@ -22725,7 +23015,8 @@
         "size": 4194304,
         "md5": "10974dab2afea1b3d981568451fe60da",
         "sha1": "d323faeaaacd0c09157ef62128bccb541dd0ac39",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "ACCE7EE3388D135AAA8C5EC88E568182": {
         "name": "Super Hornet FA 18F (USA, Europe)",
@@ -22759,7 +23050,8 @@
         "md5": "7b0c63d4080f79396c0545a86cc1adba",
         "sha1": "05e41b04cdcd73194c0f836639c5774779f50a3f",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "14EB992BD01C4B6B3542EBD30D942726": {
         "name": "Super Mario Advance (USA, Europe) (Virtual Console)",
@@ -22837,7 +23129,8 @@
         "md5": "74673493300b2e927c2a4198e7996a7a",
         "sha1": "dc7868b5300584e7970fe628cc35090e72f98a39",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "DA9F0A0D884DA90E912752CABEA8A741": {
         "name": "Super Mario Advance 3 - Yoshi's Island (Europe) (En,Fr,De,Es,It) (Virtual Console)",
@@ -22845,7 +23138,8 @@
         "md5": "da9f0a0d884da90e912752cabea8a741",
         "sha1": "52c2541c7b369c2894f5f4b045dac14d41c67fe0",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "9F0877F89CB43331C36F7EDBE8C9BA46": {
         "name": "Super Mario Advance 3 - Yoshi's Island + Mario Brothers (Japan)",
@@ -22879,7 +23173,8 @@
         "md5": "e559e292aa9d44287b052342d6469967",
         "sha1": "19f7928bc4ffd733d71884dae9ad9b7f4007d38d",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "9B7B3E2567FE71B6F488EE254209E25E": {
         "name": "Super Mario Advance 4 - Super Mario 3 + Mario Brothers (Japan) (Rev 2)",
@@ -22894,7 +23189,8 @@
         "size": 4194304,
         "md5": "f45348cc19783709d04ac0c12175b222",
         "sha1": "fb38a1284013ab4e2480a1aadcec9400d3a63a1d",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "ED52707B19848C480866A86F28268273": {
         "name": "Super Mario Advance 4 - Super Mario 3 + Mario Brothers (Japan) (Rev 2) (Virtual Console)",
@@ -22902,7 +23198,8 @@
         "md5": "ed52707b19848c480866a86f28268273",
         "sha1": "72ccc0ecce6ce08eadce1b3da4873cdd91851496",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "761668B5D01EE9B8E52174EADB5FD2CF": {
         "name": "Super Mario Advance 4 - Super Mario Bros. 3 (Europe) (En,Fr,De,Es,It)",
@@ -22910,7 +23207,8 @@
         "md5": "761668b5d01ee9b8e52174eadb5fd2cf",
         "sha1": "b7f3d6dc014e2f0ddc996137bdefbb8167a77e66",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "4E5FDE12DBD0441150A9C177E545F56F": {
         "name": "Super Mario Advance 4 - Super Mario Bros. 3 (USA)",
@@ -22918,7 +23216,8 @@
         "md5": "4e5fde12dbd0441150a9c177e545f56f",
         "sha1": "69e81f41394f02d64cad206adb26b3cd43690770",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "605286B3AEDEFFBA70BF46B834B120B1": {
         "name": "Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1)",
@@ -22935,7 +23234,8 @@
         "md5": "e7a2792c5913a8420a419f2d01358487",
         "sha1": "dd2879329ec52bd5372f26b75297a67f1a81215a",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "733E976FD06D65E9F5635B836A14A81B": {
         "name": "Super Mario Advance 4 - Super Mario Bros. 3 (Europe) (En,Fr,De,Es,It) (Rev 1) (Virtual Console)",
@@ -22943,7 +23243,8 @@
         "md5": "733e976fd06d65e9f5635b836a14a81b",
         "sha1": "00667ce3da4bfee3182c4445ac2f5483870be97c",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "CDD0D1BC1B95577662DBF561C8E77F34": {
         "name": "Super Mario Ball (Europe)",
@@ -22969,7 +23270,8 @@
         "md5": "16d337bbd90230ae5eed4cc1f5d72fd9",
         "sha1": "467b0632d20e6d23741a768bcdfd5a593770d255",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "0966C86597B2644A5E7C66EC59E9EDB8": {
         "name": "Mario Pinball Land (USA) (Virtual Console)",
@@ -22977,7 +23279,8 @@
         "md5": "0966c86597b2644a5e7c66ec59e9edb8",
         "sha1": "60a3d35e0202a537ccf4284dd57db250d29fd379",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "342040B3D6E19F72E6D22D7F54A169C5": {
         "name": "Super Mario Ball (Japan)",
@@ -22994,7 +23297,8 @@
         "md5": "0476e1f73f413b9f5790663817c0082b",
         "sha1": "0c7f6d50787b93b59ff505b3d16712b60db63ce7",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "1E5A3679BB64A87EA2E23774A672CA7D": {
         "name": "Super Monkey Ball Jr. (Europe) (En,Fr,De,Es,It)",
@@ -23026,7 +23330,8 @@
         "md5": "f0de694021e61fbe5224d4a2e805e587",
         "sha1": "e94bdb26e5c9e22e94adc2c843ecf2440b79d05a",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "8EE6C58527204E7BA8EB54F397DD15B0": {
         "name": "Super Puzzle Fighter II (USA) (Rev 1)",
@@ -23126,7 +23431,8 @@
         "md5": "722051662ec02aa9ce30b934616063c2",
         "sha1": "bbc144106397937344689b22f3c5b978ca31d691",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "B9E0B9A3D0B7AFBDE1AAF9A26A827723": {
         "name": "Super Street Fighter II Turbo - Revival (Europe)",
@@ -23151,7 +23457,8 @@
         "md5": "153dfb9b03fd758d737b8671b743ce4a",
         "sha1": "2dab7651f2e8692d0e1fa21867a980fe4fc56eae",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "4F39DD42E67D2EF988336EF6D4BF19F0": {
         "name": "Super Street Fighter II Turbo - Revival (Europe) (Rev 1) (Virtual Console)",
@@ -23159,7 +23466,8 @@
         "md5": "4f39dd42e67d2ef988336ef6d4bf19f0",
         "sha1": "854cccad6515b08da9b3382bcd20610efa6cb493",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "FAC044FE59B25AE95471A85C072F716A": {
         "name": "Super Street Fighter II X - Revival (Japan)",
@@ -23726,7 +24034,8 @@
         "size": 4194304,
         "md5": "0c1605d8447bf69a74dbd715d5fbe70f",
         "sha1": "f916a9017068e6b4d18d911b049215a5072c4054",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "08AECB6882D9A73B2CAC1316A5FBF31B": {
         "name": "Tetris Worlds (Europe) (En,Es,It)",
@@ -23843,7 +24152,8 @@
         "size": 4194304,
         "md5": "1cd909a6837e4175244b71b83d2fdd1f",
         "sha1": "35d7fe8c1a36a4f924c28ff0e9c728c819b52405",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "74439CFEBABB5616FBC00C8F7F9F747E": {
         "name": "Three-in-One Pack - Sorry! + Aggravation + Scrabble Junior (USA)",
@@ -24001,7 +24311,8 @@
         "size": 4194304,
         "md5": "904f77bb71669ae4e525857af2c0d23c",
         "sha1": "c58bdd97903f0b61742516a0cd21bc4551868c30",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "164B2A21AFA59D6DEDAD07117296C8E7": {
         "name": "TMNT - Teenage Mutant Ninja Turtles (Europe) (En,Fr,De,Es,It)",
@@ -24154,7 +24465,8 @@
         "size": 16777216,
         "md5": "8c130964502931ba6c3d14e1f719a986",
         "sha1": "3a55f6ed66a3ec7c019221fa2660e2f85954ebae",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "5DD27560673DD339F43584F8301A7364": {
         "name": "Tom Clancy's Splinter Cell - Pandora Tomorrow (Europe) (En,Fr,De,Es,It,Nl)",
@@ -24188,7 +24500,8 @@
         "md5": "70a33b660d40faeb7b43766cea189030",
         "sha1": "51ab57e6b414bae66f3e3ef4335dc0d68df2ed5e",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "CHN"
     },
     "EE91C4582D9B0CC494FCB71173B43E17": {
         "name": "Tonka - On the Job (USA)",
@@ -24337,7 +24650,8 @@
         "size": 4194304,
         "md5": "09306558743c945883527d6c75faeda8",
         "sha1": "b49953ee8c7296205cbb5ac60da298c9d7b3c4a2",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "AD0952BFB34DFEDB56B1A009EA1656DE": {
         "name": "Top Gear GT Championship (USA)",
@@ -24494,7 +24808,8 @@
         "size": 8388608,
         "md5": "d90c08ee30985bf120d394bdd98e2693",
         "sha1": "d89a2515f4fe0d0ac90b20e4633a80a2549175fc",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "4BFCCB544DC5F02581CC574859A82BCB": {
         "name": "Trick Star (Europe) (En,Fr,De,Es,It)",
@@ -24827,7 +25142,8 @@
         "md5": "7aa882a970083c9998f52bba98108d9a",
         "sha1": "cd1caa649bdfa43c838aac8370d0e00ca746ab8a",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "A4E4230BAF0E3B819C84EAE58097CDB0": {
         "name": "Ultimate Muscle - The Kinnikuman Legacy - The Path of the Superhero (USA)",
@@ -25036,7 +25352,8 @@
         "md5": "83ab5e19a8e5aba39192b28f1f5ebd5f",
         "sha1": "bff8308632700d227779e3ba453d7c7060f5b2cd",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "4462BA1869564537610250D522287815": {
         "name": "VeggieTales - LarryBoy and the Bad Apple (USA)",
@@ -25194,7 +25511,8 @@
         "size": 4194304,
         "md5": "96b1fe74b2d1ae2b36973acce0ac0bc2",
         "sha1": "36786bfedb96e003b2a9c17376ff7277e0f9660d",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "BE5B6787B02BDA5B6283185E643A9FCF": {
         "name": "Wanwan Meitantei (Japan)",
@@ -25245,7 +25563,8 @@
         "md5": "ffa917f29cb9b3c0b9d2594b7608beac",
         "sha1": "2d3e6b124c84877520b482ba1016b8e3c36bab14",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "89579F4DFE1ED24A7CD16A6A61A72A17": {
         "name": "WarioWare - Twisted! (USA)",
@@ -25288,7 +25607,8 @@
         "md5": "03795f6f703d32d889d97548b2ed70aa",
         "sha1": "b3abd619aa358873c8e56e0499b526e7df4bb725",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "5A2E10190CA3F9CB1D3A954185A031ED": {
         "name": "Waliou Zhizao (China)",
@@ -25312,7 +25632,8 @@
         "size": 8388608,
         "md5": "5d6028dbcf8e0cebb7aac36b520d94dc",
         "sha1": "6a9dc96967e46c4c4ff138e73b45c031593c2a45",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "212CD9B15124251D8B08602D607C7865": {
         "name": "WarioWare, Inc. - Mega Microgame$! (USA) (Virtual Console)",
@@ -25320,7 +25641,8 @@
         "md5": "212cd9b15124251d8b08602d607c7865",
         "sha1": "c07aeee46d7368a0914e9e5f0f5b108256c0d867",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "6B611DC9657C75D06808C198C4B51AAC": {
         "name": "Whac-A-Mole (USA)",
@@ -25560,14 +25882,16 @@
         "size": 4194304,
         "md5": "77d05464a1ac01ef466f784c701828fe",
         "sha1": "cc7e9c2a9e1df985aed3dc4a018c93140d7a1b2c",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "725E49B6955589696462E8B65F62C2EF": {
         "name": "Winning Post for Game Boy Advance (Japan) (Rev 1)",
         "size": 4194304,
         "md5": "725e49b6955589696462e8b65f62c2ef",
         "sha1": "0f395a384b9db2415196edc2f911ccc67eb5e038",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "46D567B74F28661EE1AEED38FF453285": {
         "name": "Winter Sports (Europe) (En,Fr,De,Es,It)",
@@ -25624,7 +25948,8 @@
         "md5": "a72a1d999e9c607144fa7f3c2145eb75",
         "sha1": "c9ba4742d494d61a215f6e8068fdaeed12d19cdc",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "D853B5FFA5EF88605A0823D3B4B2DF08": {
         "name": "Wolfenstein 3D (USA, Europe)",
@@ -25724,7 +26049,8 @@
         "md5": "8ed216f4ec3342e7d27b420bfe3b4e53",
         "sha1": "91899433556c14bbe3bb043e95c3549bf3346e5a",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "USA"
     },
     "092DBB8125CFBC93D55342F25277B08F": {
         "name": "World Tennis Stars (Europe)",
@@ -25889,7 +26215,8 @@
         "size": 131072,
         "md5": "fdbd4e62e01ba4a570188b201427d3a4",
         "sha1": "4f2252f61e80eb2a27646fd4bfb159da8ea70ca6",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "EUR"
     },
     "986FF7D285A6C161CCFD2EAEF4F8CB18": {
         "name": "XS Moto (USA)",
@@ -25956,7 +26283,8 @@
         "md5": "d4a4550a42646e58df0445756e004d8e",
         "sha1": "71b87b9684babfe5751a9fb6642ace5a927f21e0",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "F9DE621B65084BCDAFF6E6B0CDC7C413": {
         "name": "Yoshi's Universal Gravitation (Europe) (En,Fr,De,Es,It)",
@@ -26246,7 +26574,8 @@
         "md5": "9a8abbb9e95ad1ead235e3ade9b7b429",
         "sha1": "a6eddd916eff82fa7841366bac1932b88201e548",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "9BC1EE3D43963364AD25E687EC867D26": {
         "name": "Yu-Gi-Oh! Duel Monsters International - Worldwide Edition (Japan) (En,Ja,Fr,De,Es,It) (Rev 1)",
@@ -26490,7 +26819,8 @@
         "md5": "36545c66bf7abdbced2b294a7dd8d419",
         "sha1": "75d8c15ac281ea93c8ac7cc7641c490799557081",
         "status": "verified",
-        "system": "GBA"
+        "system": "GBA",
+        "region": "JPN"
     },
     "02FD4433F3DACBFD1C921A54909AC365": {
         "name": "Zoids Saga - Fuzors (Japan)",

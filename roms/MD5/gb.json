@@ -14,7 +14,8 @@
         "md5": "a8f84a0ac44da5d3f0ee19f9cea80a8c",
         "sha1": "8bd501e31921e9601788316dbd3ce9833a97bcbc",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "71A378E71FF30B2D8A1F02BF5C7896AA": {
         "name": "[BIOS] Nintendo Game Boy Pocket Boot ROM (World)",
@@ -506,7 +507,8 @@
         "md5": "9148245e7196c286506ad6b8bef73e35",
         "sha1": "34c417f6f9db7e8021fb1af6c12f22c9b48bb723",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "EF84A328B1C87D22448ACCDB713A2329": {
         "name": "America Oudan Ultra Quiz Part 3 - Champion Taikai (Japan)",
@@ -610,7 +612,8 @@
         "size": 131072,
         "md5": "9c3aff83a957d13e393f99cff8445271",
         "sha1": "a3a5755020c9cbe13fc1a815288830d2e143367f",
-        "system": "GB"
+        "system": "GB",
+        "region": "USA"
     },
     "08F46BB59E52562F08C76F4E6C0040C5": {
         "name": "Arcade Classic No. 3 - Galaga & Galaxian (Europe) (SGB Enhanced)",
@@ -1020,7 +1023,8 @@
         "size": 524288,
         "md5": "d14502bcdcf71e9e16476b5077c03945",
         "sha1": "61b99fbc4d56dad2e6002c7a8c6b5a1660a23137",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "A093E160D18423BDAA2D6BF22F5F32A0": {
         "name": "Nettou Toushinden (Japan) (Rev 1) (SGB Enhanced)",
@@ -1565,7 +1569,8 @@
         "md5": "312ea1fe2d4734f33ffa617dd4a7676b",
         "sha1": "3e169f1db16cc1c3ffbc8645aa7ce28194033d26",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "USA"
     },
     "2FC9BE5FA50CFA9C660A2CEAA55344AE": {
         "name": "Soukoban (Japan)",
@@ -1741,7 +1746,8 @@
         "size": 262144,
         "md5": "32628dd7b39919a3a5ab77b245cd6b63",
         "sha1": "4f1f56b06364272033372230cfe0819cb3e25b50",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "8963803E642DBFBE4F5F3BC5A567785D": {
         "name": "Bugs Bunny Crazy Castle 2, The (USA)",
@@ -1881,7 +1887,8 @@
         "md5": "ccd1192a634c3358352172abfeb7fb9e",
         "sha1": "c1ed80f33fc3603edaba1bdf5c317f1a205da3dc",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "USA"
     },
     "9C9679E4DA4DAA2EE22F1C35EEF03CAD": {
         "name": "Caesars Palace (USA) (Rev 1)",
@@ -2028,7 +2035,8 @@
         "md5": "1e5fe428068d8e051e20874ce7c38349",
         "sha1": "0d1a75cf0e6e7f6b106cfed7aa0b716daf5f9dc8",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "USA"
     },
     "94135FB63D77D48D2396C60CA8823B69": {
         "name": "Dracula Densetsu (Japan)",
@@ -2045,7 +2053,8 @@
         "md5": "d8e5f3f058b75b65ba86ae4e43e2986b",
         "sha1": "5a79f9d5d6b710216921a89450b727a9741e0d83",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "7C65E9DA405D2225D079F75E56276822": {
         "name": "Castlevania II - Belmont's Revenge (USA, Europe)",
@@ -2079,7 +2088,8 @@
         "md5": "41b56cdbf28fc78f4e3d6f66907214ff",
         "sha1": "3d0c52d7f566fd717e9117ca4b948174b7864769",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "1475824E7262C0D6359F43C287E034A5": {
         "name": "Castlevania Legends (USA, Europe) (SGB Enhanced)",
@@ -2113,7 +2123,8 @@
         "md5": "d4a7bd8598b050262ed6f553b45d5b3e",
         "sha1": "928b9b3cb2ed5e6d6fc754679b3c994f7ed803c3",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "USA"
     },
     "45F764BF05ABE6102A641642C71CEDE3": {
         "name": "Pitman (Japan)",
@@ -2349,7 +2360,8 @@
         "md5": "70d54771dde507f26713fba445f49a4f",
         "sha1": "ac2360d790c855fde91fca26ee88a4814a1f2e9f",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "F67D293F77A27DE481C7541D6021A659": {
         "name": "Chou Mashin Eiyuu Den Wataru - Mazekko Monster 2 (Japan) (SGB Enhanced)",
@@ -2470,7 +2482,8 @@
         "md5": "f4352b697190fccadd9d07657376da5e",
         "sha1": "8963c2e8e42c452528078f10df699fd266f01749",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "82E7321AFED96C7639A817DE1F88A6F8": {
         "name": "Crayon Shin-chan - Ora no Gokigen Collection (Japan) (SGB Enhanced)",
@@ -2601,7 +2614,8 @@
         "md5": "f1dbc21b1b8f8dcbe9a15bc9ef68fb9c",
         "sha1": "344c3409410fe5f88796aafd125c522319b78012",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "EUR"
     },
     "EB4C1F70056AAC7A767E6EB790B2FA30": {
         "name": "Looney Tunes Series - Daffy Duck (Japan) (SGB Enhanced)",
@@ -2852,7 +2866,8 @@
         "md5": "bb352209d041ed1b9f09c26e0c7ab749",
         "sha1": "80ccbf87dcd4d4e76f1f6a7a94e00ec2857e530a",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "0FEF748262BF93D67036A80E23CB42D1": {
         "name": "Dino Breeder 2 (Japan) (SGB Enhanced)",
@@ -3183,7 +3198,8 @@
         "md5": "0281fd8061d82472e242954513805196",
         "sha1": "f1006d6cf77469092f3b9f266d0a65da9c91ac42",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "INT"
     },
     "4599627050687063DA3F5CF804DC16F6": {
         "name": "Dr. Mario (World) (Beta)",
@@ -3191,7 +3207,8 @@
         "md5": "4599627050687063da3f5cf804dc16f6",
         "sha1": "4b2343f40e7ca3c583108ed70a870c7bd906b108",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "INT"
     },
     "F29D7DC8D22C317BB7C17A7BBDC24EC6": {
         "name": "Dragon Ball Z - Gokuu Gekitouden (Japan) (SGB Enhanced)",
@@ -3360,7 +3377,8 @@
         "size": 131072,
         "md5": "f9a6af7c1041424cbcbe79822d7dab0c",
         "sha1": "346ed92c1f56221d1feda2a008ead2e3940bcbcb",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "2EB9A6891FC79CD878D8BC12D04A0790": {
         "name": "Dynablaster (Europe)",
@@ -3474,7 +3492,8 @@
         "md5": "3ad6a2e9c2872cd8f92d86e18332262c",
         "sha1": "96490be847aeeded0b635f45b05683a6defdf2e8",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "INT"
     },
     "A8B74D14E66F7A3049E79CA147141D52": {
         "name": "F-15 Strike Eagle (USA, Europe)",
@@ -3631,7 +3650,8 @@
         "md5": "3552eada6ea2db722fab1048e3ec654f",
         "sha1": "5ef615a919ea967e749febb046f9d097d91fab0d",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "EUR"
     },
     "49CCE431C6AA61F97E650CFD83724F6E": {
         "name": "FIFA International Soccer (USA, Europe) (En,Fr,De,Es) (SGB Enhanced)",
@@ -3693,7 +3713,8 @@
         "md5": "10c1170d5b5416a217eb66821060421d",
         "sha1": "f1db92d8076237489aa1528141fe240843111a54",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "1F66F1DE0DC183D58E47CAFDC414EC2B": {
         "name": "Sa-Ga 2 - Hihou Densetsu (Japan) (Rev 1)",
@@ -3997,7 +4018,8 @@
         "size": 262144,
         "md5": "d5081250257e0dafcb8fe8720fcb9f28",
         "sha1": "f8c5ad6d6bf1a5a90dffebada1dbd69a93720c83",
-        "system": "GB"
+        "system": "GB",
+        "region": "USA"
     },
     "7727F43D66A77FE0284BF1B8FFEDE7DD": {
         "name": "Game & Watch Gallery (USA) (Rev 1) (SGB Enhanced)",
@@ -4450,7 +4472,8 @@
         "md5": "9d3d554ace962a9dc4e87544dfa76ed2",
         "sha1": "18bbee226858af45a81f7da1186938f53511ef73",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "613C2336E19EA8F958F66C3E7DFEF3C5": {
         "name": "Goal! (Europe)",
@@ -4474,7 +4497,8 @@
         "md5": "7f7df6b53d2c01c2c2fe9ce20a8eebe5",
         "sha1": "984f4fd0127325311cad9fbceb5c71f305cb2b23",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "1FAD0B21E68BD05E2F29B2E5FD861719": {
         "name": "Takeda Nobuhiro no Ace Striker (Japan)",
@@ -4560,7 +4584,8 @@
         "md5": "d4088d3239a9291e4e7bdb2119ad7708",
         "sha1": "d367f2dab5eacb10e785a13a2550ca7cc3e54177",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "5675D1B55CF842BF6919BDCC69F2F311": {
         "name": "Goukaku Boy GOLD - Shikakui Atama o Maruku Suru - Kanji no Tatsujin (Japan) (IE Institute)",
@@ -4577,7 +4602,8 @@
         "md5": "e0b9dd8e504ec8e44d15b2bd0d8901a6",
         "sha1": "1d3e5ad888b8339e35c46455d84017d8a0d69c6d",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "38BD3F2EE51FBD6882B5C76D6F5DD18B": {
         "name": "Goukaku Boy GOLD - Shikakui Atama o Maruku Suru - Keisan no Tatsujin (Japan) (IE Institute)",
@@ -4594,7 +4620,8 @@
         "md5": "1905ff1a339e777237edc66b59969f4c",
         "sha1": "e2ac91493248869aba6b7d26a36e5ff6bd6d6f5a",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "5AA4ECE6D3FD99E7CE0682B92C55D25B": {
         "name": "Goukaku Boy GOLD - Shikakui Atama o Maruku Suru - Nanmon no Sho (Japan)",
@@ -4680,7 +4707,8 @@
         "md5": "b2c2367b5a3e6a483c147debec006508",
         "sha1": "df253afb9c01615ad8219730573321a40fb5e230",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "D8F049E77238C17C5A91AEF2BF300180": {
         "name": "Goukaku Boy Series - Kirihara Shoten Hinshutsu Eibunpou Gohou Mondai 1000 (Japan)",
@@ -4757,7 +4785,8 @@
         "md5": "2232ee0598c7b953b38b1bf4f7bf8ecf",
         "sha1": "3fc9c1bc1d3b8e7ee90c14d4ae4938726f61a2db",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "B8AD678F5F1E8A7F498B04A6257B3108": {
         "name": "Goukaku Boy Series - Shikakui Atama o Maruku Suru - Rika Battle Hen (Japan) (Imagineer)",
@@ -4774,7 +4803,8 @@
         "md5": "ddd4c08b975e78d77b00b56b85a7862d",
         "sha1": "4569f5cc0f528fdf46cfd1b3a8ef8a6fd3953d7e",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "833C2C1990EAB0F9F09A6471FFEB24DE": {
         "name": "Goukaku Boy Series - Shikakui Atama o Maruku Suru - Sansuu Battle Hen (Japan) (Imagineer)",
@@ -4791,7 +4821,8 @@
         "md5": "53caa3d63f1db9059cabe555e18cf2ff",
         "sha1": "1e0fe5a54b4eb03a1f108d8650ad5ef8814d7444",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "1C04158B8C2408523620E73D88B0D8D5": {
         "name": "Goukaku Boy Series - Shikakui Atama o Maruku Suru - Shakai Battle Hen (Japan) (Imagineer)",
@@ -4808,7 +4839,8 @@
         "md5": "45cb9cd406f53033e0fbfc5413797192",
         "sha1": "dfdcabdc06b74f896b9ef47db2a9cc49ddb104c4",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "20477830FCDBE53EBAE93A2AE90C72C9": {
         "name": "Goukaku Boy Series - Shikakui Atama o Maruku Suru - Suuji de Asobou Sansuu Hen (Japan) (Rev 1)",
@@ -4824,7 +4856,8 @@
         "md5": "2e5943f9e984fa4aed26542eacf2d9f4",
         "sha1": "02ddcaef0008871786797fc76c649d74f010718d",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "4CFA25F0CC297FD5F98FAA1DDAE083F0": {
         "name": "Goukaku Boy Series - Yamakawa Ichimonittou - Nihonshi B Yougo Mondaishuu (Japan)",
@@ -4936,7 +4969,8 @@
         "size": 131072,
         "md5": "9af91c7e344a9048f0f4037a8abcbe54",
         "sha1": "6ac35a017fd1f61c19086765107e3940426a2a66",
-        "system": "GB"
+        "system": "GB",
+        "region": "USA"
     },
     "93660017F0AF0589E3CE0869EBBE9BDC": {
         "name": "Pro Wrestling (Japan)",
@@ -4978,7 +5012,8 @@
         "md5": "6633ea57f86c4a117f0b027da68bda92",
         "sha1": "60ecafdb13213b3ac2daa3d71431ef8a89754edb",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "275DC0712E83F34252C2FCD2EAEFB72F": {
         "name": "Bokujou Monogatari GB (Japan) (Rev 1) (SGB Enhanced)",
@@ -4995,7 +5030,8 @@
         "md5": "fbd26b166eb8a61c2617b878a22c204f",
         "sha1": "551df2021d0e433e7f07cf881c7b1d534f54f6ad",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "B9D3D91D8389CC510AA8FE9063228644": {
         "name": "Hatris (Japan, USA)",
@@ -6135,7 +6171,8 @@
         "md5": "a7594d0b4362a7e4325dd8ea913c4bf1",
         "sha1": "7c6c71b52c62b814945ee102054a7a3210b1ecf3",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "16A03DA1364C683B73742DC3E6C0E788": {
         "name": "Kinnikuman - The Dream Match (Japan)",
@@ -6178,7 +6215,8 @@
         "size": 262144,
         "md5": "b7963a68f95d644f8adedb269d29666c",
         "sha1": "1e34b7beee30e350087771b3a3e05a40e4a1ea84",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "995CE81FE91162CFF295BADD94E366F3": {
         "name": "Hoshi no Kirby (Japan) (Rev 1)",
@@ -6634,7 +6672,8 @@
         "size": 524288,
         "md5": "ae08c1f73f822116060ef58293b94ed8",
         "sha1": "fa38601c371ca327166bf52be1094697d41a80f3",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "3AFBE0CF110FC6AD8DEF8377ECFFC34D": {
         "name": "Zelda no Densetsu - Yume o Miru Shima (Japan) (Rev 1)",
@@ -6660,7 +6699,8 @@
         "md5": "6f72b0b3dd1d0939b1ccf7e9a8b05a04",
         "sha1": "8edb7e1a1a7289d4c393fba6d27776ab6af441ff",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "EUR"
     },
     "6CDEA29ACCD2C7C1B2AF1822F142BE4D": {
         "name": "Lemmings (Japan)",
@@ -6684,7 +6724,8 @@
         "md5": "5ece0017f734e6a813b622b8b455cfe9",
         "sha1": "4f23d9dcc315f5dbd5ef2350f6623b6cd077b393",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "EUR"
     },
     "7B96ADFD6D3576CB2BAB2AFD06D8BD6E": {
         "name": "Lemmings 2 - The Tribes (Europe)",
@@ -7210,7 +7251,8 @@
         "md5": "a849bc6810ae27de442ab9aa354ea594",
         "sha1": "ae26b9310ab41d94a73b807ef5f30e2d0e34d667",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "A9C9D6B6759C28F2B3986717F4DF2F98": {
         "name": "Medarot - Kuwagata Version (Japan) (Rev 1) (SGB Enhanced)",
@@ -7226,7 +7268,8 @@
         "size": 524288,
         "md5": "d6cf6d5b5a86292d88116b9c4ebee091",
         "sha1": "f657f822ed15e459c4abcd171c9620cddbdfd022",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "A83D745AE8806A04D4A9E3C241F8C8CB": {
         "name": "Medarot - Parts Collection (Japan) (SGB Enhanced)",
@@ -7279,7 +7322,8 @@
         "md5": "2b04dbc9b7dbddd456f56282f36f58ce",
         "sha1": "60c5c997b4b2c47d852520817228d2b8efc2a33f",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "B9CFEE05797BEB8FF7E259EE77EAF2FB": {
         "name": "Mega Man II (Europe)",
@@ -7331,7 +7375,8 @@
         "md5": "05f432506ab629713f40b8d5fc3a5098",
         "sha1": "7eea8a96bf64537b041b96ce2cb5dd13cdebb789",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "USA"
     },
     "C22F3EFE9048652EF6F798650FCE2D2A": {
         "name": "Rockman World 3 (Japan)",
@@ -7500,7 +7545,8 @@
         "md5": "a774e4d7c2e05d0dbbde260ec807bb59",
         "sha1": "81456302f06dd7b026854abbf8bb34804a14dfa1",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "USA"
     },
     "94C8529C51540BABC5FC0B3FA2C50153": {
         "name": "Mick & Mack as the Global Gladiators (USA) (Proto) (1993-09-27)",
@@ -7508,7 +7554,8 @@
         "md5": "94c8529c51540babc5fc0b3fa2c50153",
         "sha1": "0108d3b03232fdc57dd087f823b6f0c2c1669629",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "USA"
     },
     "EA48475EC24FD803715169265ABF1DFD": {
         "name": "Mick & Mack as the Global Gladiators (USA) (Proto) (1993-10-04)",
@@ -7516,7 +7563,8 @@
         "md5": "ea48475ec24fd803715169265abf1dfd",
         "sha1": "9eb948563e05d6f242fb5bb4759856e8edf17da5",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "USA"
     },
     "38B65D28AC0BD619F5DEE5A45D5FC542": {
         "name": "Mickey Mouse - Magic Wands! (USA, Europe) (SGB Enhanced)",
@@ -7532,7 +7580,8 @@
         "size": 131072,
         "md5": "b1864ab2fa592aa7e8337c308df08047",
         "sha1": "b8537bef22696feadf51343b6e1697370c4a8d5a",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "D9E0E5C51F4A60855D701C3C9DEEC74F": {
         "name": "Mickey Mouse V (Japan) (Rev 1)",
@@ -8036,7 +8085,8 @@
         "md5": "dca464649ea6a3969ac8ee834d431d44",
         "sha1": "956a12a65a1c39948c312303719895bd6f141a61",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "EUR"
     },
     "57D60F97E42D24835B6723D9B7A3C0DB": {
         "name": "Motocross Maniacs (Japan)",
@@ -8184,7 +8234,8 @@
         "md5": "8c1c4b2e451fb7d695441b9be03e4d30",
         "sha1": "bd8369977cfbbaf3cc57f6268b564d6b11c27d45",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "INT"
     },
     "2EFE1569E3BE81E7E19B13EAFC60CD24": {
         "name": "Mystic Quest (France)",
@@ -8209,7 +8260,8 @@
         "md5": "15819cb3a6571eb67b52ce06f1972ef9",
         "sha1": "293cb213992a367fd452c8c32a9839a2b3275862",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "INT"
     },
     "CED7CC60F00D5BC4BCDC816AAFE69BE3": {
         "name": "Mystic Quest (World) (Fr) (Collection of Mana)",
@@ -8217,7 +8269,8 @@
         "md5": "ced7cc60f00d5bc4bcdc816aafe69be3",
         "sha1": "d6265d74e0380a1656ad9b14971d5040c4cc20c5",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "INT"
     },
     "A446427CF79799DEEBA1AD63183765C0": {
         "name": "Mystic Quest (World) (De) (Collection of Mana)",
@@ -8225,7 +8278,8 @@
         "md5": "a446427cf79799deeba1ad63183765c0",
         "sha1": "69235c3494ea650db3b66d6393264f03f0022194",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "INT"
     },
     "3B359E9FEC183BFF5F964E25B599B246": {
         "name": "Seiken Densetsu - Final Fantasy Gaiden (Japan)",
@@ -8242,7 +8296,8 @@
         "md5": "a0cbb8db8757203fe42d47591c5ca982",
         "sha1": "12b9cb8d182d4f5ffa154d360fffc8c7a516d82b",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "85AC741A34B971DFC107C15C8A902F07": {
         "name": "Mystical Ninja Starring Goemon (Europe) (SGB Enhanced)",
@@ -8750,7 +8805,8 @@
         "md5": "a83273edb8b89c84145d619d72ee19fe",
         "sha1": "d93b6718e9c8a2505f4da73b99f57866111948af",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "USA"
     },
     "E3B96773C7D55B3EE4C2615D1B9DACA7": {
         "name": "Sengoku Ninja-kun (Japan)",
@@ -9660,7 +9716,8 @@
         "md5": "e30ffbab1f239f09b226477d84db1368",
         "sha1": "82c0eef40a5e2423699d9fd8ba15dfaa8b51d196",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "C52A677C35F15320D5B495E14809F00D": {
         "name": "Pocket Monsters Gin (Japan) (Demo) (Spaceworld 1997) (SGB Enhanced)",
@@ -9675,7 +9732,8 @@
         "size": 1048576,
         "md5": "fa65d3759bb17c489de171a598ba4913",
         "sha1": "4c576dd4671bb1fe36c5e6d76c8909f98d739667",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "3C407114DE28D17B7113A2C0CEE9A37C": {
         "name": "Pocket Monsters Kin (Japan) (Demo) (Spaceworld 1997) (SGB Enhanced)",
@@ -9690,7 +9748,8 @@
         "size": 1048576,
         "md5": "2eadbed83b775c097ff79e5128d1184f",
         "sha1": "b1d7539a87dea81b2cff6146afaad64470d08d84",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "8ABC199792EDADFC3F42822B33C912D8": {
         "name": "Pocket Puyo Puyo Tsuu (Japan) (Rev 1) (SGB Enhanced) (NP)",
@@ -9707,7 +9766,8 @@
         "md5": "296cb17655e184bb65c1cd2a3bc68d8a",
         "sha1": "2ffbff6706047988468a7952de09c2720c3019ed",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "F3C6246DB6DD47701435E0EDE493B975": {
         "name": "Pocket Shougi (Japan) (SGB Enhanced)",
@@ -9802,7 +9862,8 @@
         "md5": "912d4f77d118390a2e2c42b2016a19d4",
         "sha1": "0623ad12f48c259447980d68bd85ddbf8204b2cd",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "4C44844F8D5AA3305A0CF2C95CF96333": {
         "name": "Pocket Monsters - Aka (Japan) (Rev 1) (SGB Enhanced)",
@@ -9863,7 +9924,8 @@
         "md5": "aa13e886a47fd473da63b7d5ddf2828d",
         "sha1": "1fb6c264e950d97ce3fd99b347e485b2150df4ff",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "96C1F411671B6E1761CF31884DDE0DBB": {
         "name": "Pocket Monsters - Pikachu (Japan) (Rev 1) (SGB Enhanced)",
@@ -9871,7 +9933,8 @@
         "md5": "96c1f411671b6e1761cf31884dde0dbb",
         "sha1": "28e4b8531ea4ea1de5a396fccb0cfba51b06b149",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "5D9C071CF6EB5F3A697BBCD9311B4D04": {
         "name": "Pocket Monsters - Pikachu (Japan) (Rev 2) (SGB Enhanced)",
@@ -9879,7 +9942,8 @@
         "md5": "5d9c071cf6eb5f3a697bbcd9311b4d04",
         "sha1": "91864ecdf26d1c593bde4d9ed615520eb57d5e41",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "90AE2EA218F8E21AFA678C6A4E7B6013": {
         "name": "Pocket Monsters - Pikachu (Japan) (Rev 3) (SGB Enhanced)",
@@ -10000,7 +10064,8 @@
         "size": 131072,
         "md5": "5cbd186af88b167c2a972ddac81ae756",
         "sha1": "d59986195bd74dde865245fae9c4081a8a24efb0",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "30B579D82AE755BD37C1D4157A96129C": {
         "name": "Popeye 2 (USA)",
@@ -10050,7 +10115,8 @@
         "size": 131072,
         "md5": "cfee195bfd47e8e061ed67b9545242a4",
         "sha1": "ef28356e7a3b82f64e62cb9a7b4c121aa626ff7c",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "5D516B5DE2BF54FB6C687F1838B628CC": {
         "name": "Power Mission (Japan) (Rev 1)",
@@ -10074,7 +10140,8 @@
         "size": 262144,
         "md5": "f213c0040e067cfae27c3fe90143b7c3",
         "sha1": "135d04cbaab6afd03997bceb6b1a2a8aa1dbc7e8",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "8E76D1CE4B251E3A31056FEDDDA92E9B": {
         "name": "Power Racer (Europe)",
@@ -10177,7 +10244,8 @@
         "md5": "2c4922faac9fb989ab556282598f8ec0",
         "sha1": "42b6dfbf283946998caa6c383fa70bf1b646217e",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "EUR"
     },
     "B7477B7050CC569B4C02A5AE60E5F24E": {
         "name": "Pro Action Replay (Europe) (Unl)",
@@ -10254,7 +10322,8 @@
         "md5": "6e47b388dffae893ff1fc33ca552cf9a",
         "sha1": "8f060253ea228c43d2992458dbf904a0b0d7b01e",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "EUR"
     },
     "D7569C3FAAA4A657385C119E6B4A48C6": {
         "name": "Prophecy - The Viking Child (Europe) (En,Fr,De,Es,It)",
@@ -10297,7 +10366,8 @@
         "size": 524288,
         "md5": "2cf73ae0ef2b62e9d20b5432b2f6c5de",
         "sha1": "2f2d519e0c9acad3cf96546aebb04b8ff309ab1f",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "B5E99DCB3296AFB933796E552CAC1E31": {
         "name": "Purikura Pocket 2 - Kareshi Kaizou Daisakusen (Japan) (SGB Enhanced)",
@@ -10331,7 +10401,8 @@
         "md5": "1a181f068d715c4ca350fb168fb9dd8a",
         "sha1": "65c80185c8948e1963509e13c40fb670ad6b64c5",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "073E6A0F2FDAE655760AAF6DB81DA3B2": {
         "name": "Puzzle Nintama Rantarou GB (Japan) (SGB Enhanced)",
@@ -10478,7 +10549,8 @@
         "md5": "db8683de91dd039783618b0873f3960e",
         "sha1": "da727e9541c9885365651fc6eece3f0075a59fe4",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "EUR"
     },
     "4E4D51039CCE43B11F51191DC7A6BCD9": {
         "name": "Race Days (USA)",
@@ -10771,7 +10843,8 @@
         "md5": "421a923ba483f65a967b8455500b8880",
         "sha1": "39b92e019134dfd4480b957509c3eb64920cecb3",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "USA"
     },
     "3EB476D0C6347CE9034246F826866A58": {
         "name": "RoboCop 2 (USA, Europe)",
@@ -10855,7 +10928,8 @@
         "size": 262144,
         "md5": "89dae4a6f82d2e603af41a4499a3360b",
         "sha1": "2b37b40ab05bee2b23b30b898af6197a35278c10",
-        "system": "GB"
+        "system": "GB",
+        "region": "USA"
     },
     "EBD1866DC6C13CA48F45538ED33EA46F": {
         "name": "Rolan's Curse (USA)",
@@ -10959,7 +11033,8 @@
         "md5": "bd816c99ef46497c67aca61d1cb306be",
         "sha1": "6303a5fb1d99ba8bad36437af5e2592fdecf0f72",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "369BC7CDE60AC3F97F72FF605502797F": {
         "name": "Nettou Samurai Spirits (Japan) (Rev 1) (SGB Enhanced)",
@@ -11019,7 +11094,8 @@
         "md5": "9fa5ce9c87d949dfbd5d8ff46ece63eb",
         "sha1": "0d12280e689eb320df06ceb469c629d93860dc2e",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "3D9099F5C9822D771F461C20A153A59B": {
         "name": "Scotland Yard (Japan)",
@@ -11211,7 +11287,8 @@
         "md5": "72c0a7eb38ffc2ef65c0e2ffb1729aa5",
         "sha1": "2569352ea796864fcd769cc9b25c6497516134c6",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "C042681ADBBE175B354D0ABEE3413219": {
         "name": "Shanghai Pocket (Japan) (SGB Enhanced)",
@@ -11261,7 +11338,8 @@
         "md5": "edfd07c3e47abffaae2441d75110d4a7",
         "sha1": "0f46531204b6d4a5294734cc5f14b9f9d2179d03",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "70436283AC6D8B8AB84F256134159AB9": {
         "name": "Shin SD Gundam Gaiden - Knight Gundam Monogatari (Japan) (SGB Enhanced)",
@@ -11336,7 +11414,8 @@
         "md5": "f07094cb4398c3670d1da2f704895b95",
         "sha1": "0638c6c66b94e70ba658240be457da5ce913bc8b",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "4E6788188FD7E6BAB9B6974B308A38EB": {
         "name": "Shounen Ashibe - Yuuenchi Panic (Japan)",
@@ -11474,7 +11553,8 @@
         "md5": "4528d42eae39a3fa756eefa29d52ef55",
         "sha1": "9fc50648c18f7f8f0e567ba8791b1d9a43c9f044",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "EUR"
     },
     "0B5127A54CC8581ACFABE0413378CA3D": {
         "name": "Sneaky Snakes (USA, Europe)",
@@ -11795,7 +11875,8 @@
         "size": 262144,
         "md5": "378236df6a7c686dfaa6743b63d1f757",
         "sha1": "556641fc79700c5ccb4f8feaec1d7fafe99c31c4",
-        "system": "GB"
+        "system": "GB",
+        "region": "EUR"
     },
     "9ECB13A68C8C58D90DD15157440D5B10": {
         "name": "Splitz (Europe)",
@@ -11812,7 +11893,8 @@
         "md5": "6add9bf46fd945f6635419ad60988334",
         "sha1": "5f36290557f23c48ca7f2f17a1af9b691ede5bff",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "EUR"
     },
     "59E6F8F432D4C0B99A3FB6432A2CDAD7": {
         "name": "Splitz - Nigaoe 15 Game (Japan)",
@@ -11820,7 +11902,8 @@
         "md5": "59e6f8f432d4c0b99a3fb6432a2cdad7",
         "sha1": "c71d031da8206798a56beae6a90f143174a76947",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "EB43C1DF87041D6B82E789A2B46927BE": {
         "name": "Uchiiwai - Kyoudaijingi no Puzzle Game (Japan)",
@@ -12017,7 +12100,8 @@
         "md5": "8a874449c207af6e4726337ca899e35a",
         "sha1": "3a6028708d9fb23a27104201fa8725a5dfb3b161",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "EUR"
     },
     "63098FDE8F2DCB977C9A8F0389E0D033": {
         "name": "Star Wars (USA)",
@@ -12025,7 +12109,8 @@
         "md5": "63098fde8f2dcb977c9a8f0389e0d033",
         "sha1": "82c4114312efdc86c578e8683941a950fc2bb4c3",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "USA"
     },
     "5664CDC54D539374C8D318C6DA06969E": {
         "name": "Star Wars - The Empire Strikes Back (USA, Europe)",
@@ -12042,7 +12127,8 @@
         "md5": "05f7b63c25b4871440968fd4ce25440a",
         "sha1": "9ca1d6d479f5a3beb32f2461637b489f245323ff",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "USA"
     },
     "04BDE16BEDA3F9D7CEC4509A04A75946": {
         "name": "Stargate (USA, Europe)",
@@ -12102,7 +12188,8 @@
         "md5": "dc3ef8d3fad26cba840327cc428cadbc",
         "sha1": "05711638648654e75ca6a563411daec3251c2ef0",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "USA"
     },
     "0BF2F0FE9537A2A6B6F8F2E037CB66B7": {
         "name": "Street Racer (USA, Europe)",
@@ -12329,7 +12416,8 @@
         "md5": "b48161623f12f86fec88320166a21fce",
         "sha1": "3a4ddb39b234a67ffb361ee7abc3d23e0a8b1c89",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "INT"
     },
     "4BD6E929EC716A5C7FE7DC684860D551": {
         "name": "Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev 2)",
@@ -12362,7 +12450,8 @@
         "md5": "98dab710bdf256c1f1cf92c31d58d632",
         "sha1": "dc410e83f06ebd63ae5bd97e1b9562f0c887be37",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "9EFEF8CEA73BAFBAAEB779B97356149F": {
         "name": "Super Mario Land 2 - 6-tsu no Kinka (Japan) (Rev 2)",
@@ -12379,7 +12468,8 @@
         "md5": "7c2419bddfd72711e90f54ef63695b07",
         "sha1": "f536d4d76a22668b8672bb291e4c738abc55d759",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "DBE1E995AF2F9C28A06FE5845F04DA7B": {
         "name": "Super Momotarou Dentetsu (Japan)",
@@ -12906,7 +12996,8 @@
         "md5": "084f1e457749cdec86183189bd88ce69",
         "sha1": "3f2a6407c9900ad5817ee1cfb3609c5ee17400fc",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "29790C2FECDE95CAADE0FD68BD97781A": {
         "name": "Tetris 2 (USA, Europe) (Rev 1) (SGB Enhanced)",
@@ -12958,7 +13049,8 @@
         "md5": "7fbda0c87af7701bb5e75c2a77bb0143",
         "sha1": "3de8d7f30322bc50008ab0d917acd0a934b5b195",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "USA"
     },
     "11BE7FF8141F8D7A5C8CCA903151F0BA": {
         "name": "Yoshi no Panepon (Japan) (SGB Enhanced)",
@@ -13028,7 +13120,8 @@
         "md5": "8e71bf57156f52e57bb593966728d6ec",
         "sha1": "a69bee8c26a520b648a780c67e4a73d54e1bf812",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "EUR"
     },
     "CBB45188C780CE5BBDF502CEB2B9994A": {
         "name": "Tiny Toon Adventures - Babs' Big Break (USA, Europe)",
@@ -13268,7 +13361,8 @@
         "size": 524288,
         "md5": "d4e7caf41d3a12facc5d7d5185631567",
         "sha1": "ac2cdbd6ae42edcf407f02150add2c0442ec116c",
-        "system": "GB"
+        "system": "GB",
+        "region": "USA"
     },
     "344ED70FE1A7A8CC904EDA886543252C": {
         "name": "Toy Story (USA) (Rev 1) (SGB Enhanced)",
@@ -13424,7 +13518,8 @@
         "md5": "b0afdadb0804b98cd2ba41e2c59e251f",
         "sha1": "eae6cdb4425ddae51bee0e7d0aa956b72e897743",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "1DD179D971829C8A9CA55100390A26F5": {
         "name": "Tsumeshougi - Mondai Teikyou Shougi Sekai (Japan)",
@@ -13953,7 +14048,8 @@
         "md5": "c18bd7c4f672efe33dff72a5dacd3284",
         "sha1": "97544a78925f6bb095c7b2f14878b2e1467dc7d1",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "USA"
     },
     "E9AB23A96409060054A05344B536B33C": {
         "name": "WordZap (USA)",
@@ -14039,7 +14135,8 @@
         "md5": "dee3e9698d8087aa884d95978d5efaa7",
         "sha1": "0dd04ca0ac61b449d3040587918b63d649fbbcc2",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "C18465F62ACDB31516360C17CCC2AB37": {
         "name": "Nettou World Heroes 2 Jet (Japan) (Rev 1) (SGB Enhanced)",
@@ -14187,7 +14284,8 @@
         "md5": "2acfc8d0213b186552124fb8b3085fa1",
         "sha1": "3fdb9ea690c0f035dd0dcc98b1dcc83ac5154e17",
         "status": "verified",
-        "system": "GB"
+        "system": "GB",
+        "region": "JPN"
     },
     "84FC4878829FDFF7D1C6D92C67AE35EA": {
         "name": "Yogi Bear's Gold Rush (Europe)",

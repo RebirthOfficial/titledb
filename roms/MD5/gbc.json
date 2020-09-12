@@ -5,7 +5,8 @@
         "md5": "7c773f3c0b01cb73bca8e83227287b7f",
         "sha1": "df5a0d2d49de38fbd31cc2aab8e62c8550e655c0",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "DBFCE9DB9DEAA2567F6A84FDE55F9680": {
         "name": "[BIOS] Nintendo Game Boy Color Boot ROM (World) (Rev 1)",
@@ -560,7 +561,8 @@
         "size": 524288,
         "md5": "6f0a4d09a4a40ca93a528f2409bb872c",
         "sha1": "95287b440139e88d90700f892d1da60aaa4da778",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "EUR"
     },
     "1CDC49E8F8340C2CE27FD3F5CDD3D618": {
         "name": "Austin Powers - Oh, Behave! (Europe) (En,Fr,De,Es,It)",
@@ -868,7 +870,8 @@
         "md5": "00ca1749b004d4c38cdfc884bd547f72",
         "sha1": "bc7847dee730ba274f3c3ccb511f1dad6b6a93c7",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "3BFA6ECA3E26C8B4EE8E31AC7064085A": {
         "name": "Bass Masters Classic (USA, Europe) (GB Compatible)",
@@ -1479,7 +1482,8 @@
         "md5": "f5780199efb64e9eee31ca35f68489da",
         "sha1": "cee465f6987c2d580cc96fac703025989208e683",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "EUR"
     },
     "20BCF9A299D0F8DE3C36F01C16813162": {
         "name": "Card Sharks (USA) (Proto)",
@@ -1504,7 +1508,8 @@
         "size": 524288,
         "md5": "049da443c6bd96a0365cbc68b7d0e2eb",
         "sha1": "8a11954329dcabe4bb39cb522505545a41da5356",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "D054A2C3A5F203E9930D8C4B88CD6A33": {
         "name": "Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan) (Rev 1) (GB Compatible)",
@@ -1512,7 +1517,8 @@
         "md5": "d054a2c3a5f203e9930d8c4b88cd6a33",
         "sha1": "b3926ac213b9f88f570b0587fae89e3151018d63",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "3A998A2EC99C89696C9B23BBBD87F116": {
         "name": "Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai (Japan)",
@@ -1536,7 +1542,8 @@
         "size": 1048576,
         "md5": "2a3a4d83902ee2af1890433c50d2809c",
         "sha1": "0a94857f23640b36117b7bfe4ce7cc291da63c58",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "EUR"
     },
     "F73C5CC4935EDE64F5B2D62754C90262": {
         "name": "Carmageddon - Carpocalypse Now (USA, Europe) (En,Fr,Es,It)",
@@ -1857,7 +1864,8 @@
         "md5": "8a0bf3dec344271e01979cee50299897",
         "sha1": "eb0eaed85cf5a72e0461eebbad38227bd018a999",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "USA"
     },
     "0552078F981C2EF3977F2DFEEE19510A": {
         "name": "Croc (USA, Europe)",
@@ -2281,7 +2289,8 @@
         "size": 2097152,
         "md5": "d0c1449229a8208d0e6753fa05685df3",
         "sha1": "e8042138b56777733e8e9e397ea084cf61383cd9",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "USA"
     },
     "B077F0ACBB5D2CA07A2D9C035856E01E": {
         "name": "Dinosaur'us (Europe) (En,Fr,De,Es,It,Nl)",
@@ -2478,7 +2487,8 @@
         "size": 1048576,
         "md5": "509ca3dc125131b1a4b1667ccc64fd27",
         "sha1": "fd05adb1a6face86ff263883fdf4cebf14e055e9",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "15BEDC4919965732CBFB301F11E5B36A": {
         "name": "Doraemon no Quiz Boy 2 (Japan)",
@@ -2736,7 +2746,8 @@
         "md5": "5254ea1935c43057358d2efba26c60c8",
         "sha1": "eebaf3d553bb915340e64cb85022eb8344ddf1b0",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "B28C999D1B43E8E39998827FF39965CC": {
         "name": "Dragon Quest Monsters - Terry no Wonderland (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)",
@@ -2761,7 +2772,8 @@
         "md5": "979eb4fd473c344cb2cfc6ea4211ca5a",
         "sha1": "5d2daec53938805236328a0f8a614debffa34048",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "B863839C61E45DB5C6C6492D24688032": {
         "name": "Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi (Japan) (Rev 1)",
@@ -3096,7 +3108,8 @@
         "md5": "09c21d37f66cca587663a461c81606be",
         "sha1": "9285bb4fbab8678b65cc8736f43e4ea3895c1cf4",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "EUR"
     },
     "58670204EC7B8791576E3C88BA7C1DDF": {
         "name": "F-18 Thunder Strike (USA, Europe)",
@@ -3163,7 +3176,8 @@
         "size": 4194304,
         "md5": "a7d2695b3ddc268389e36f916815f96d",
         "sha1": "e9616a53ab9474c0bb85451ff19b62bed9e7f1a4",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "EUR"
     },
     "5428271D0C9C5EB3DBF28078FAFE2031": {
         "name": "F1 World Grand Prix II for Game Boy Color (Europe) (En,Fr,De,Es)",
@@ -3205,7 +3219,8 @@
         "md5": "0591d5637b4c9f304340d941b2ae9e7a",
         "sha1": "a27b498c6170b4136d2ca8a75c3d529dd6c06639",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "2E3288D0D0B41D6FCC6BEC6676A78A3E": {
         "name": "Ferret Monogatari (Japan)",
@@ -3263,7 +3278,8 @@
         "size": 1048576,
         "md5": "d5e1af0598a8db7b93f57eb2909edc17",
         "sha1": "80ec102f3cf45602c6facffcdd44232650897dab",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "EUR"
     },
     "50E6D9D88450932743161B7512838CCC": {
         "name": "Flintstones, The - Burgertime in Bedrock (USA)",
@@ -3330,7 +3346,8 @@
         "size": 1048576,
         "md5": "d94e22b4c08ab3c7b1929f5490adcbf2",
         "sha1": "5b7c097a12a8408fd20b81289e03ad9ea2fd2691",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "USA"
     },
     "7F1830171EEC29AC72AE976D4DFDFC65": {
         "name": "Frogger (USA) (Rev 2) (GB Compatible)",
@@ -3347,7 +3364,8 @@
         "md5": "547c0d3fdb1c6ef7abc7dff06c457a35",
         "sha1": "db3d21977c17a505936d1e2fc3626a0b43addf16",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "USA"
     },
     "6DB4B6A1CCEEBC9AB2629C83A5C838AE": {
         "name": "Frogger 2 (USA) (Rev 1)",
@@ -3363,7 +3381,8 @@
         "size": 1048576,
         "md5": "06b0d6b88e54337f3f5c7bbea373f237",
         "sha1": "566e0afb3a6f25342399a3e39f3fbcacef68eb72",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "USA"
     },
     "B883323E9AE3C85548169BABE3F9B4F0": {
         "name": "From TV Animation One Piece - Maboroshi no Grand Line Boukenki! (Japan) (SGB Enhanced) (GB Compatible)",
@@ -3389,7 +3408,8 @@
         "md5": "da5586315ca857071d557a8fde26c108",
         "sha1": "459f1ae41f6c5c6464745a23ea42bbba5385a83b",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "579291571DAC53916FD552CCEA5B0BB9": {
         "name": "Front Row (Japan)",
@@ -3465,7 +3485,8 @@
         "size": 1048576,
         "md5": "3b9116dcb4a3b4cc943f75b8b7e88212",
         "sha1": "8ba0973997bdaeecdf23c45a4fb7e18e06132dfb",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "CBF4A5B2FF566554B014118E3D0E3E9A": {
         "name": "Game & Watch Gallery 2 (USA, Europe) (SGB Enhanced) (GB Compatible)",
@@ -3709,7 +3730,8 @@
         "size": 1048576,
         "md5": "bcf3e2445346b4ef40c1278b4b46408c",
         "sha1": "a9e2d5e1fd5d3993acb87888d287612a09ecaa8b",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "EUR"
     },
     "D1B2C36DEF4B361645EAE44F6A0C53EA": {
         "name": "Gifty (Germany) (En)",
@@ -3803,7 +3825,8 @@
         "md5": "bd34182264a2f503d4e6982718d3bb6d",
         "sha1": "d6d4eb47595b72c9c3ad77b5f9fa85b76f0acf4c",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "EUR"
     },
     "EF24106662AE769DBA0C410933736332": {
         "name": "Golf Daisuki! (Japan) (SGB Enhanced) (GB Compatible)",
@@ -3896,7 +3919,8 @@
         "md5": "c23c356a1ed788942e7d0b2cdac2fd36",
         "sha1": "534fc9ae5800eb935460f145e1bbc57f77ab2555",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "E952D78A439E47AB4D77B563973797D5": {
         "name": "Great Battle Pocket, The (Japan) (SGB Enhanced) (GB Compatible)",
@@ -3920,7 +3944,8 @@
         "size": 1048576,
         "md5": "95de0eb82c6013224a449fd972006d6f",
         "sha1": "675623b58fa0d307355c77d7a4783af7927681e9",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "EUR"
     },
     "B50EF76B1E81615CF079C373B50C0AB9": {
         "name": "Grinch, The (Europe) (En,Fr,De)",
@@ -4058,7 +4083,8 @@
         "size": 2097152,
         "md5": "a290f281cde7d00059e0e567bffb0d3b",
         "sha1": "cf19fd582d8881779e7e34e1d6cd8fd5b7129f53",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "18ECA52A51880410614CFC4AD65EE34C": {
         "name": "Hamster Paradise 3 (Japan)",
@@ -4223,7 +4249,8 @@
         "md5": "cf364669fe4197209fde5d0c32713d53",
         "sha1": "e7fceb85a78c78403711521fe5fc8f86260425d0",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "5BEA1B33EB5635E147069215C92B3D41": {
         "name": "Bokujou Monogatari 3 GB - Boy Meets Girl (Japan) (Rev 1)",
@@ -4833,7 +4860,8 @@
         "md5": "9dcf58ce7c379a01c3288975e90624f3",
         "sha1": "6e042fc6029493a429557a6fdce111c03f9ede1b",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "EUR"
     },
     "8E23226758BE3AE7A83803F9147ADA5E": {
         "name": "Jimmy White's Cueball (Europe)",
@@ -4952,7 +4980,8 @@
         "md5": "0834c2990995cbd2c76db538ff93c5ba",
         "sha1": "4d7f15ed30dcc6ddeea1863ee8d786e3933ca92f",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "INT"
     },
     "5BD9F0923DC29BD9E566933C3C3E7902": {
         "name": "Juukou Senki Bullet Battlers (Japan) (SGB Enhanced) (GB Compatible)",
@@ -5122,7 +5151,8 @@
         "size": 2097152,
         "md5": "25bd0ec7f8959a9a29c4af3c7d6fddde",
         "sha1": "76dc291937adbe7ebab4c1681ecf1fc7ea3a6074",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "D5161ED7380AF488B22302691C9A33CD": {
         "name": "Keep the Balance (Europe) (En,Fr,De,Es,It)",
@@ -5269,7 +5299,8 @@
         "size": 2097152,
         "md5": "d01e66fa8d96d2c6b1fd029856d7c14b",
         "sha1": "054065759ff04c508378796ca12a4b578e1c174c",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "6736E0DC64FA3584ED48B1A9D845ABCB": {
         "name": "Kisekae Series 3 - Kisekae Hamster (Japan)",
@@ -5543,7 +5574,8 @@
         "md5": "1043fd167d0ed9c4094e3c9d8e757f1e",
         "sha1": "9a679e30b03e119a21ae7daac65e73e0ef4e0894",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "FRA"
     },
     "68242187B65166B5F8225B20E2021659": {
         "name": "Legend of Zelda, The - Link's Awakening DX (France) (Rev 1) (SGB Enhanced) (GB Compatible)",
@@ -5559,7 +5591,8 @@
         "size": 1048576,
         "md5": "e91fd46e7092d32ca264f21853f09539",
         "sha1": "8cd9d786547bfb3ddbe16ad2a84a36cf895ac16e",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "GER"
     },
     "B0080C2F1919A4BB0EA73B788F4A6786": {
         "name": "Legend of Zelda, The - Link's Awakening DX (Germany) (Rev 1) (SGB Enhanced) (GB Compatible)",
@@ -5590,7 +5623,8 @@
         "size": 1048576,
         "md5": "f75874e3654360094fc2b09bd1fed7e8",
         "sha1": "b810925bf9d9f4f6cd97c5e46c94c1a9dd61a113",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "6D8F9CD72201CAABDFD0455A819AF9CE": {
         "name": "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)",
@@ -5598,7 +5632,8 @@
         "md5": "6d8f9cd72201caabdfd0455a819af9ce",
         "sha1": "d3de302d44bdb240bcf55a5dc70f491f5456d721",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "2E2596C008D47DF901394D28F5BD66EC": {
         "name": "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (SGB Enhanced) (GB Compatible)",
@@ -5785,7 +5820,8 @@
         "size": 1048576,
         "md5": "fc2629620c6a8b67550df2773333788d",
         "sha1": "a0bef7df1ba3d75e7958763f0cec9c76428415df",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "FRA"
     },
     "6C024D8DCCE9C86BAB9DC16596794276": {
         "name": "Roi Lion, Le - La Formidable Aventure de Simba (France) (Rev 1)",
@@ -5956,7 +5992,8 @@
         "size": 262144,
         "md5": "a9ee6c9625c9bd187bc7fd90df3a4fc4",
         "sha1": "8cc512784d323f7c0bfe36848c5f7fdc49257285",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "417AE48B7E288B62FE2540541244FC31": {
         "name": "Loppi Puzzle Magazine - Hirameku Puzzle Dai-3-gou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)",
@@ -5971,7 +6008,8 @@
         "size": 262144,
         "md5": "8dbab7618855360b2029bdf2841067ab",
         "sha1": "a7faa970e71d38c68948b646d3dcb9cbea1df995",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "68E0DB3785BC843790D6DE9C3877003F": {
         "name": "Loppi Puzzle Magazine - Hirameku Puzzle Soukangou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)",
@@ -5986,7 +6024,8 @@
         "size": 262144,
         "md5": "de3c7f4b7df2d8c95ea1c5c622c332e8",
         "sha1": "7425bd94790866bf716fd3c23886a5cdc06f1aad",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "74A81CF1C74134091DA70B06380285FC": {
         "name": "Loppi Puzzle Magazine - Kangaeru Puzzle Dai-2-gou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)",
@@ -6001,7 +6040,8 @@
         "size": 262144,
         "md5": "6f5aca1f721a92eb956286809f2af28d",
         "sha1": "cb14866337caecd5458edc72f2d56f2c8c028411",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "21D547EA7229128618079C792FD94E2A": {
         "name": "Loppi Puzzle Magazine - Kangaeru Puzzle Dai-3-gou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)",
@@ -6016,7 +6056,8 @@
         "size": 262144,
         "md5": "c16f93ef289c6524dff09b8906eef668",
         "sha1": "9822fecf183d3d0a6e9af80696463b09e1f31a60",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "E77282A547CA0586CF396CCAC3262F84": {
         "name": "Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP)",
@@ -6031,7 +6072,8 @@
         "size": 262144,
         "md5": "41c2515a1dda83aadfd0a134bc62656b",
         "sha1": "5a476f79db61aa8c6f32bbabd82fade5cde811d2",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "BA01289E8D646E1407F70275A50114B3": {
         "name": "Love Hina Party (Japan)",
@@ -6057,7 +6099,8 @@
         "md5": "71a4659ae44b6594e75f98e013ce6853",
         "sha1": "912c09f99bdae6e7fcd62d0c6f727e5fff93db70",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "74A6B62520A30FF28D5A7D19A7108C27": {
         "name": "Luca no Puzzle de Daibouken! (Japan) (SGB Enhanced) (GB Compatible)",
@@ -6149,7 +6192,8 @@
         "size": 1048576,
         "md5": "71b646ac71dbae8984995ef51324f5f5",
         "sha1": "2a0d0b7aa3b96b05bc020da496f2ce08e8fac190",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "USA"
     },
     "4FA0F6E7388F072C8BB76761F8068868": {
         "name": "Macross 7 - Ginga no Heart o Furuwasero!! (Japan)",
@@ -6232,7 +6276,8 @@
         "md5": "7fd49763f6a8aceb6aea4cfe601a8b10",
         "sha1": "3c315f3f77002456f09df9643be323608ae72088",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "EUR"
     },
     "A13623A452327EDE4553EE2BD1B89A1A": {
         "name": "Magical Tetris Challenge (USA)",
@@ -6248,7 +6293,8 @@
         "md5": "8339e84709ea33723fd11ed2f3e1abee",
         "sha1": "aa7dd2044a7e1535da67d7b9439e9771f736086a",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "55031FADEB053136A4DF5CF848A97680": {
         "name": "Tetris Adventure - Susume Mickey to Nakama-tachi (Japan) (Rev 1)",
@@ -6289,7 +6335,8 @@
         "size": 2097152,
         "md5": "efc589169180e3b278be99af8cae1a64",
         "sha1": "8bdd3bd414da91c6ea05bc29435e09b0b72e3790",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "D2711FF066F40C4E6C471B79DA0F08B7": {
         "name": "Marble Madness (USA, Europe)",
@@ -6878,7 +6925,8 @@
         "md5": "8d2a6b487aade7ca05696548c2efb181",
         "sha1": "777088b9a3963e55dd6f90a523a84ed58a008149",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "5323967B4E46C4A76EA3576675BE42AC": {
         "name": "Minnie & Friends - Yume no Kuni o Sagashite (Japan)",
@@ -7158,7 +7206,8 @@
         "md5": "7311f937a542baadf113e9115158cde3",
         "sha1": "1006b279eab113afe50f84e714a93c63de8cbfcf",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "GER"
     },
     "8EE55A0AD476A0497A483A30C0B28316": {
         "name": "Mr. Driller (Europe)",
@@ -7193,7 +7242,8 @@
         "md5": "19fb34b63e864a72e26073f8e7e7ed01",
         "sha1": "fb64fa7da6a0fec3e358bb3357e66d68473ada67",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "83B67B8A10F704A9E3E7CA3814E5B3CA": {
         "name": "Mr. Nutz (Europe) (En,Fr,De,Es,It,Nl)",
@@ -8165,7 +8215,8 @@
         "md5": "aef66e8a7c75323ae0981ff5a20722a4",
         "sha1": "a86d4a24b5da3444b1967362b13d321b5c4f7a64",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "A456D96B9C3ED51CDF58369FC1F07880": {
         "name": "Pocket Puyo Puyo-n (Japan) (Rev 1)",
@@ -8173,7 +8224,8 @@
         "md5": "a456d96b9c3ed51cdf58369fc1f07880",
         "sha1": "3d52805f712e6d1ce22b88dfebfcac2a31743ff3",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "B8BE3A0807B09038D4FEB48DC2AB1E70": {
         "name": "Pocket Racing (Europe)",
@@ -8243,7 +8295,8 @@
         "md5": "9f2922b235a5eeb78d65594e82ef5dde",
         "sha1": "f4cd194bdee0d04ca4eac29e09b8e4e9d818c133",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "USA"
     },
     "8931758738E8A662C88910FD2D33D365": {
         "name": "Pokemon - Crystal Version (Australia)",
@@ -8313,7 +8366,8 @@
         "md5": "85be569fe89f58c40f60480313314c67",
         "sha1": "8814f1039450a5d3684b1389f588ccd7ee7c3436",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "79AECE8A042E4FA57ABA9455C4D21A97": {
         "name": "Pocket Monsters Kin (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)",
@@ -8383,7 +8437,8 @@
         "md5": "1abb25d01dbeb20f104e44364f56fe03",
         "sha1": "fa8c51059c1642faa570db56ef089f54d1d2011f",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "75519C8B57CEA3AC91133B3DEC7658DE": {
         "name": "Pocket Monsters Gin (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)",
@@ -8418,7 +8473,8 @@
         "md5": "a3799918a413d72787d4434935df2117",
         "sha1": "76fa60d66b2f22a035adc54c61aad9a415c894cd",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "GER"
     },
     "72448FE75F534F70CD90469DA95EF76F": {
         "name": "Pokemon - Version Argent (France) (SGB Enhanced) (GB Compatible)",
@@ -8520,7 +8576,8 @@
         "size": 2097152,
         "md5": "7eb08ef6d67164251eeeabf537fedccb",
         "sha1": "2138a422d135a13c49fce71229ae36bc1dc4fbb5",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "EUR"
     },
     "4572F09B61A36E94762FF60CBE182834": {
         "name": "Pokemon Trading Card Game (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)",
@@ -8528,7 +8585,8 @@
         "md5": "4572f09b61a36e94762ff60cbe182834",
         "sha1": "868e7b376e39f7d65a735538d90fbe6bbc99d198",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "EUR"
     },
     "219B2CC64E5A052003015D4BD4C622CD": {
         "name": "Pokemon Trading Card Game (USA, Australia) (SGB Enhanced) (GB Compatible)",
@@ -8646,7 +8704,8 @@
         "md5": "5ab6b2a6f4c48aa8a1e77e31370cdcb3",
         "sha1": "f796f9cb259646555f0d429b9337ac6b423755a3",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "2C03CC138BE009ED83F036F919FF8F0A": {
         "name": "Power Pro Kun Pocket 2 (Japan) (SGB Enhanced) (GB Compatible)",
@@ -8689,7 +8748,8 @@
         "size": 2097152,
         "md5": "258b7b8e4692d4204df470487ef2fc3d",
         "sha1": "92d86ec01e8669bbb8d26a5ec51efc0f761eeaf4",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "USA"
     },
     "4B9D82D91A575CF96657383A26505EFF": {
         "name": "Powerpuff Girls, The - Bad Mojo Jojo (USA) (Rev 1)",
@@ -8697,7 +8757,8 @@
         "md5": "4b9d82d91a575cf96657383a26505eff",
         "sha1": "d3f74815bec29ae7d580b112a1c1f913c19ac89e",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "USA"
     },
     "C73B80F668E138C6828C9BCCA13A13BA": {
         "name": "Powerpuff Girls, The - Bad Mojo Jojo (USA) (Rev 2)",
@@ -8740,7 +8801,8 @@
         "size": 2097152,
         "md5": "565b748f3ee16464bebde853770d39d2",
         "sha1": "3d90946a2cbe503d040b10958301587998d4e86f",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "USA"
     },
     "57BCDE64A3005D4AAD8DF640F2B5F07C": {
         "name": "Powerpuff Girls, The - Battle Him (USA) (Rev 1)",
@@ -8782,7 +8844,8 @@
         "size": 2097152,
         "md5": "967488fc18b9ee5140c33090fedd7a79",
         "sha1": "2d52551fce2cb6d246c6296beeb6a8a3dfbc2159",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "USA"
     },
     "C8F68E280F379FF7CC10C8EC4ED89142": {
         "name": "Powerpuff Girls, The - Paint the Townsville Green (USA) (Rev 1)",
@@ -8790,7 +8853,8 @@
         "md5": "c8f68e280f379ff7cc10c8ec4ed89142",
         "sha1": "023d4d9374e7fe9844f970dd0004c5d7eefd2d38",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "USA"
     },
     "B3E8E32A3F8C3366CB12B4EA7B0A9169": {
         "name": "Powerpuff Girls, The - Paint the Townsville Green (Europe)",
@@ -9279,7 +9343,8 @@
         "md5": "c3c3932d5471bc0028ade1cd7a102d43",
         "sha1": "87f8b1bad965bc9214ccd2932020163418a4e8f1",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "INT"
     },
     "83BDDB431A5DD2E759F1CE5E6C25FD77": {
         "name": "Resident Evil (Unknown) (Demo) (Climax Entertainment)",
@@ -9442,7 +9507,8 @@
         "md5": "4b62032c9cfecf52156ad0a2598444bd",
         "sha1": "30f36f420bec76126171b1139538de4017ed75ac",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "USA"
     },
     "88EE129F5F61078D8649E2134B2E78A3": {
         "name": "Robot Poncots - Sun Version (Japan) (SGB Enhanced) (GB Compatible)",
@@ -9553,7 +9619,8 @@
         "size": 1048576,
         "md5": "ca00c843a575efd01814fcbf7d84a8dc",
         "sha1": "56e5f0e62b65a265c85e1a88882b18139f26b94d",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "EUR"
     },
     "79D382D378D49695E9867EDE063EFF17": {
         "name": "Roswell Conspiracies - Aliens, Myths & Legends (Europe) (En,Fr,De)",
@@ -9809,7 +9876,8 @@
         "md5": "0146768d48b8317e0c8a2c7dd8d31860",
         "sha1": "8421e0d0fc356b25df62cde1967e7775a91983c2",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "84B71EE450BA95087D2194D17DD3BF1F": {
         "name": "Sanrio Timenet - Mirai Hen (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)",
@@ -9826,7 +9894,8 @@
         "md5": "388a603e8b6d0fcf7c553fb00a7c5171",
         "sha1": "65c4113401336784be4c53a51fe8d9b4b3d287da",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "5DF6D1EC0E9241E1ED8A8EE7FF318631": {
         "name": "Santa Claus Junior (Europe)",
@@ -9961,7 +10030,8 @@
         "md5": "14bb0a822dfea564358a99378186141f",
         "sha1": "4b12589fb14932381afa8433130d684120c5e3cd",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "EUR"
     },
     "52F46E74689516225055B8576079EE24": {
         "name": "Sewing Machine Operation Software (USA) (En,Fr,Es) (GB Compatible)",
@@ -10107,7 +10177,8 @@
         "md5": "3d04e5c70919118ef6e7cb69dae14b10",
         "sha1": "b15cbd01a21048d0fd022f0e023ab5d91faaf442",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "0FF2E1D40BB0405E6A2506F75C90EA83": {
         "name": "Shin Megami Tensei Devil Children - Kuro no Sho (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)",
@@ -10124,7 +10195,8 @@
         "md5": "158691457cb7365cafbd0b7bb230fadf",
         "sha1": "b6177175ab34b8301ce146306dc95c3702b38ca6",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "9354CC341AA23DA3E29829DA76B8888E": {
         "name": "Shin Megami Tensei Devil Children - Shiro no Sho (Japan)",
@@ -10502,7 +10574,8 @@
         "size": 1048576,
         "md5": "a5bfa8b98969ca67811ed2d7bfbf5535",
         "sha1": "0167b0d74004aa9ace10069c5d4bf51adfe7297b",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "D5F373B287D29E882A1F1182542D5B68": {
         "name": "Spy vs Spy (USA)",
@@ -10536,7 +10609,8 @@
         "md5": "4983746a421eff341f842649fcd8be89",
         "sha1": "6eb2c27e2eedb22b4055ded87fce0621d460fe5b",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "EUR"
     },
     "820E0A19275FABC03FE619C42DB47179": {
         "name": "Star Ocean - Blue Sphere (Japan) (SGB Enhanced) (GB Compatible)",
@@ -10785,7 +10859,8 @@
         "md5": "3dfc97eb20570f845bb07db304687666",
         "sha1": "e61d564e1ff19eb4b7c62a6cd96214f2bca4b01d",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "5D4CDBF3B54B6857C29CB24EBFAF2470": {
         "name": "Super Me-Mail GB - Me-Mail Bear no Happy Mail Town (Japan)",
@@ -11098,7 +11173,8 @@
         "size": 1048576,
         "md5": "87599b7f88ae1680b490251cfd417792",
         "sha1": "f50415339a36ecea8a1207b6c197086372e29ab7",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "EUR"
     },
     "4A07F33107D47D904F80C53D0E857605": {
         "name": "Test Drive 6 (USA) (GB Compatible)",
@@ -11200,7 +11276,8 @@
         "size": 2097152,
         "md5": "5164521245f41b0f3a51cffe0704d21d",
         "sha1": "4df8353cbb74d368cc139899eabe5288e59adaeb",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "EUR"
     },
     "C58361B88496E7AD0179B59122AFD687": {
         "name": "Tiger Woods PGA Tour 2000 (USA, Europe) (GB Compatible)",
@@ -11366,7 +11443,8 @@
         "size": 2097152,
         "md5": "7a826122ccc3818dce9a8e8db6d77edb",
         "sha1": "a58215e2c6240b42779665d85484f02b79a0f9d8",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "USA"
     },
     "2D0F5D19EA73CCB9CFEC6398EB2F70B8": {
         "name": "Tom and Jerry in - Mouse Attacks! (USA) (Rev 1)",
@@ -11450,7 +11528,8 @@
         "size": 1048576,
         "md5": "e4e5488d10d69c4c12eb2a9a522ffc7b",
         "sha1": "6a86b7172c53a8e67f3d72f953116991640f6e71",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "USA"
     },
     "0454B25266D645990B63B5B406672DC2": {
         "name": "Tony Hawk's Pro Skater 2 (USA, Europe)",
@@ -11570,7 +11649,8 @@
         "md5": "30f38b2be2450f14838a98c5711e303b",
         "sha1": "fed38c5131a00f0bbf00ff2a974a8e457373aba6",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "0D7BCA4E08D522493491484896F7F3CC": {
         "name": "Towers - Lord Baniff's Deceit (USA, Europe)",
@@ -11596,7 +11676,8 @@
         "md5": "a18fcd9883846e35c507eb3ec98dcd73",
         "sha1": "da80a5110913422d48dd8d316fcfb9c8310e4501",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "USA"
     },
     "EF032B6F603B3A290A91D40CB9C4B3E6": {
         "name": "Toy Story 2 (USA, Europe) (SGB Enhanced) (GB Compatible)",
@@ -11639,7 +11720,8 @@
         "md5": "92d36245a65305a209700608971b0597",
         "sha1": "9787a4583899720ff80a9e478ca096ba5df38fb3",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "2400E6B73383221778C0D83EB0A1EBD4": {
         "name": "Trick Boarder (Europe)",
@@ -12090,7 +12172,8 @@
         "md5": "341597629f04d5ea6716a7ca9eb24dc1",
         "sha1": "7aa55d3cdd7ab505c62f4e3654256391f3590bf6",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "C9156B49032E63498DF93E132B0307B3": {
         "name": "Watashi no Restaurant (Japan)",
@@ -12223,7 +12306,8 @@
         "md5": "ccb604ca00f176ae6ca40f4fc33d8c1a",
         "sha1": "041c125115c83c6fef1b888761ba0b2b1f9bd291",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "FA8360094CAE37A838FABCFD333AE300": {
         "name": "Wizardry Empire - Fukkatsu no Tsue (Japan)",
@@ -12602,7 +12686,8 @@
         "md5": "e2f33aaf29750f1142b2b6017b454bd4",
         "sha1": "4ddb1d66d909d453374bd195a4a7dbe328ed41be",
         "status": "verified",
-        "system": "GBC"
+        "system": "GBC",
+        "region": "JPN"
     },
     "77836DF2B2CE5284E4DDA233E118B914": {
         "name": "Zoids - Shirogane no Juukishin Liger Zero (Japan)",

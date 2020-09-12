@@ -23,7 +23,8 @@
         "md5": "12bd3fafb4e064b6b0c07b7ee156243b",
         "sha1": "53c6de60383517f38d27e449d47bced319f8e87a",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "632C98CF281CDA776E66685B278A4FA6": {
         "name": "1080 Snowboarding (Europe) (En,Ja,Fr,De)",
@@ -110,14 +111,16 @@
         "size": 262144,
         "md5": "35ba407ea9e4ef7c0ace8b4f58beec41",
         "sha1": "d5e4e8c875d6bda0afafb1b2513b16b1cb88dfc1",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "437EFD7FD7F84F4C0F802D3BF1F8464E": {
         "name": "GameShark Pro (USA) (v2.0) (Unl)",
         "size": 262144,
         "md5": "437efd7fd7f84f4c0f802d3bf1f8464e",
         "sha1": "19148a009ef8e1013ab35c8141781184b141699f",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "9F556D184D945369DDD11B5F815814A8": {
         "name": "GameShark Pro (USA) (v3.3) (Unl)",
@@ -167,7 +170,8 @@
         "size": 8388608,
         "md5": "e970af3de25bb5ae1154010e26af776f",
         "sha1": "0253c33355986ddda18a7a72b81b91ddc1bed978",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "0620C2D134A0430F4AFA208FFEDA67B8": {
         "name": "AeroGauge (Japan) (Rev 1)",
@@ -210,7 +214,8 @@
         "size": 33554432,
         "md5": "af149336b3ddb899598e7be8740d7dc6",
         "sha1": "47ae795a2b12783a13e2b8d03439ce9a39fc826c",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "E8CDDF0C52B72453D52DA385322DFE15": {
         "name": "Aidyn Chronicles - The First Mage (USA) (Rev 1)",
@@ -226,14 +231,16 @@
         "size": 33554432,
         "md5": "cd24763becfa1d0053e5438b0ef5e75e",
         "sha1": "6e8e1d2a40076b8503a433947658456ef5b833b9",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "CC6EAE9ED582044CC27945684FD396CD": {
         "name": "Aidyn Chronicles - The First Mage (USA) (Beta) (2000-05-09)",
         "size": 33554432,
         "md5": "cc6eae9ed582044cc27945684fd396cd",
         "sha1": "d741ceac3cf6b14ab16a1f8d4f1bf9858bbf6c3d",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "E8891F8F498A615A6CBAF75B7DDC9FA6": {
         "name": "Airboarder 64 (Europe)",
@@ -446,7 +453,8 @@
         "md5": "b29599651a13f681c9923d69354bf4a3",
         "sha1": "1fe1632098865f639e22c11b9a81ee8f29c75d7a",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "B11F476D4BC8E039355241E871DC08CF": {
         "name": "Banjo-Kazooie (USA) (Rev 1)",
@@ -645,7 +653,8 @@
         "md5": "a8dfdff49144627492da9b0b65b91845",
         "sha1": "185a6ef7ba1adb243278062c81a7d4e119bda58c",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "5875FC73069077C93E214233B60F0BDC": {
         "name": "Blast Corps (USA) (Rev 1)",
@@ -920,7 +929,8 @@
         "md5": "29b79bf5812e5f9e5ecef073d59f8915",
         "sha1": "b0ca8a5c8cbf2d18a91ac1b9df82907613bef479",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "59EB5646FA079BCBD7A340D7A10196DD": {
         "name": "Carmageddon 64 (Europe) (En,Fr,Es,It)",
@@ -971,7 +981,8 @@
         "md5": "1cc5cf3b4d29d8c3ade957648b529dc1",
         "sha1": "989a28782ed6b0bc489a1bbbd7bec355d8f2707e",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "06B58673F7D31C56F8FE8186E86F6BD6": {
         "name": "Castlevania (USA) (Rev 2)",
@@ -987,7 +998,8 @@
         "md5": "ce71d1ce0a2b6d597f72cb4fc08f5844",
         "sha1": "349a031320c1fe16a99801c1bab48a7aa8deac8e",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "78D5F8A98A5ED21D0817856BCD2AD750": {
         "name": "Castlevania - Legacy of Darkness (Europe) (En,Fr,De)",
@@ -1056,7 +1068,8 @@
         "size": 12582912,
         "md5": "397be52d4fb7df1e26c6275e05425571",
         "sha1": "173875d2a98161228efb56841484e12446a43156",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "D8A88ACFCD89DF7A59D9A1B050FDA740": {
         "name": "Chameleon Twist (USA) (Rev 1)",
@@ -1195,7 +1208,8 @@
         "size": 12582912,
         "md5": "cbbeaff5a9074d1a5507cf46cd683d36",
         "sha1": "3307f73b8bd0795d3c7036d77fc4a78efebc4ef0",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "42DA4C7D040F9E7CD046A42EC3E68027": {
         "name": "Command & Conquer (Europe) (En,Fr)",
@@ -1248,7 +1262,8 @@
         "md5": "13ecbaeef7111d5343d73a80e03e353a",
         "sha1": "06597dc935651f8995bfacc30fde6e621d44c3e1",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "70E9EB9BF2F7BC76CA38CE450BA01C2E": {
         "name": "Conker's Bad Fur Day (USA) (Beta) (2000-10-25)",
@@ -1256,7 +1271,8 @@
         "md5": "70e9eb9bf2f7bc76ca38ce450ba01c2e",
         "sha1": "3b99222ee76f6277a963142cd807b3df25d5174f",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "DB7A03B77D44DB81B8A3FCDFC4B72D8C": {
         "name": "Cruis'n Exotica (USA)",
@@ -1281,14 +1297,16 @@
         "size": 8388608,
         "md5": "00a3e885f8d899646228a21d946b2102",
         "sha1": "aefe77a5518fe74519908b6cbc97cb81b8570897",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "45FC88E2BA6711F25F0DE988E719DF29": {
         "name": "Cruis'n USA (USA) (Rev 1)",
         "size": 8388608,
         "md5": "45fc88e2ba6711f25f0de988e719df29",
         "sha1": "71bb3d8850b6a4a294aeca2abad1f936e4f85f0f",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "2838A9018AD2BCB8B7F6161C746A1B71": {
         "name": "Cruis'n USA (USA) (Rev 2)",
@@ -1305,7 +1323,8 @@
         "md5": "41ca21bd737e16ba81168982b74276f1",
         "sha1": "273f1d6ddd48f92af49f37e88405f318a340c2cd",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "20DB5E4DDB0CD5B04C4BF09CDC95592F": {
         "name": "Cruis'n World (Europe) (Rev 1)",
@@ -1322,7 +1341,8 @@
         "md5": "af950a1b6c460d7fc3e78375d35047ef",
         "sha1": "ee508f14c936265d101c9699b5ae1a722b3e7d9e",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "AADA4CBD938E58A447B399A1D46F03E6": {
         "name": "Cruis'n World (USA)",
@@ -1347,7 +1367,8 @@
         "size": 16793600,
         "md5": "33f2bc6847985f96de8177147dcd3b85",
         "sha1": "563755afd3cf8d30ec10e100a2e032addf429246",
-        "system": "N64"
+        "system": "N64",
+        "region": "CHN"
     },
     "115118DD5E0F02D82BA1BF070A7B78F1": {
         "name": "Custom Robo V2 (Japan)",
@@ -1450,7 +1471,8 @@
         "size": 33554432,
         "md5": "1051e1402ee110f3c5e372c9e1c5b338",
         "sha1": "bd03f18c456d5db90475dcf1aae2237c82d7446a",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "BDA717ECC8434F12F313342485828B58": {
         "name": "Destruction Derby 64 (Europe) (En,Fr,De)",
@@ -1493,7 +1515,8 @@
         "md5": "0f0b7b78b345fbf2581d834cb4a81245",
         "sha1": "dd5d64dd140cb7aa28404fa35abdcaba33c29260",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "10747662A55241B9234CD114C940504F": {
         "name": "Diddy Kong Racing (Japan)",
@@ -1510,7 +1533,8 @@
         "md5": "4f0e07f0eeac7e5d7ce3a75461888d03",
         "sha1": "0cb115d8716dbbc2922fda38e533b9fe63bb9670",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "B31F8CCA50F31ACC9B999ED5B779D6ED": {
         "name": "Diddy Kong Racing (USA) (En,Fr) (Rev 1)",
@@ -1535,7 +1559,8 @@
         "md5": "3d1e03b097f2124f8f713013d8219291",
         "sha1": "25282d4cb5c41affa4149e8bbb215f48e65bad8e",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "1B28C4CA21648D318BC6DD3EF27BB1FA": {
         "name": "Die Hard 64 (USA) (Proto) (Level 3)",
@@ -1543,7 +1568,8 @@
         "md5": "1b28c4ca21648d318bc6dd3ef27bb1fa",
         "sha1": "0971545144930f221a4350e98866c8cd1ee22af5",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "E8B403A0F0E212FA5C1220AF10D9C379": {
         "name": "Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)",
@@ -1594,7 +1620,8 @@
         "size": 33554432,
         "md5": "98a5836e3a5da7bd0b5819e7498acea2",
         "sha1": "b4717e602f07ca9be0d4822813c658cd8b99f993",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "190CCCA6526DC4A1F611E3B40F5131C0": {
         "name": "Doom 64 (Europe)",
@@ -1620,7 +1647,8 @@
         "md5": "b67748b64a2cc7efd2f3ad4504561e0e",
         "sha1": "799a588d73da3fcce8031026a8187da92b91c817",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "1B1378BB9EE819F740550F566745AF73": {
         "name": "Doom 64 (USA) (Rev 1)",
@@ -1672,7 +1700,8 @@
         "size": 16138240,
         "md5": "af83e0cf36298e62e9eb2eb8c89aa710",
         "sha1": "b0f25508ccc99551190b86f88da6772942308f85",
-        "system": "N64"
+        "system": "N64",
+        "region": "CHN"
     },
     "1A7936367413E5D6874ABDA6D623AD32": {
         "name": "Dr. Mario 64 (USA)",
@@ -1687,7 +1716,8 @@
         "size": 3358720,
         "md5": "dd291b9c65420fd892107f6c665b7a45",
         "sha1": "e396df7729acc70c0e7ab988fca2b75ea167632d",
-        "system": "N64"
+        "system": "N64",
+        "region": "CHN"
     },
     "942FC6737765AC718799A7F66202216C": {
         "name": "Dragon Sword 64 (USA) (Proto) (1999-08-25)",
@@ -1790,7 +1820,8 @@
         "md5": "bb2472b3f8a41fbf3aec3ccef7ea8c78",
         "sha1": "bd6ed4a342290eab3d99be392986e085e91315ac",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "BF2DF4B86FAA2181A7ACFE2643FA2293": {
         "name": "Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)",
@@ -1867,14 +1898,16 @@
         "size": 16777216,
         "md5": "7200d1c1cf489fafff767729f215e6e6",
         "sha1": "a847dd011e98204ad198cadeb6c80dda10d9a40e",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "E0018C33346714B63A55C0E040F23DEA": {
         "name": "Excitebike 64 (USA) (Demo) (Kiosk)",
         "size": 16777216,
         "md5": "e0018c33346714b63a55c0e040f23dea",
         "sha1": "daaf564815e9eef3fc163b9546b5880ee256274b",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "21954E4E404D9E87DBDB87DD309F3E94": {
         "name": "Excitebike 64 (USA) (Rev 1)",
@@ -1890,7 +1923,8 @@
         "size": 16072704,
         "md5": "f4b41863440137c6a3ba22942f3e0da2",
         "sha1": "e20d95e7c53c3d7ed7857bb89f0c79c94578bb4f",
-        "system": "N64"
+        "system": "N64",
+        "region": "CHN"
     },
     "3B2CA0DA0810C95B31DF8C1FB8811BE2": {
         "name": "Extreme-G (Europe) (En,Fr,De,Es,It)",
@@ -1992,7 +2026,8 @@
         "size": 12582912,
         "md5": "9fbe3363da6c146ef2e29605bca834ff",
         "sha1": "63bd69c382eca5e569eddf7456f6435a7dce484f",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "BC0FD2468AC7769A37C3C58CD5699585": {
         "name": "F-1 World Grand Prix II (Europe) (En,Fr,De,Es)",
@@ -2035,7 +2070,8 @@
         "size": 16334848,
         "md5": "4024477aaed7dd5ff5ea60bf568123b7",
         "sha1": "3c7fa54be9c0124c502f1c8df53765f82d401508",
-        "system": "N64"
+        "system": "N64",
+        "region": "CHN"
     },
     "9729FC397E8D178EA974869E07DF0502": {
         "name": "F-Zero X - Weilai Saiche (China) (v4) (iQue) (Manual)",
@@ -2050,7 +2086,8 @@
         "size": 180224,
         "md5": "8400c0875e16f599c1b7fc433e339d58",
         "sha1": "8199c5b4dec4174bd2ff1c901bb47f356cf16503",
-        "system": "N64"
+        "system": "N64",
+        "region": "CHN"
     },
     "A6BD93EA576CDF8569F68171452F7E8A": {
         "name": "F1 Pole Position 64 (Europe) (En,Fr,De)",
@@ -2323,7 +2360,8 @@
         "size": 33554432,
         "md5": "097189b4c9bf6775e4685951b6e66f24",
         "sha1": "637cafe4abdc3fc0ef0703e3a47ea6a633b16fa3",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "BBCDE4966BEE5602A80D9B8C1011DFA6": {
         "name": "Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan)",
@@ -2477,7 +2515,8 @@
         "size": 67108864,
         "md5": "232b6106f3a1761d92268ebe8a25188e",
         "sha1": "3e0ee01f33942188a8a53ed7d9eee25982427352",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "A8567DDABD3672FFF18BC5DF933CF8C7": {
         "name": "Glover 2 (USA) (Proto 2)",
@@ -2492,7 +2531,8 @@
         "size": 33554432,
         "md5": "4e15d92cca23e1a01bb65246431b5c5a",
         "sha1": "58750c5fb47e35badd41eaf748cc9cdb3b24f64a",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "2BDE49F2855030DE342976C9A95B81B3": {
         "name": "Goemon - Mononoke Sugoroku (Japan)",
@@ -2571,7 +2611,8 @@
         "md5": "4690cab33d0bc10b62d62cecdcaa50a1",
         "sha1": "6b58306825ef85a3a128dd5bc0bc0c21f517b3a2",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "3D4C7B11076BAFA4620BCC154C0EEEF3": {
         "name": "Hamster Monogatari 64 (Japan)",
@@ -2605,7 +2646,8 @@
         "md5": "1cf31e7f6e0deb2c18c39ddd4eed9e51",
         "sha1": "e41d15c394b5fefd4016add3883a794c48e7e232",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "E627B898A7692C08B595A8D2178E34A0": {
         "name": "Bokujou Monogatari 2 (Japan) (Rev 1)",
@@ -2613,7 +2655,8 @@
         "md5": "e627b898a7692c08b595a8d2178e34a0",
         "sha1": "211313fe7ca7a4e0bf376afcf7c83c51e5c7f1a0",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "24E3EE6A54278DB65C463804F2BB6223": {
         "name": "Bokujou Monogatari 2 (Japan) (Rev 2)",
@@ -2888,7 +2931,8 @@
         "size": 33554432,
         "md5": "63d7ab29ba3dfc5d5b12c1d9c5832355",
         "sha1": "8465af5538c4b636834a8b2cd5a7decadf0e8841",
-        "system": "N64"
+        "system": "N64",
+        "region": "AUS"
     },
     "A7781D441AF55C4FF8AFC68AB3A59313": {
         "name": "Indy Racing 2000 (USA)",
@@ -2921,7 +2965,8 @@
         "md5": "a05e7db2409deecca36e48e9d931cacb",
         "sha1": "bb1c7a8634ba6078843532264a8676f80d5b79fc",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "538B54C2AAEA73FAA3A021D42A3225BE": {
         "name": "Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 1)",
@@ -2929,7 +2974,8 @@
         "md5": "538b54c2aaea73faa3a021d42a3225be",
         "sha1": "e9ed8a0ed5b7b20b80f0e140cc4b7261a89143bb",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "2E5FD9303138E8F558BF67BB9E799960": {
         "name": "Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 2)",
@@ -2963,7 +3009,8 @@
         "size": 16777216,
         "md5": "23a4ed8d79882594206173b1d476f0e9",
         "sha1": "e7bd36c410ce881d8b8dc853cb4b7b7961bf6a62",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "DE9498BE76134BD066AA714CE2C71A16": {
         "name": "International Superstar Soccer 2000 (USA) (En,Es) (Rev 1)",
@@ -2980,7 +3027,8 @@
         "md5": "1fb40ee386b58feab6cf29ddb33bcccc",
         "sha1": "2967b60aa29954fc684fdf28a0e2c335759695fe",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "D9F8B84FD6FD21F0B1D750062AC86EFC": {
         "name": "Jikkyou J.League 1999 - Perfect Striker 2 (Japan) (Rev 1)",
@@ -3110,7 +3158,8 @@
         "md5": "800acc7d609ecdb3e09e68cbd05f5fa0",
         "sha1": "853cecc41c00f1bbc9972dffb94b78bdb0dfa274",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "8EE01DE7DA2E9AD08D7ED913A5EE8632": {
         "name": "Jangou Simulation Mahjong Dou 64 (Japan)",
@@ -3168,7 +3217,8 @@
         "size": 33554432,
         "md5": "5bbe9ade7171f2e1daaa7c48fad38728",
         "sha1": "f00f7c7fb085d0df57dcb649793aced5be4e8562",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "CA28A3645FC7AD969EBD75C5D6506E7A": {
         "name": "Star Twins (Japan)",
@@ -3194,7 +3244,8 @@
         "md5": "878d8a26fd02fdb08200464cb6f566ef",
         "sha1": "eb7b24bac29df362cab562662ae9a5de7d5fb0c3",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "58153AC5C4030D1BFD3C15CF57FB02E7": {
         "name": "Jikkyou J.League Perfect Striker (Japan)",
@@ -3220,7 +3271,8 @@
         "md5": "7fc933a64884a382aa07605ea7204ff5",
         "sha1": "b24170ed95734dd12084ca3c82b678fabcbd4279",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "B653C963ED8D3A749676810F07CFE4E5": {
         "name": "Jikkyou Powerful Pro Yakyuu 2000 (Japan) (Rev 1)",
@@ -3237,7 +3289,8 @@
         "md5": "23409668a6e6c4ece7b5fb0b7d0e8f2c",
         "sha1": "365d6efa2665b816a5e0e2233c890ddcd524c05d",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "B454490EB44F0978F009FA41DE8C478E": {
         "name": "Jikkyou Powerful Pro Yakyuu 4 (Japan) (Rev 1)",
@@ -3254,7 +3307,8 @@
         "md5": "fda57f65eb159278223eb9d03267c27f",
         "sha1": "7e27a27bad4f98500d7a68ec43ab7bffe5de03e1",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "68A27FBAB060857C267A639931D2C3D6": {
         "name": "Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 2)",
@@ -3271,7 +3325,8 @@
         "md5": "e9f989e09e3f1519aefe619889a4f710",
         "sha1": "f1bc8d2a6b03ffab7355c4e7b5fa1c393421e9f9",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "6EF19BF8D8D6196390745F1B858AC16A": {
         "name": "Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 1)",
@@ -3279,7 +3334,8 @@
         "md5": "6ef19bf8d8d6196390745f1b858ac16a",
         "sha1": "a830e30c8272220c5481f294aa5cb5014df05499",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "03BD8E5CA2B1B7D74398DB4739979282": {
         "name": "Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 2)",
@@ -3296,7 +3352,8 @@
         "md5": "060d0313e23b660180441fcc7d24d7db",
         "sha1": "02924d963d214102cb723b0e54c901968aa51a1f",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "23EE24FABA0EDFB04B5B0407E174496B": {
         "name": "Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 1)",
@@ -3304,7 +3361,8 @@
         "md5": "23ee24faba0edfb04b5b0407e174496b",
         "sha1": "828002c3f34eb357458a9a9c4fa989ba82927fe9",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "68230D510015FF6817EF898C0B8B636C": {
         "name": "Jinsei Game 64 (Japan)",
@@ -3364,14 +3422,16 @@
         "md5": "8e33ad20c31feb61d7230fad28846c5c",
         "sha1": "ba52e91b44450c548467044b26951353dc491e04",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "4C9B419DC583C0DF4AB908ADF83BFC65": {
         "name": "Killer Instinct Gold (USA) (Rev 1)",
         "size": 12582912,
         "md5": "4c9b419dc583c0df4ab908adf83bfc65",
         "sha1": "bcc599ed0f0b8b75a8068269958a2230ec7cb34c",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "DD0A82FCC10397AFB37F12BB7F94E67A": {
         "name": "Killer Instinct Gold (USA) (Rev 2)",
@@ -3405,7 +3465,8 @@
         "md5": "b1a67aebc2be89a800e5eb60c0dfa968",
         "sha1": "b9882992907a102bd33373585acc90b9c7eb1ba4",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "FFDB4456F799722BCFE430632C3986AE": {
         "name": "Hoshi no Kirby 64 (Japan) (Rev 1)",
@@ -3413,7 +3474,8 @@
         "md5": "ffdb4456f799722bcfe430632c3986ae",
         "sha1": "2502ceb1afba83c90f3e7f98b283f667b85d4150",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "3EC0471E2CBEE17471DDBF80C56606D5": {
         "name": "Hoshi no Kirby 64 (Japan) (Rev 2)",
@@ -3421,7 +3483,8 @@
         "md5": "3ec0471e2cbee17471ddbf80c56606d5",
         "sha1": "c177f4e37eff98ef2d18fb1e94cd253fd366a218",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "35E039F8E79843917D02BE06D00C457B": {
         "name": "Hoshi no Kirby 64 (Japan) (Rev 3)",
@@ -3526,7 +3589,8 @@
         "md5": "13fab67e603b002ceaf0eea84130e973",
         "sha1": "c04599cdafee1c84a7af9a71df68f139179ada84",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "2A0A8ACB61538235BC1094D297FB6556": {
         "name": "Legend of Zelda, The - Majora's Mask (USA)",
@@ -3543,14 +3607,16 @@
         "md5": "8f281800fba5ddcb1d2b377731fc0215",
         "sha1": "2f0744f2422b0421697a74b305cb1ef27041ab11",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "02F963FA8F95E3A7F0B6C13D81999BA9": {
         "name": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug)",
         "size": 67108864,
         "md5": "02f963fa8f95e3a7f0b6c13d81999ba9",
         "sha1": "55541662a192c66e34a011d4bf6f4a0ec69899ae",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "AC0751DBC23AB2EC0C3144203ACA0003": {
         "name": "Legend of Zelda, The - Majora's Mask (USA) (GameCube)",
@@ -3558,7 +3624,8 @@
         "md5": "ac0751dbc23ab2ec0c3144203aca0003",
         "sha1": "9743aa026e9269b339eb0e3044cd5830a440c1fd",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "DBE9AF0DB46256E42B5C67902B696549": {
         "name": "Legend of Zelda, The - Majora's Mask (Europe) (GameCube)",
@@ -3566,7 +3633,8 @@
         "md5": "dbe9af0db46256e42b5c67902b696549",
         "sha1": "a849a65e56d57d4dd98b550524150f898df90a9f",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "609B47B79DA21F3DF9B31D06C95C09A1": {
         "name": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Wii Virtual Console)",
@@ -3574,7 +3642,8 @@
         "md5": "609b47b79da21f3df9b31d06c95c09a1",
         "sha1": "c487db55c2c3a97ccd39ded13ef9fd9121dae729",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "15D1A2217CAD61C39CFECBFFA0703E25": {
         "name": "Zelda no Densetsu - Mujura no Kamen (Japan)",
@@ -3582,7 +3651,8 @@
         "md5": "15d1a2217cad61c39cfecbffa0703e25",
         "sha1": "5fb2301aacbf85278af30dca3e4194ad48599e36",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "C38A7F6F6B61862EA383A75CDF888279": {
         "name": "Zelda no Densetsu - Mujura no Kamen (Japan) (Rev 1)",
@@ -3599,7 +3669,8 @@
         "md5": "d3929aadf7640f8c5b4ce8321ad4393a",
         "sha1": "1438fd501e3e5b25461770af88c02ab1e41d3a7e",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "D714580DD74C2C033F5E1B6DC0AEAC77": {
         "name": "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1)",
@@ -3616,7 +3687,8 @@
         "md5": "e040de91a74b61e3201db0e2323f768a",
         "sha1": "328a1f1beba30ce5e178f031662019eb32c5f3b5",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "5BD1FE107BF8106B2AB6650ABECD54D6": {
         "name": "Legend of Zelda, The - Ocarina of Time (USA)",
@@ -3624,7 +3696,8 @@
         "md5": "5bd1fe107bf8106b2ab6650abecd54d6",
         "sha1": "ad69c91157f6705e8ab06c79fe08aad47bb57ba7",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "721FDCC6F5F34BE55C43A807F2A16AF4": {
         "name": "Legend of Zelda, The - Ocarina of Time (USA) (Rev 1)",
@@ -3632,7 +3705,8 @@
         "md5": "721fdcc6f5f34be55c43a807f2a16af4",
         "sha1": "d3ecb253776cd847a5aa63d859d8c89a2f37b364",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "57A9719AD547C516342E1A15D5C28C3D": {
         "name": "Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)",
@@ -3649,7 +3723,8 @@
         "md5": "cd09029edcfb7c097ac01986a0f83d3f",
         "sha1": "b82710ba2bd3b4c6ee8aa1a7e9acf787dfc72e9b",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "2C27B4E000E85FD78DBCA551F1B1C965": {
         "name": "Legend of Zelda, The - Ocarina of Time (Europe) (GameCube)",
@@ -3657,28 +3732,32 @@
         "md5": "2c27b4e000e85fd78dbca551f1b1c965",
         "sha1": "0227d7c0074f2d0ac935631990da8ec5914597b4",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "3C10B67A76616AE2C162DEF7528724CF": {
         "name": "Legend of Zelda, The - Ocarina of Time (Europe) (Debug) (GameCube)",
         "size": 67108864,
         "md5": "3c10b67a76616ae2c162def7528724cf",
         "sha1": "cee6bc3c2a634b41728f2af8da54d9bf8cc14099",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "0AB48B2D44A74B3BB2D384F6170C2742": {
         "name": "Zelda Chuanshuo Shiguang Zhi Di (China) (iQue)",
         "size": 29868032,
         "md5": "0ab48b2d44a74b3bb2d384f6170c2742",
         "sha1": "1015d0f3af34b89149bfd773580bbc66466af54e",
-        "system": "N64"
+        "system": "N64",
+        "region": "CHN"
     },
     "A475E9F8615513666A265C464708AE8F": {
         "name": "Zelda Chuanshuo Shiguang Zhi Di (China) (Chinese Traditional) (iQue)",
         "size": 29868032,
         "md5": "a475e9f8615513666a265c464708ae8f",
         "sha1": "8668469647423735cc05f55a479c9d3135fbf838",
-        "system": "N64"
+        "system": "N64",
+        "region": "CHN"
     },
     "9F04C8E68534B870F707C247FA4B50FC": {
         "name": "Zelda no Densetsu - Toki no Ocarina (Japan)",
@@ -3686,7 +3765,8 @@
         "md5": "9f04c8e68534b870f707c247fa4b50fc",
         "sha1": "c892bbda3993e66bd0d56a10ecd30b1ee612210f",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "1BF5F42B98C3E97948F01155F12E2D88": {
         "name": "Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 1)",
@@ -3694,7 +3774,8 @@
         "md5": "1bf5f42b98c3e97948f01155f12e2d88",
         "sha1": "dbfc81f655187dc6fefd93fa6798face770d579d",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "2258052847BDD056C8406A9EF6427F13": {
         "name": "Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2)",
@@ -3711,14 +3792,16 @@
         "md5": "0c13e0449a28ea5b925cdb8af8d29768",
         "sha1": "2ce2d1a9f0534c9cd9fa04ea5317b80da21e5e73",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "33FB7852C180B18EA0B9620B630F413F": {
         "name": "Zelda no Densetsu - Toki no Ocarina GC (Japan) (GameCube)",
         "size": 33554432,
         "md5": "33fb7852c180b18ea0b9620b630f413f",
         "sha1": "0769c84615422d60f16925cd859593cdfa597f84",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "1618403427E4344A57833043DB5CE3C3": {
         "name": "Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube)",
@@ -3733,7 +3816,8 @@
         "size": 67108864,
         "md5": "8ca71e87de4ce5e9f6ec916202a623e9",
         "sha1": "50bebedad9e0f10746a52b07239e47fa6c284d03",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "DA35577FE54579F6A266931CC75F512D": {
         "name": "Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)",
@@ -3826,7 +3910,8 @@
         "md5": "caf9a78db13ee00002ff63a3c0c5eabb",
         "sha1": "d8b1088520f7c5f81433292a9258c1184afa1457",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "741A94EEE093C4C8684E66B89F8685E8": {
         "name": "Star Fox 64 (USA) (Rev 1)",
@@ -3843,14 +3928,16 @@
         "md5": "91fc4c63ca613530df22c8bb810cb2c3",
         "sha1": "a39f14f0d1224095717fabc021023203cb7561d5",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "B2242070800BF82E78CE33DC92A1DB84": {
         "name": "Xingji Huohu (China) (v5) (iQue)",
         "size": 11829248,
         "md5": "b2242070800bf82e78ce33dc92a1db84",
         "sha1": "c8a10699dea52f4bb2e2311935c1376dfb352e7a",
-        "system": "N64"
+        "system": "N64",
+        "region": "CHN"
     },
     "523883A766C662E8377CD256755B27B4": {
         "name": "Mace - The Dark Age (Europe)",
@@ -3925,7 +4012,8 @@
         "size": 12582912,
         "md5": "507ceab72ef2a1bf145bf190f5ce1c80",
         "sha1": "2e8595c6ea0267a0344c0e203b4b08f00a42b13a",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "5F3D42D5F96191F3CE50D70E0E42127A": {
         "name": "Madden NFL 99 (USA) (Beta) (1998-08-05)",
@@ -3933,7 +4021,8 @@
         "md5": "5f3d42d5f96191f3ce50d70e0e42127a",
         "sha1": "80236fc4ce2bb95de513f3b2be74acec9da4804c",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "5AD80A8EF44DEE1FDC456D66104165B4": {
         "name": "Madden NFL 99 (USA) (Rev 1)",
@@ -4054,7 +4143,8 @@
         "md5": "cd87ba2998d63c13b4366eb2c54e1eb6",
         "sha1": "1e2c5b63298cd3e8ee5e5f1ebba93c3d6fcb27df",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "570B4F55A3005B709E6ED5D625981B90": {
         "name": "Mario Golf 64 (Japan) (Rev 1)",
@@ -4078,7 +4168,8 @@
         "size": 245760,
         "md5": "c70af6197e67b310f316c34cced64c19",
         "sha1": "d600d06eab14f9d54957b19832120ec3ee515b95",
-        "system": "N64"
+        "system": "N64",
+        "region": "CHN"
     },
     "2BB149A583FDEFEA96805F628FE42FD9": {
         "name": "Mario Kart 64 (Europe) (Rev 1)",
@@ -4094,14 +4185,16 @@
         "size": 12533760,
         "md5": "78771beb349d481e69baa9225b36d63a",
         "sha1": "219660d0a321fc200ac4295dd79fd3417da3eea8",
-        "system": "N64"
+        "system": "N64",
+        "region": "CHN"
     },
     "5EA0ED74CF1DDAAA964D728A129E7CF9": {
         "name": "Mario Kadingche (China) (v5) (iQue)",
         "size": 12533760,
         "md5": "5ea0ed74cf1ddaaa964d728a129e7cf9",
         "sha1": "d6605879918b0dca3eafa1c75ecbc850a3b2535d",
-        "system": "N64"
+        "system": "N64",
+        "region": "CHN"
     },
     "8FAD1E4FA7BAF1443B7F21AD1947B429": {
         "name": "Mario Kart 64 (Europe)",
@@ -4109,7 +4202,8 @@
         "md5": "8fad1e4fa7baf1443b7f21ad1947b429",
         "sha1": "a729039453210b84f17019dda3f248d5888f7690",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "BF964CECA78A13A82055EBDA80B95CCA": {
         "name": "Mario Kart 64 (Japan)",
@@ -4117,7 +4211,8 @@
         "md5": "bf964ceca78a13a82055ebda80b95cca",
         "sha1": "afeeec65b9a03f0cb8ec92f9ba7a9f0122e8bd0e",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "60535265BAE43DDFCBDB0D71594B1693": {
         "name": "Mario Kart 64 (Japan) (Rev 1)",
@@ -4206,7 +4301,8 @@
         "md5": "4a834d275abf14a6255aa11be81e339d",
         "sha1": "3db98872699002f3e9fb82cf9a3f79f1b52e2a51",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "9E25FFE8FB0931F67B4E42C5F74ECBC0": {
         "name": "Mario Party 2 (Japan) (Wii Virtual Console)",
@@ -4214,7 +4310,8 @@
         "md5": "9e25ffe8fb0931f67b4e42c5f74ecbc0",
         "sha1": "3da1dfddf2117830b9f43c006970c9d78d0f1b6a",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "54765A3B1DCC6EB3C29C1891958DA5E2": {
         "name": "Mario Party 2 (USA) (Wii Virtual Console)",
@@ -4222,7 +4319,8 @@
         "md5": "54765a3b1dcc6eb3c29c1891958da5e2",
         "sha1": "6b950ea20edcfc2b0c30ef3eef0da5aad628f9fa",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "8E62EC6FBE3CC9FF6284191C9C88E68F": {
         "name": "Mario Party 3 (Europe) (En,Fr,De,Es)",
@@ -4274,7 +4372,8 @@
         "md5": "d40fb0e87996af902eff9c194027fc3b",
         "sha1": "e1f1ec3bb2deea60ebea05a846c2ef4e5ce5d90f",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "4731025E850FAF8C0500DC04E1A3BFF2": {
         "name": "Mario Tennis (USA) (Wii Virtual Console)",
@@ -4282,7 +4381,8 @@
         "md5": "4731025e850faf8c0500dc04e1a3bff2",
         "sha1": "36bcbb5b9b5592d05482ac677a0c54df51b122a1",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "8EB1C2443D0B2E6EDA52A4EEA66D6C35": {
         "name": "Mario Tennis 64 (Japan)",
@@ -4299,7 +4399,8 @@
         "md5": "137a4e7dd0485edccb3bf598b1472d11",
         "sha1": "c188e98c6c7f4aae5d7efa2d0d4720e08f96d9b9",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "B524D10A8A26764EB2198ACEC3F09948": {
         "name": "Mario Yisheng (China) (v4) (iQue) (Manual)",
@@ -4314,7 +4415,8 @@
         "size": 294912,
         "md5": "fe49420725f9c1cf0f15ba5682d27709",
         "sha1": "72e8e15a281b9fc81269f6ebc7ab3be3adeee508",
-        "system": "N64"
+        "system": "N64",
+        "region": "CHN"
     },
     "3620674ACB51E436D5150738AC1C0969": {
         "name": "Mega Man 64 (USA)",
@@ -4330,7 +4432,8 @@
         "md5": "cd0824e9405185af434837ba1c8c0cd5",
         "sha1": "7fc1db2b88cd43a5e76697ee449bc946e9a48c03",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "0C74B44680276FFE808CFA6045329819": {
         "name": "Rockman Dash - Hagane no Boukenshin (Japan)",
@@ -4465,7 +4568,8 @@
         "size": 16777216,
         "md5": "cecab8df02c02f38c9cf1bdd57b1da00",
         "sha1": "be11aa2170fb3900379b127241161833400bf58c",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "EB3B078A74D4DC827E1E79791004DFBB": {
         "name": "Mischief Makers (Europe)",
@@ -4481,7 +4585,8 @@
         "size": 8388608,
         "md5": "495a9bffd6620be43225db7133373fc5",
         "sha1": "5eb5a9d6f413a379fe297fe1542d21f728393a27",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "2EE917366F64A06472D7622A2A05990E": {
         "name": "Mischief Makers (USA) (Rev 1)",
@@ -4542,7 +4647,8 @@
         "md5": "d1ba3b1899576a4b67908abb6544d75a",
         "sha1": "d79c313b8581b558dbeca29f797d91a8b3122841",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "SPA"
     },
     "EEBDFBD7CB57202D70CFFFCAAF55E93E": {
         "name": "Mission - Impossible (USA)",
@@ -4673,7 +4779,8 @@
         "md5": "9b7f29aab911d6753f2011c48da752bf",
         "sha1": "39b3cb20417c503f1c047d5037df814d1ccf90dd",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "3DCB15043063BD656A0223C519218CFB": {
         "name": "Mortal Kombat Trilogy (USA) (Rev 2)",
@@ -4689,14 +4796,16 @@
         "md5": "26129419799db01bfe79f279ec43b334",
         "sha1": "2a10cb20332beaa067d61e5923cd18bedd6436d7",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "B6A7B85C123DF4E0B9CC118578DBC9A2": {
         "name": "Mortal Kombat Trilogy (USA) (Beta) (1996-05-13)",
         "size": 16777216,
         "md5": "b6a7b85c123df4e0b9cc118578dbc9a2",
         "sha1": "2f95ce7f8233f1df82e0ad39ad5ba6a5ebfb6db7",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "0054B7FC0C2ACBED650EFE727CDBA472": {
         "name": "MRC - Multi-Racing Championship (Europe) (En,Fr,De)",
@@ -5074,7 +5183,8 @@
         "size": 16777216,
         "md5": "ba49514441023722f02d41c62612f6c3",
         "sha1": "36e124746a842a2e1f72480f122dfe9188fc5575",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "E4EDD73CB036C6B143CEE9AEEED60341": {
         "name": "NFL Blitz 2001 (USA)",
@@ -5260,7 +5370,8 @@
         "md5": "ca996f7a126da8104b806d4c7bfa20b8",
         "sha1": "141aafb638f782809943fff526ddb2e542e6df52",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "GER"
     },
     "D2AF6993E4D657D00520C2CCE741480E": {
         "name": "Nushi Zuri 64 (Japan) (Rev 1)",
@@ -5277,7 +5388,8 @@
         "md5": "50c10082d0c077fdb5658ef5a6e3f54f",
         "sha1": "5f20d41669458e1c981292f17cd8b29032406287",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "EEB69597E42E2F5D2914070ACF161B4F": {
         "name": "Nushi Zuri 64 - Shiokaze ni Notte (Japan)",
@@ -5348,7 +5460,8 @@
         "md5": "f666e020218392e52662fddfa1ea4f21",
         "sha1": "9cd0cfb50b883edb068e0c30d213193b9cf89895",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "F04C8F511B678301B21C54A27CB08BB9": {
         "name": "Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console)",
@@ -5364,7 +5477,8 @@
         "md5": "55cd360f12be8063c9e7b6f59f268170",
         "sha1": "127b7a9fdca399494db8409a99874672ca200cb6",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "465DFD27DDAB4F5488F4DADC09B7F938": {
         "name": "Olympic Hockey 98 (Europe) (En,Fr,De,Es)",
@@ -5416,7 +5530,8 @@
         "md5": "ee3d3550acc463ca57408bf14e541f68",
         "sha1": "d6db9e2509b760403f5db330142055af842fb52c",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "9789A48E1D9E42C2F69C59964371089F": {
         "name": "WinBack (Japan) (Rev 1)",
@@ -5476,7 +5591,8 @@
         "size": 41943040,
         "md5": "8f8f50ab00c4089ae32c6b9fefd69543",
         "sha1": "5c724685085eba796537573dd6f84aaddedc8582",
-        "system": "N64"
+        "system": "N64",
+        "region": "CHN"
     },
     "B7F2EB7989C9C00096655D087D72EC51": {
         "name": "Paperboy (Europe)",
@@ -5563,7 +5679,8 @@
         "md5": "7f4171b0c8d17815be37913f535e4e93",
         "sha1": "60dfe17923c03875b499b3cd3200f05cb538b7ad",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "E03B088B6AC9E0080440EFED07C1E40F": {
         "name": "Perfect Dark (USA) (Rev 1)",
@@ -5580,7 +5697,8 @@
         "md5": "ad2de210a3455ba5ec541f0c78d91444",
         "sha1": "79e3213bbac19b8e196e97e6348006c0506b27a9",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "AA93F4DF16FCEADA399A749F5AD2F273": {
         "name": "Perfect Dark (USA) (Debug Version) (2000-03-22)",
@@ -5588,7 +5706,8 @@
         "md5": "aa93f4df16fceada399a749f5ad2f273",
         "sha1": "c831dc3d3068e0f2098db55889da0d6a08f26080",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "0112FFAADA116D172ABCE136E9043A93": {
         "name": "PGA European Tour Golf (Europe) (En,Fr,De,Es,It)",
@@ -5673,7 +5792,8 @@
         "md5": "fbf566693bca3145d86df34d18dcdd43",
         "sha1": "7ecc46ee186118d49b174ad4bc1367d343130330",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "866D401C51CC05A3188C9A2D4E7BFEE5": {
         "name": "Pokemon Puzzle League (France) (Wii Virtual Console)",
@@ -5681,7 +5801,8 @@
         "md5": "866d401c51cc05a3188c9a2d4e7bfee5",
         "sha1": "94742de682f1b52f3fe45c3a7235eb9bcbc4abbc",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "FRA"
     },
     "45B507AAAF0CCDB6EFE3CD717F0DDB95": {
         "name": "Pokemon Puzzle League (Germany) (Wii Virtual Console)",
@@ -5689,7 +5810,8 @@
         "md5": "45b507aaaf0ccdb6efe3cd717f0ddb95",
         "sha1": "5ec354fdc1469c1e8a89b31d6ee5e59af37dee16",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "GER"
     },
     "D6F58B98115E78D841089074401AE524": {
         "name": "Pokemon Puzzle League (USA) (Wii Virtual Console)",
@@ -5697,7 +5819,8 @@
         "md5": "d6f58b98115e78d841089074401ae524",
         "sha1": "f0837f92a16b2226d9b72ff60a924404536c051e",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "F2A8106403D2BF9350BFEAB08689D54A": {
         "name": "Pokemon Snap (Europe)",
@@ -5776,14 +5899,16 @@
         "md5": "33fdab9712d9fea793a3ae44293999c3",
         "sha1": "635be62b427be4c2dab9617aa9f58cddea9d4155",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "A9C272687DABD59C5144774B53BCC35A": {
         "name": "Pokemon Snap Station (USA) (Demo) (Kiosk)",
         "size": 16777216,
         "md5": "a9c272687dabd59c5144774b53bcc35a",
         "sha1": "1e16c19ff303f9283d7b53545c4d575c6df43158",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "C46E087D966A35095DF96799B0B4FFAE": {
         "name": "Pokemon Stadium (Japan)",
@@ -5808,7 +5933,8 @@
         "size": 33554432,
         "md5": "2859090d78581e0925a3af8045e81e4b",
         "sha1": "6f26e3c8b35c3232058375e30d19665facb23123",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "0E85A098D0F0E8A7EB572A69612A6873": {
         "name": "Pokemon Stadium (France)",
@@ -5852,7 +5978,8 @@
         "md5": "ed1378bc12115f71209a77844965ba50",
         "sha1": "ed7bef5a306f88c0a6e96b15e71fee2ef32058f3",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "40E03EDA831C01E0A12294287FD240E2": {
         "name": "Pokemon Stadium (USA) (Rev 1)",
@@ -5860,7 +5987,8 @@
         "md5": "40e03eda831c01e0a12294287fd240e2",
         "sha1": "488bb6d112427823d77fcecdd9297fd86875263d",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "6DC6820CEF755FC1253D06DF45C9BD2A": {
         "name": "Pokemon Stadium (USA) (Rev 2)",
@@ -6009,7 +6137,8 @@
         "md5": "7995d76f4ce236b0f0289f47ae523d32",
         "sha1": "b5be6c3b49ad37c0dd1d6e7dacbcbe03653859d9",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "F1A2E4DD22ADF4F90DA4BDDCA37D5F18": {
         "name": "Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen (Japan)",
@@ -6267,7 +6396,8 @@
         "md5": "dd21150cbc21c05420304599ec57411c",
         "sha1": "93187c4145cad272a255c17657cd9a1011b3fb3a",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "AD922DAE446A301E1AAFE1DFBAD75A2E": {
         "name": "Road Rash 64 (Europe)",
@@ -6326,7 +6456,8 @@
         "md5": "e40ba4761ce977f3fb02151354812d99",
         "sha1": "6fde818ae618a92eb9008769d9459b2eaf927246",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "2ABCD1AD41B3356FBC1018ECB121283E": {
         "name": "Robotron 64 (Europe)",
@@ -6488,7 +6619,8 @@
         "size": 8388608,
         "md5": "f015fc28e1d62a36b4ebf4c79ca8f285",
         "sha1": "cc62539cb30b180c3c7e0aa927786ed061d8d9ab",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "5B127E6B090A0B3F68A114D4D89323D4": {
         "name": "San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev 1)",
@@ -6530,7 +6662,8 @@
         "size": 16777216,
         "md5": "16cc6db10a56331b56f374b4fb254d5e",
         "sha1": "fa22bd1216094124c84987414dde1b50af90d928",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "01CD9938DAE5DCDD4B264AE7F26C6D4D": {
         "name": "Scooby-Doo! - Classic Creep Capers (USA) (Rev 1)",
@@ -6691,7 +6824,8 @@
         "size": 311296,
         "md5": "a66fee7af89d58b24a25c346a0e90172",
         "sha1": "536ed6c8f1ef5a66581efa3c4ae43a2fb7d6dc58",
-        "system": "N64"
+        "system": "N64",
+        "region": "CHN"
     },
     "244BEA64EA209990E9C69A830B507135": {
         "name": "SimCity 2000 (Japan)",
@@ -6845,14 +6979,16 @@
         "size": 8388608,
         "md5": "e66ed1cc4ab95d0872bb2ebc49b206c4",
         "sha1": "7320f08474c011fc7781093bf1a6818c37ce51e2",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "868B37D1B66D1D994E2BAD4E218BF129": {
         "name": "SpaceStation Silicon Valley (USA)",
         "size": 8388608,
         "md5": "868b37d1b66d1d994e2bad4e218bf129",
         "sha1": "e5e09205aa743a9e5043a42df72adc379c746b0b",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "F1F1C5E2B895DB63348BC738C0CDC645": {
         "name": "SpaceStation Silicon Valley (USA) (Rev 1)",
@@ -6903,14 +7039,16 @@
         "md5": "7f919d2e35cbe561e139ae8fe93aca86",
         "sha1": "da91a86f1f566dc66a2ae1292aa581bfc4f9cdfd",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "47CAC4E2A6309458342F21A9018FFBF0": {
         "name": "Star Wars - Rogue Squadron (USA)",
         "size": 16777216,
         "md5": "47cac4e2a6309458342f21a9018ffbf0",
         "sha1": "ed42eed1ee2db646ff7ef94ba8c5421d164a4f0d",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "2E458D7CC355D7918493B0E0362C9A20": {
         "name": "Star Wars - Rogue Squadron (USA) (Rev 1)",
@@ -6945,14 +7083,16 @@
         "md5": "5cce8ad5f86e8a373a7525dc4c7e6705",
         "sha1": "271c285f6e5069133ab27a2a8324d4651591e35d",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "FA635E837275D28FD5A24D5675BA42C8": {
         "name": "Star Wars - Shadows of the Empire (USA) (Rev 1)",
         "size": 12582912,
         "md5": "fa635e837275d28fd5a24d5675ba42c8",
         "sha1": "ded8f972d1e1d662614b1ec79822d649a8ce5430",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "C7B40352AAD8D863D88D51672F9A0087": {
         "name": "Star Wars - Shadows of the Empire (USA) (Rev 2)",
@@ -6969,7 +7109,8 @@
         "md5": "4076973cfda277fc876e9f066cc73deb",
         "sha1": "0f642f17693adf1b97121a61bbeca37df59bb55a",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "5B6B6B0C8C9A40286DCF61706B6A05CB": {
         "name": "Star Wars - Teikoku no Kage (Japan)",
@@ -7045,14 +7186,16 @@
         "size": 33554432,
         "md5": "3eb732a8d004263ad8eb0da59a29582a",
         "sha1": "472573d057e42653b7413861319b9f7342f2467d",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "356A5D3D59E0ADEF6EFAE6096FC20F77": {
         "name": "StarCraft 64 (Germany) (Proto)",
         "size": 33554432,
         "md5": "356a5d3d59e0adef6efae6096fc20f77",
         "sha1": "bc585da421caba45f5eb87caa6d7a138a09e9b43",
-        "system": "N64"
+        "system": "N64",
+        "region": "GER"
     },
     "A9C393AA232B32798ADF378F4318F99F": {
         "name": "Starshot - Space Circus Fever (Europe) (En,Fr,De)",
@@ -7119,7 +7262,8 @@
         "size": 8060928,
         "md5": "29047fba820695bd14c5bd7aa1aa4400",
         "sha1": "2e1db2780985a1f068077dc0444b685f39cd90ec",
-        "system": "N64"
+        "system": "N64",
+        "region": "CHN"
     },
     "85D61F5525AF708C9F1E84DCE6DC10E9": {
         "name": "Super Mario 64 (Japan)",
@@ -7127,7 +7271,8 @@
         "md5": "85d61f5525af708c9f1e84dce6dc10e9",
         "sha1": "8a20a5c83d6ceb0f0506cfc9fa20d8f438cafe51",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "2D727C3278AA232D94F2FB45AEC4D303": {
         "name": "Super Mario 64 (Japan) (Rev 3) (Shindou Edition)",
@@ -7188,7 +7333,8 @@
         "size": 16793600,
         "md5": "7b815846ec91e6c4a8b8baa0ce4078f0",
         "sha1": "926dfad9daede0ddd088d3006bbd1d02ca6222a4",
-        "system": "N64"
+        "system": "N64",
+        "region": "CHN"
     },
     "694DEA68DBF1C3F06FF0476ACF2169E6": {
         "name": "Super Smash Bros. (Australia)",
@@ -7240,7 +7386,8 @@
         "md5": "19c9491dd517603be2fa3020c2f2deb2",
         "sha1": "9eccd95652cf6ba95f2dc78c44a26fc0832dfe35",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "3F64B4F72E61225EF3AE93976C9BFC7C": {
         "name": "Superman - The New Superman Aventures (USA) (En,Fr,Es)",
@@ -7484,7 +7631,8 @@
         "size": 12582912,
         "md5": "5ed7e392198a5fa56ee37ea9e93a8d50",
         "sha1": "fc1b4dec85e6874fa7321edc24f5a1e78600d9d0",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "AFF424A1883DC7BB92C7B2EBE9342F85": {
         "name": "Tony Hawk's Pro Skater (USA) (Rev 1)",
@@ -7535,7 +7683,8 @@
         "md5": "b60d26c2c2242bff61f76469fc272d2a",
         "sha1": "d3ae07e2c4360ec4eb06a70c6e48d848eec532dd",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "6C65A252F227AEF18DF2DD3CE04CC821": {
         "name": "Top Gear Overdrive (Europe)",
@@ -7613,7 +7762,8 @@
         "md5": "acd0118ac4709db3943b3d35112c2001",
         "sha1": "46907a7bd1ceb65f48c39d9d60b56dbc75a7a2c3",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "B10D781EC625CA45713FD34E5096C24A": {
         "name": "Top Gear Rally 2 (Japan)",
@@ -7638,7 +7788,8 @@
         "md5": "c33cd926e1e71f39f7238af7b9e0dc5c",
         "sha1": "168dd383edd88a921d25cf7eaeb18b2da29c744a",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "5F2C9E5E39AB09311D96E6C751184B6B": {
         "name": "Toy Story 2 - Buzz Lightyear to the Rescue! (Europe)",
@@ -7663,7 +7814,8 @@
         "md5": "b44e9c2d9d2f2de3af4793b824ccf936",
         "sha1": "982ad2e1e44c6662c88a77367bc5df91c51531bf",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "CD61A7FDBD7297733B246204E8360D83": {
         "name": "Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1)",
@@ -7679,7 +7831,8 @@
         "size": 12582912,
         "md5": "3f40f37b0464dd065067523fb21016dd",
         "sha1": "f8fbb100227015be8629243f53d70f29a2a14315",
-        "system": "N64"
+        "system": "N64",
+        "region": "GER"
     },
     "A4A2B825797E2059B5DF60D733461F34": {
         "name": "Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany) (Rev 1)",
@@ -7729,7 +7882,8 @@
         "size": 33636352,
         "md5": "5ba3aa2953c47c8b2e615b21e60f2f17",
         "sha1": "5b9b53c4d93cf16a73903cfef7fbeb845f10c2e5",
-        "system": "N64"
+        "system": "N64",
+        "region": "CHN"
     },
     "548FC0E6035B65BC2108255039859934": {
         "name": "Turok - Dinosaur Hunter (Europe) (Rev 2)",
@@ -7755,21 +7909,24 @@
         "md5": "13faa58604597e4edc608070f8e0ae24",
         "sha1": "88916d5d2e2470f395ad8f4245d34138ef2d156a",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "992BA72F4A1E9C51934FF345CDD0D90C": {
         "name": "Turok - Dinosaur Hunter (Europe) (Rev 1)",
         "size": 8388608,
         "md5": "992ba72f4a1e9c51934ff345cdd0d90c",
         "sha1": "90809f3d30bf085f5eacbd12136672216aa7b88b",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "0C0BFD1038EDA4F5C958DC362CDFF2D6": {
         "name": "Turok - Dinosaur Hunter (Germany)",
         "size": 8388608,
         "md5": "0c0bfd1038eda4f5c958dc362cdff2d6",
         "sha1": "698760178edfbb8293a536d4960aa9566f1a1871",
-        "system": "N64"
+        "system": "N64",
+        "region": "GER"
     },
     "AE5107EFDD3C210E1EDD4ACD9B3CAC31": {
         "name": "Turok - Dinosaur Hunter (USA)",
@@ -7777,14 +7934,16 @@
         "md5": "ae5107efdd3c210e1edd4acd9b3cac31",
         "sha1": "40fb0250c095740031278fb1f82b9937a3895e01",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "37260287D59FE4EC6049C1D22B5614E6": {
         "name": "Turok - Dinosaur Hunter (USA) (Rev 1)",
         "size": 8388608,
         "md5": "37260287d59fe4ec6049c1d22b5614e6",
         "sha1": "6e67dcb49f700f01b18b7b4fd9aeb6bd911f1850",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "039875B92C0E4FEF9797EC1744877B17": {
         "name": "Turok - Dinosaur Hunter (USA) (Rev 2)",
@@ -7800,7 +7959,8 @@
         "md5": "388440013641887d85b791cf01729fa8",
         "sha1": "803bbc3cb2663aa24a88ec277d93c8ddd4ec34e3",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "GER"
     },
     "F0F687B449A9F4B0BFF08104C35EA08C": {
         "name": "Turok - Dinosaur Hunter (Germany) (Rev 2)",
@@ -7843,7 +8003,8 @@
         "size": 8388608,
         "md5": "cf5b28578fd62fa1ff8690079f5d68f5",
         "sha1": "9f8cb190831945f6f707aa8c2b20e04fa4276795",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "9B2FFE72080B03A5F92EB87EA849CAC4": {
         "name": "Turok - Rage Wars (USA) (Rev 1)",
@@ -7878,7 +8039,8 @@
         "md5": "ce72237707f481cfe97fde330c2afcd6",
         "sha1": "bfc04b6c5c300d39bbabe0b42227aef45cc41d3f",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "B932116C967795076B5C112841AB4427": {
         "name": "Turok 2 - Seeds of Evil (Germany)",
@@ -7895,7 +8057,8 @@
         "md5": "fad4da8e17ce12f68cdf29180cdd4a90",
         "sha1": "fb0400f21e3f043939ab56500c7b12a3231006f1",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "3BD42F6AEC477C056E1AFEBB3515495C": {
         "name": "Turok 2 - Seeds of Evil (USA) (Demo) (Kiosk)",
@@ -7903,7 +8066,8 @@
         "md5": "3bd42f6aec477c056e1afebb3515495c",
         "sha1": "68d1c5b79cc243804fce3c993d9c93a10a58cab8",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "166221365DB70D446C4206083D422DD1": {
         "name": "Turok 2 - Seeds of Evil (USA) (Rev 1)",
@@ -7945,7 +8109,8 @@
         "size": 33554432,
         "md5": "c38acbae773cc3845ea354421e171998",
         "sha1": "22bd7985055c08da0d9885772fe65c2f78a5f9ac",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "03D17AA3DC7663502017D3CC5A19AA8B": {
         "name": "Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-05-31)",
@@ -7953,14 +8118,16 @@
         "md5": "03d17aa3dc7663502017d3cc5a19aa8b",
         "sha1": "df10c5d421aeab2af438648588600839cd82b5e0",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "69CE88C46A7C829C6F54004DE93EFCEF": {
         "name": "Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-06-06)",
         "size": 33554432,
         "md5": "69ce88c46a7c829c6f54004de93efcef",
         "sha1": "08ec9170b67afe259104977def70fbcc706729f9",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "420C9FDBAE15767C5E584070209FF253": {
         "name": "Twisted Edge - Snowboarding (Europe)",
@@ -8148,7 +8315,8 @@
         "md5": "5f1906df4eb30537c2ac2fcbd005907d",
         "sha1": "a06f905f4466637012adb5eb56ccdcbee2e7ac72",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "DD8154D507C88694AFD69C7AF16A8CD6": {
         "name": "Waialae Country Club - True Golf Classics (USA)",
@@ -8156,7 +8324,8 @@
         "md5": "dd8154d507c88694afd69c7af16a8cd6",
         "sha1": "f8609f518d60c87cb6a4e257633e8a1be957311c",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "67F75C4DD30922A001C8C32AEB9333AC": {
         "name": "Waialae Country Club - True Golf Classics (USA) (Rev 1)",
@@ -8198,7 +8367,8 @@
         "size": 8159232,
         "md5": "1f83663b2c84512fc3706a6cacc1a9f3",
         "sha1": "19c2e84440ebec5b6a349ec96cdc629e03491a19",
-        "system": "N64"
+        "system": "N64",
+        "region": "CHN"
     },
     "B32E555BC1A375256E8A4021A25339BE": {
         "name": "Wave Race 64 - Kawasaki Jet Ski (Japan)",
@@ -8206,7 +8376,8 @@
         "md5": "b32e555bc1a375256e8a4021a25339be",
         "sha1": "05d40e57c9cb29a8992595afdde6653936e16729",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "FF67DF97476C210D158779AE6142F239": {
         "name": "Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition)",
@@ -8222,7 +8393,8 @@
         "size": 8388608,
         "md5": "ae480013f39d4aec86eea1b4995600d1",
         "sha1": "887ab588c2ecc64c52fb2065f06b0a1ee4af13dc",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "2048A640C12D1CF2052BA1629937D2FF": {
         "name": "Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1)",
@@ -8239,7 +8411,8 @@
         "md5": "d05c6f3caf9059b306cc13535e2a8ba6",
         "sha1": "4b6cd84b40dd2f4fbe55c6e10f298f33f9184a9a",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "JPN"
     },
     "319816AAA30E512827BE7B7F81F80D86": {
         "name": "Wayne Gretzky's 3D Hockey (Europe) (En,Fr,De,Es)",
@@ -8264,7 +8437,8 @@
         "size": 8388608,
         "md5": "6df0d6259261d0096c90bbc6aa037d8e",
         "sha1": "400aa84811f1f2f6c62c756b43b54d534d5a5ec8",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "04E650B7742A69DAE98F125D1B492D78": {
         "name": "Wayne Gretzky's 3D Hockey (USA) (Rev 1)",
@@ -8338,7 +8512,8 @@
         "size": 12582912,
         "md5": "203c3bbfdd10c5a0b7c5d0cdb085d853",
         "sha1": "5ad2d8359058c8bb71f08e3d3433b7a50d3bb645",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "B7A220B59303D47F3BEAE233CA868CFD": {
         "name": "WCW vs. nWo - World Tour (USA) (Rev 1)",
@@ -8432,7 +8607,8 @@
         "md5": "7260da1cecd0d8844c5e29aa63476def",
         "sha1": "a05a1f4c9f4ee67159db0cd15c37e05f255d35d0",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "0FF1F8628D8FE69582DB54572D2BEA79": {
         "name": "Wonder Project J2 - Koruro no Mori no Jozet (Japan)",
@@ -8534,14 +8710,16 @@
         "md5": "d94a8f78178473d4ba4bed62fa8e2e66",
         "sha1": "15ad0a48dbb2da32b39601e6bfb5d7b381853529",
         "status": "verified",
-        "system": "N64"
+        "system": "N64",
+        "region": "EUR"
     },
     "04C492BE7F89FC6F425238BD67629544": {
         "name": "WWF No Mercy (USA)",
         "size": 33554432,
         "md5": "04c492be7f89fc6f425238bd67629544",
         "sha1": "3566d9b5723291937582453ad0453ce517cfc358",
-        "system": "N64"
+        "system": "N64",
+        "region": "USA"
     },
     "66B8EC24557A50514A814F15429BD559": {
         "name": "WWF No Mercy (USA) (Rev 1)",
@@ -8649,14 +8827,16 @@
         "size": 196608,
         "md5": "df8164da753c9ef0b7c2611f584e81a9",
         "sha1": "9c9635ba9f35f01a55a92153987d831113d454d3",
-        "system": "N64"
+        "system": "N64",
+        "region": "CHN"
     },
     "D6778D9D560DEC35D8C05AF4738E27AA": {
         "name": "Yaoxi Gushi (China) (v4) (iQue) (Manual)",
         "size": 245760,
         "md5": "d6778d9d560dec35d8c05af4738e27aa",
         "sha1": "7eca70394a089f4058b67b1678e3f33c75fae738",
-        "system": "N64"
+        "system": "N64",
+        "region": "CHN"
     },
     "2524E5FB8ED4BB8C831C5AC057E8F344": {
         "name": "Yoshi's Story (Europe) (En,Fr,De)",
@@ -8672,7 +8852,8 @@
         "size": 16023552,
         "md5": "f7aa4f819f41cb4236792a8145684627",
         "sha1": "f04aabaca4d107f3ce35ed234698d30a79394431",
-        "system": "N64"
+        "system": "N64",
+        "region": "CHN"
     },
     "DD8A0E5472F13EA87B176F0155FA0C66": {
         "name": "Yoshi Story (Japan)",
@@ -8713,7 +8894,8 @@
         "size": 278528,
         "md5": "9729a68f40f197d4d040fa641ff099e7",
         "sha1": "b5ed1ed47e0876bbc0eeb10f5ccc28cd31bed0fa",
-        "system": "N64"
+        "system": "N64",
+        "region": "CHN"
     },
     "D9597922207298A87FA46878C017E6DA": {
         "name": "Zhi Pian Mario (China) (v4) (iQue) (Manual)",
@@ -8728,7 +8910,8 @@
         "size": 376832,
         "md5": "c4d652425aa4f2fc1d12564df01f8a04",
         "sha1": "5dc7d52a4545eeb9daddcae110a60e7e488d755a",
-        "system": "N64"
+        "system": "N64",
+        "region": "CHN"
     },
     "692A33B0D7456FC733A81AB83C20382B": {
         "name": "Zool - Majuu Tsukai Densetsu (Japan)",
